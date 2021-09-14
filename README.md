@@ -1,9 +1,9 @@
-# awesome-ethereum
-Awesome Ethereum & Dapps Resources
-![Awesome Ethereum](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome Ethereum")
+# awesome-dot.com
+Awesome-dot.com & Polkadot Resources
+![Awesome-dot.com](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome-dot.com")
 
 
-#### About Ethereum
+#### About awesome-dot.com 
 
 - [Ethereum](https://ethereum.org/)
 - [What is Ethereum ? ](https://www.youtube.com/watch?v=j23HnORQXvs)
