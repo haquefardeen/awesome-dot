@@ -1,35 +1,36 @@
-# awesome-dot.com
+# awesome-dot.com 
+Awesome Dot is a list that curates the best resources,learning,blog around the Polkadot ecosystem
 Awesome-dot.com & Polkadot Resources
 ![Awesome-dot.com](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome-dot.com")
 
 
-#### About awesome-dot.com 
+#### Categories awesome-dot.com 
 
-- [Ethereum](https://ethereum.org/)
-- [What is Ethereum ? ](https://www.youtube.com/watch?v=j23HnORQXvs)
-- [Github Wiki](https://github.com/ethereum/wiki/wiki)
-- [Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
-- [Blog](https://blog.ethereum.org/)
-- [Reddit](https://www.reddit.com/r/ethereum/)
-- [Youtube](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
-- [Twitter](https://twitter.com/ethereumproject)
-- [Facebook](https://www.facebook.com/ethereumproject)
-- [Forum](https://forum.ethereum.org/)
-- [Github / Source codes](https://github.com/ethereum)
-- [Read the full user guide](https://ethereum.gitbooks.io/frontier-guide/content/)
-- [Meetups](http://www.meetup.com/topics/ethereum/)
-- [IRC, Skype & Gitter channels ](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
-- [Ethstats](https://ethstats.net/)
-- [Ethereum Price](http://ethereumprice.org/)
-
+- [Blockchain](https://ethereum.org/)
+- [Cryptocurrency? ](https://www.youtube.com/watch?v=j23HnORQXvs)
+- [What is Blockchain](https://github.com/ethereum/wiki/wiki)
+- [What is cryptocurrency](https://en.wikipedia.org/wiki/Ethereum)
+- [Polkadot](https://blog.ethereum.org/)
+- [What is polkadot](https://www.reddit.com/r/ethereum/)
+- [Polkadot wiki](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
+- [Polkadot Docs](https://twitter.com/ethereumproject)
+- [Video](https://www.facebook.com/ethereumproject)
+- [Tutorial](https://forum.ethereum.org/)
+- [Blog](https://github.com/ethereum)
+- [Kusama](https://ethereum.gitbooks.io/frontier-guide/content/)
+- [Price of kusama](http://www.meetup.com/topics/ethereum/)
+- [Governance](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
+- [Blog & Articles Thread](https://ethstats.net/)
 
 
-#### Market Information
 
-- [Ethereum on Blockmodo](https://blockmodo.com/quotes/ETH)
-- [Ethereum on CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/)
-- [Ethereum Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/ETH.registry.json)
-- [Ethereum on Coinsamba](https://coinsamba.com/pt/bestprice/ETH-USD)
+
+#### Tools
+
+- [Crowdloan KSM](https://blockmodo.com/quotes/ETH)
+- [DotParachain](https://coinmarketcap.com/currencies/ethereum/)
+- [dot treasury](https://github.com/Blockmodo/coin_registry/blob/master/coins/ETH.registry.json)
+- [polkassembly](https://coinsamba.com/pt/bestprice/ETH-USD)
 
 #### Videos
 
