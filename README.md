@@ -1,8 +1,7 @@
 # awesome-dot.com 
 Awesome Dot is a list that curates the best resources,learning,blog around the Polkadot ecosystem
 Awesome-dot.com & Polkadot Resources
-![Awesome-dot.com](https://www.dropbox.com/s/3wybtpks1cx94k4/ethereum.jpg?raw=1 "Awesome-dot.com")
-
+![Awesome-dot.com](https://polkadot.network/content/images/2020/06/Polkadot_OG.png)
 
 #### Categories awesome-dot.com 
 
