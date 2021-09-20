@@ -31,27 +31,14 @@ Awesome Dot is a list that curates the best resources,learning,blog around the P
 
 #### Videos
 
-- [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI)
-- [Devcon2 2016](https://www.youtube.com/playlist?list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-- [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-- [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
-- [Ethereum Online Courses at Classpert](https://classpert.com/ethereum)
+- 
 
 
 #### Tools
-- [Etherscan: Blockchain Explorer](https://etherscan.io)
-- [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
-- [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
-- [DeBank: Browser Based DeFi Wallet and DeFi analytics](https://debank.com/)
+- 
 
 #### Developer Tools
-- [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
-- [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
-- [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
-- [One Click Dapp: FOSS tool for creating dapp frontends from an ABI.](https://oneclickdapp.com)
-- [Etherflow: A FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser.](https://etherflow.quiknode.io/)
-- [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
-
+- 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
 - [Using the Wallet part 2: build a Democratic Autonomous Organisation](https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/)
@@ -79,6 +66,4 @@ Awesome Dot is a list that curates the best resources,learning,blog around the P
 
 
 #### Related Resources
-- [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
-- [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
-- [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
+
