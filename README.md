@@ -43,6 +43,8 @@ Awesome Dot is a list that curates the best resources,learning,blog around the P
 - 
 
 #### Developer Tools
+
+#### Wallet
 - 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
