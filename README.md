@@ -14,10 +14,18 @@ Awesome Dot is a list that curates the best resources,learning,blog around the P
 - [Video](https://www.facebook.com/ethereumproject)
 - [Tutorial](https://forum.ethereum.org/)
 - [Blog](https://github.com/ethereum)
+
+#### About Kusama
+
 - [Kusama](https://ethereum.gitbooks.io/frontier-guide/content/)
 - [Price of kusama](http://www.meetup.com/topics/ethereum/)
 - [Governance](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
 - [Blog & Articles Thread](https://ethstats.net/)
+
+
+#### Translation of Polkadot and Kusama
+
+
 
 
 
