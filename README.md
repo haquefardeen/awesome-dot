@@ -87,3 +87,23 @@ Awesome Dot is a list that curates the best resources,learning,blog around the P
 
 #### Related Resources
 
+
+#### Translation
+
+- [PORTUGUESE](https://www.youtube.com/channel/UCDoiX3VhkSZGauEoxHW5Mug)
+
+
+
+#### SPANISH
+- (https://www.youtube.com/channel/UCwN_l3gIBmM1esufGlqd3Mg/about)
+
+
+
+#### THAI 
+  - (https://www.youtube.com/channel/UC69zXVA_iyrnVZxH3TvuGcw/featured)
+  
+
+#### RUSSIAN
+
+  - [Cryptor](https://www.youtube.com/c/Cryptor/about)
+  
