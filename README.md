@@ -45,11 +45,11 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 
 #### Exploration websites
 
-- [Crowdloan KSM](https://blockmodo.com/quotes/ETH)
-- [DotParachain](https://coinmarketcap.com/currencies/ethereum/)
-- [dot treasury](https://github.com/Blockmodo/coin_registry/blob/master/coins/ETH.registry.json)
-- [polkassembly]()
-
+- [Crowdloan KSM]()
+- [DotParachain](https://parachains.info/#!)
+- [dot treasury](https://www.dotreasury.com/)
+- [polkassembly](https://polkadot.polkassembly.io/)
+- [Crowdloan KSM](
 
 
 
@@ -65,8 +65,8 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 
 #### Jobs 
 
-- https://ksmjobs.net/ - A website that is based on the Kusama network where you will get the job updates 
-- https://dotjobs.net/ - 
+- https://ksmjobs.net/ - Jobs to find on Kusama based network 
+- https://dotjobs.net/ - Jobs to find on Polkadot based ecosystem
 
 #### Developer Tools
 
@@ -86,11 +86,11 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 
 #### Youtube channels that are translating the content of Polkadot
 
-- [Polkadot Portugese] (https://www.youtube.com/channel/UCDoiX3VhkSZGauEoxHW5Mug)
-- Polkadot Spanish   (https://www.youtube.com/channel/UCwN_l3gIBmM1esufGlqd3Mg/about)
-- Polkadot Thai     (https://www.youtube.com/channel/UC69zXVA_iyrnVZxH3TvuGcw/featured)
-- Polkadot India   (https://www.youtube.com/channel/UCcwgYSGyjdan9Ul0AFpuwPA)
-- Polkadot Russian (https://www.youtube.com/c/Cryptor/about)
+- [Polkadot Portugese](https://www.youtube.com/channel/UCDoiX3VhkSZGauEoxHW5Mug)
+- [Polkadot Spanish](https://www.youtube.com/channel/UCwN_l3gIBmM1esufGlqd3Mg/about)
+- [Polkadot Thai](https://www.youtube.com/channel/UC69zXVA_iyrnVZxH3TvuGcw/featured)
+- [Polkadot India](https://www.youtube.com/channel/UCcwgYSGyjdan9Ul0AFpuwPA)
+- [Polkadot Russian](https://www.youtube.com/c/Cryptor/about)
   
 
 
