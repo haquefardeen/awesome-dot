@@ -86,7 +86,7 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 
 #### Youtube channels that are translating the content of Polkadot
 
-- Polkadot Portugese (https://www.youtube.com/channel/UCDoiX3VhkSZGauEoxHW5Mug)
+- [Polkadot Portugese] (https://www.youtube.com/channel/UCDoiX3VhkSZGauEoxHW5Mug)
 - Polkadot Spanish   (https://www.youtube.com/channel/UCwN_l3gIBmM1esufGlqd3Mg/about)
 - Polkadot Thai     (https://www.youtube.com/channel/UC69zXVA_iyrnVZxH3TvuGcw/featured)
 - Polkadot India   (https://www.youtube.com/channel/UCcwgYSGyjdan9Ul0AFpuwPA)
