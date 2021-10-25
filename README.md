@@ -1,7 +1,7 @@
 # awesome-dot.com 
-Awesome Dot is a list that curates the best resources, projects andlearning around the Polkadot ecosystem.
+#### Awesome Dot is a list that curates the best resources, projects andlearning around the Polkadot ecosystem.
 
-![Awesome-dot.com](https://polkadot.network/content/images/2020/06/Polkadot_OG.png)
+![Awesome-dot.com](https://imgur.com/xMLaStvs.png)
 
 #### About Polkadot 
 
@@ -14,18 +14,9 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
 - [Video](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
 
-#### Polkadot - Projects
+#### Projects
 
--
-
-
-
-#### Polkadot White Paper
-
-
-
-
-
+#### Whitepaper
 
 #### About Kusama
 
@@ -33,15 +24,7 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 - [Governance](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
 - [Youtube](https://ethstats.net/)
 
-#### Parachains on Kusama Network
-
--
--
-
-
-
-
-
+#### Kusama Parachains
 
 #### Exploration websites
 
@@ -49,16 +32,8 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 - [DotParachain](https://parachains.info/#!)
 - [dot treasury](https://www.dotreasury.com/)
 - [polkassembly](https://polkadot.polkassembly.io/)
-- [Crowdloan KSM](
 
-
-
-
-##### Youtube channels to learn about Polkadot
-
-
-- 
-
+##### Learning
 
 #### Tools
 
@@ -70,19 +45,11 @@ Awesome Dot is a list that curates the best resources, projects andlearning arou
 
 #### Developer Tools
 
-#### Wallet
-
-
-#### Best Blogs & Article threads
+#### Wallets
  
-
-
-#### DAPPS
-
-
+#### Dapps
 
 #### Related Resources
-
 
 #### Youtube channels that are translating the content of Polkadot
 
