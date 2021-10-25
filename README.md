@@ -1,5 +1,5 @@
 # awesome-dot.com 
-#### Awesome Dot is a list that curates the best resources, projects andlearning around the Polkadot ecosystem.
+#### Awesome Dot is a list that curates the best resources, projects and learning around the Polkadot ecosystem.
 
 ![Awesome-dot.com](https://imgur.com/xMLaStv.png)
 
@@ -20,16 +20,16 @@
 
 #### About Kusama
 
-- [Kusama]()
-- [Governance](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
-- [Youtube](https://ethstats.net/)
+- [Kusama](https://kusama.network/)
+- [Kusama Guide](https://guide.kusama.network/docs/kusama-claims/)
+- [Youtube](https://www.youtube.com/c/KusamaNetwork)
 
 #### Kusama Parachains
 
 #### Exploration websites
 
 - [Crowdloan KSM]()
-- [DotParachain](https://parachains.info/#!)
+- [DotParachain](https://parachains.info/#!) - 
 - [dot treasury](https://www.dotreasury.com/)
 - [polkassembly](https://polkadot.polkassembly.io/)
 
