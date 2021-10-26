@@ -29,7 +29,7 @@
 #### Exploration websites
 
 - [Crowdloan KSM](https://www.crowdloanksm.com/)- A single page where you will get every active data about the crowdloans based on Kusama network
-- [DotParachain](https://parachains.info/#!) - 
+- [DotParachain](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every details.
 - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to vote and discuss governance proposals, motions, and referenda.
 
@@ -40,8 +40,8 @@
 
 #### Jobs 
 
-- https://ksmjobs.net/ - Jobs to find on Kusama based network 
-- https://dotjobs.net/ - Jobs to find on Polkadot based ecosystem
+- [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network 
+- [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem
 
 #### Developer Tools
 
