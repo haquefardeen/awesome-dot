@@ -28,10 +28,10 @@
 
 #### Exploration websites
 
-- [Crowdloan KSM]()
+- [Crowdloan KSM](https://www.crowdloanksm.com/)- A single page where you will get every active data about the crowdloans based on Kusama network
 - [DotParachain](https://parachains.info/#!) - 
-- [dot treasury](https://www.dotreasury.com/)
-- [polkassembly](https://polkadot.polkassembly.io/)
+- [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every details.
+- [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to vote and discuss governance proposals, motions, and referenda.
 
 ##### Learning
 
