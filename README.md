@@ -99,6 +99,8 @@
 - [Fearless.io](https://fearlesswallet.io/)
 - [Polkawallet](https://polkawallet.io/)
 - [Parity Signer](https://www.parity.io/technologies/signer/)
+- [Fractapp](https://www.fractapp.com/)
+
 
  
 
