@@ -45,9 +45,14 @@
 - Blogs and Article
 
    -  [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
+   -  [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
+   -  [Hold Polkadot](https://www.holdpolkadot.com)- This website tells the importance of Polkadot by giving very good infographics.
+   -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot
    -  
 
 #### Tools
+- [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
+- [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
 
 
 #### Jobs 
