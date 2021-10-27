@@ -31,6 +31,7 @@
 - [Sakura](https://clover.finance/sakura)- Platform built for cross-chain DeFi on Kusama
 - [Karura](https://acala.network/karura)- The all-in-one DeFi hub of Kusama
 - [Bitfrost Finance](https://bifrost.finance/)-DeFi and Staking service for PoS tokens
+- [Shiden Network](https://shiden.astar.network/)- A multi-chain decentralized application layer on Kusama Network.
 
 
 #### Exploration websites
@@ -60,13 +61,15 @@
    -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot.
    -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
    -  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
+   -  
  
 
 
 -  Youtube sessions 
 
    - [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI) - Kirill talks about Web3's vision and give a brief summary about Polkadot.
-   - [Polkadot Catalan](https://www.youtube.com/watch?v=CCgEA_CTRNI)- A session in Spanish on the history of blockchain tech, Kusama & Polkadot ecosystem
+   - [Polkadot Catalan](https://www.youtube.com/watch?v=CCgEA_CTRNI)- A session in Spanish on the history of blockchain tech, Kusama & Polkadot ecosystem.
+   - [Polkadot India](https://www.youtube.com/watch?v=uCp7mB8sEQY)- A session on Polkadot, how does it work and key points to develop in Polkadot.
     
 
 #### Tools
@@ -74,6 +77,9 @@
 - [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
 - [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
 - [Dot Scanner](https://dotscanner.com/)- Blockchain explorer for Polkadot, Kusama, and other substrate-based networks.
+- [Crypto Lab Network](https://www.cryptolab.network/tools)- A simple, easy-to-use staking service for Polkadot and Kusama HODLers.
+- [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor)- Ironoa developed a monitoring and alerting tool for nodes and validators.
+- 
 
 
 
@@ -94,7 +100,9 @@
 
 #### Related Resources
 
-- [Promoteam 3D](https://readymag.com/joaji/parachain/)- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community 
+- [Promoteam 3D](https://readymag.com/joaji/parachain/)- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community
+- [Anaelleltd](https://anaelleltd.github.io/substrate4/)- A curated list of Substrate-related resources.
+- 
 
 #### Youtube channels that are translating the content of Polkadot
 
