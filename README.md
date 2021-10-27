@@ -32,10 +32,20 @@
 - [DotParachain](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every details.
 - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to vote and discuss governance proposals, motions, and referenda.
-- 
+- [talkpolkadot]( https://talkpolkadot.com/)- A media media site dedicated to sharing information on Polkadot related, projects, technology, media and events. 
 
 ##### Learning
-* Youtube 
+- Youtube 
+  
+  -  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
+  -  [Jay Chrawna](https://youtube.com/c/JayChrawnna) - Jay helps the user by teaching them about governance and everything related to Polkadot.
+  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities                                                                                  going in Kusama ecosystem.
+
+
+- Blogs and Article
+
+   -  [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
+   -  
 
 #### Tools
 
