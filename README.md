@@ -17,6 +17,8 @@
 
 #### Whitepaper
 - [Hindi Language](https://bit.ly/3BxMBGf)
+- [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
+
  
 
 #### About Kusama
@@ -61,6 +63,8 @@
    -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot.
    -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
    -  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
+   -  [Learn Polkadot](https://learnpolkadot.com/)- A community hosted, curated and maintained Polkadot hub.
+   -  
    -  
  
 
@@ -104,6 +108,8 @@
 - [Anaelleltd](https://anaelleltd.github.io/substrate4/)- A curated list of Substrate-related resources.
 - [ZKKnowledge Podcast](https://zeroknowledge.fm/171-2/)- Podcast on Mapping the Polkadot Ecosystem.
 - [Polkadot Comics](https://twitter.com/PolkadotComics)- A visual guide for Polkadot and parachains.
+- [Polkadot in 3D](https://hive.blog/polkadot/@the-jedi/the-polkadot-network-in-3d)- For 3D Visualization of Polkadot.
+
 
 
 
