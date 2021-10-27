@@ -54,12 +54,13 @@
    -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot.
    -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
    -  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
-   -   
-   -  
+ 
 
 
 - Youtube sessions 
 
+- [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI) - Kirill talks about Web3's vision and give a brief summary about Polkadot.
+- 
 - 
 
 #### Tools
@@ -82,6 +83,8 @@
 #### Dapps
 
 #### Related Resources
+
+- [Promoteam 3D](https://readymag.com/joaji/parachain/)- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community 
 
 #### Youtube channels that are translating the content of Polkadot
 
