@@ -32,8 +32,10 @@
 - [DotParachain](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every details.
 - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to vote and discuss governance proposals, motions, and referenda.
+- 
 
 ##### Learning
+* Youtube 
 
 #### Tools
 
