@@ -79,7 +79,7 @@
 - [Dot Scanner](https://dotscanner.com/)- Blockchain explorer for Polkadot, Kusama, and other substrate-based networks.
 - [Crypto Lab Network](https://www.cryptolab.network/tools)- A simple, easy-to-use staking service for Polkadot and Kusama HODLers.
 - [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor)- Ironoa developed a monitoring and alerting tool for nodes and validators.
-- 
+- [Session Key Finder](https://paranodes.io/SessionKeys)- Session key finder for any stash address.
 
 
 
@@ -102,7 +102,10 @@
 
 - [Promoteam 3D](https://readymag.com/joaji/parachain/)- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community
 - [Anaelleltd](https://anaelleltd.github.io/substrate4/)- A curated list of Substrate-related resources.
-- 
+- [ZKKnowledge Podcast](https://zeroknowledge.fm/171-2/)- Podcast on Mapping the Polkadot Ecosystem.
+- [Polkadot Comics](https://twitter.com/PolkadotComics)- A visual guide for Polkadot and parachains.
+
+
 
 #### Youtube channels that are translating the content of Polkadot
 
