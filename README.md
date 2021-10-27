@@ -17,6 +17,8 @@
 #### Projects
 
 #### Whitepaper
+- [Hindi Language](https://bit.ly/3BxMBGf)
+- 
 
 #### About Kusama
 
@@ -32,7 +34,9 @@
 - [DotParachain](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every details.
 - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to vote and discuss governance proposals, motions, and referenda.
-- [talkpolkadot]( https://talkpolkadot.com/)- A media media site dedicated to sharing information on Polkadot related, projects, technology, media and events. 
+- [talkpolkadot]( https://talkpolkadot.com/)- A media media site dedicated to sharing information on Polkadot related, projects, technology, media and events.
+- [Polkadir](https://polkadir.com/)- Directory for Polkadot, Kusama and Substrate resources.
+-  
 
 ##### Learning
 - Youtube 
@@ -47,12 +51,23 @@
    -  [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
    -  [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
    -  [Hold Polkadot](https://www.holdpolkadot.com)- This website tells the importance of Polkadot by giving very good infographics.
-   -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot
+   -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot.
+   -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
+   -  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
+   -   
    -  
+
+
+- Youtube sessions 
+
+- 
 
 #### Tools
 - [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
 - [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
+- [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
+- [Dot Scanner](https://dotscanner.com/)- Blockchain explorer for Polkadot, Kusama, and other substrate-based networks.
+- 
 
 
 #### Jobs 
