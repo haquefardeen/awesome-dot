@@ -14,11 +14,10 @@
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
 - [Video](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
 
-#### Projects
 
 #### Whitepaper
 - [Hindi Language](https://bit.ly/3BxMBGf)
-- 
+ 
 
 #### About Kusama
 
@@ -26,7 +25,10 @@
 - [Kusama Guide](https://guide.kusama.network/docs/kusama-claims/)
 - [Youtube](https://www.youtube.com/c/KusamaNetwork)
 
-#### Kusama Parachains
+#### Substrate based projects on Kusama
+
+- 
+
 
 #### Exploration websites
 
@@ -36,7 +38,8 @@
 - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to vote and discuss governance proposals, motions, and referenda.
 - [talkpolkadot]( https://talkpolkadot.com/)- A media media site dedicated to sharing information on Polkadot related, projects, technology, media and events.
 - [Polkadir](https://polkadir.com/)- Directory for Polkadot, Kusama and Substrate resources.
--  
+- [Parastats](https://parastats.io/)- Listing of upcoming projects opting for a parachain on Kusama.
+
 
 ##### Learning
 - Youtube 
@@ -57,18 +60,18 @@
  
 
 
-- Youtube sessions 
+-  Youtube sessions 
 
-- [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI) - Kirill talks about Web3's vision and give a brief summary about Polkadot.
-- 
-- 
+   - [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI) - Kirill talks about Web3's vision and give a brief summary about Polkadot.
+   - [Polkadot Catalan](https://www.youtube.com/watch?v=CCgEA_CTRNI)- A session in Spanish on the history of blockchain tech, Kusama & Polkadot ecosystem
+    
 
 #### Tools
 - [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
 - [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
 - [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
 - [Dot Scanner](https://dotscanner.com/)- Blockchain explorer for Polkadot, Kusama, and other substrate-based networks.
-- 
+
 
 
 #### Jobs 
@@ -76,9 +79,14 @@
 - [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network 
 - [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem
 
-#### Developer Tools
+
 
 #### Wallets
+
+- [Fearless.io](https://fearlesswallet.io/)
+- [Polkawallet](https://polkawallet.io/)
+- [Parity Signer](https://www.parity.io/technologies/signer/)
+
  
 #### Dapps
 
