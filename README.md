@@ -107,7 +107,7 @@ Cryptonapa This channel brings comprehensive research on different crowd loan ne
 - [Polkawallet](https://polkawallet.io/)
 - [Parity Signer](https://www.parity.io/technologies/signer/)
 - [Fractapp](https://www.fractapp.com/)
-- [Talisman](https://app.talisman.xyz/)
+- [Talisman](https://app.talisman.xyz/)- The team is working on this and hopefully they will be launching soon.
 
 
 #### DApps
