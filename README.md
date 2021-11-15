@@ -14,6 +14,8 @@
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
 - [Video](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
 
+#### Polkadot parachain
+
 
 #### Whitepaper
 - [Hindi Language](https://bit.ly/3BxMBGf)
