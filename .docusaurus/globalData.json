@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tools",
+              "path": "/tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "whitepaper",
               "path": "/whitepaper",
               "sidebar": "tutorialSidebar"

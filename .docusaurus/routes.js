@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','383'),
+    component: ComponentCreator('/','bcb'),
     routes: [
       {
         path: '/',
@@ -135,6 +135,12 @@ export default [
       {
         path: '/learning',
         component: ComponentCreator('/learning','bf5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/tools',
+        component: ComponentCreator('/tools','a63'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

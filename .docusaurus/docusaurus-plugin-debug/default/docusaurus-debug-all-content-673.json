@@ -159,6 +159,30 @@
                 "permalink": "/kusama-projects"
               },
               "next": {
+                "title": "Tools",
+                "permalink": "/tools"
+              }
+            },
+            {
+              "unversionedId": "tools",
+              "id": "tools",
+              "isDocsHomePage": false,
+              "title": "Tools",
+              "description": "- Scout-by Polkachu- A Validator lookup tool that provides nominators very fast.",
+              "source": "@site/docs/tools.md",
+              "sourceDirName": ".",
+              "slug": "/tools",
+              "permalink": "/tools",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tools.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Learning",
+                "permalink": "/learning"
+              },
+              "next": {
                 "title": "Whitepaper",
                 "permalink": "/whitepaper"
               }
@@ -179,8 +203,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Learning",
-                "permalink": "/learning"
+                "title": "Tools",
+                "permalink": "/tools"
               }
             }
           ],
@@ -209,6 +233,10 @@
               {
                 "type": "doc",
                 "id": "learning"
+              },
+              {
+                "type": "doc",
+                "id": "tools"
               },
               {
                 "type": "doc",

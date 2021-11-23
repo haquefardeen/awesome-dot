@@ -1,12 +1,12 @@
 export default {
   "title": "Awesome Dot",
   "tagline": "An awesome repo around polkadot",
-  "url": "https://awesome-dot.com",
+  "url": "https://awesome-dot.netlify.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "Droidsize",
+  "organizationName": "awesomedot",
   "projectName": "awesome-dot",
   "presets": [
     [

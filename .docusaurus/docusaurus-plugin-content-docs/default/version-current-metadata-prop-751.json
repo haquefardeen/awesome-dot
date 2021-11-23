@@ -40,6 +40,11 @@
       },
       {
         "type": "link",
+        "label": "Tools",
+        "href": "/tools"
+      },
+      {
+        "type": "link",
         "label": "Whitepaper",
         "href": "/whitepaper"
       }

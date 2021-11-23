@@ -125,21 +125,21 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/-383": {
+  "/-bcb": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-96c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-0-e-3-18c"
+    "content": "content---0-e-3-279"
   },
   "/about-kusama-522": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-about-kusamac-34-fed"
+    "content": "content---about-kusamac-34-a08"
   },
   "/about-polkadot-913": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-about-polkadot-1-f-3-708"
+    "content": "content---about-polkadot-1-f-3-d91"
   },
   "/explore-a4a": {
     "component": "component---theme-doc-item-178-a40",
@@ -147,14 +147,18 @@
   },
   "/kusama-projects-66e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-kusama-projectsd-10-6c3"
+    "content": "content---kusama-projectsd-10-f4f"
   },
   "/learning-bf5": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---learning-384-c4d"
   },
+  "/tools-a63": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tools-2-b-7-b61"
+  },
   "/whitepaper-c99": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-whitepaperc-22-c44"
+    "content": "content---whitepaperc-22-263"
   }
 }
