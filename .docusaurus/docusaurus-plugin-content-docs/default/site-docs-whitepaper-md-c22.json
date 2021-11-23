@@ -1,0 +1,20 @@
+{
+  "unversionedId": "whitepaper",
+  "id": "whitepaper",
+  "isDocsHomePage": false,
+  "title": "Whitepaper",
+  "description": "- Hindi Language",
+  "source": "@site/docs/whitepaper.md",
+  "sourceDirName": ".",
+  "slug": "/whitepaper",
+  "permalink": "/whitepaper",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/whitepaper.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Learning",
+    "permalink": "/learning"
+  }
+}

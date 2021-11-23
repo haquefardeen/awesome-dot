@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Intro",
+  "description": "Awesome Dot is a list that curates the best resources, projects and learning around the Polkadot ecosystem.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "About Kusama",
+    "permalink": "/about-kusama"
+  }
+}

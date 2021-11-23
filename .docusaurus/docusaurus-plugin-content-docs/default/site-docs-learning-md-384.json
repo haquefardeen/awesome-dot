@@ -1,0 +1,24 @@
+{
+  "unversionedId": "learning",
+  "id": "learning",
+  "isDocsHomePage": false,
+  "title": "Learning",
+  "description": "- Youtube",
+  "source": "@site/docs/learning.md",
+  "sourceDirName": ".",
+  "slug": "/learning",
+  "permalink": "/learning",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Substrate based projects on Kusama",
+    "permalink": "/kusama-projects"
+  },
+  "next": {
+    "title": "Whitepaper",
+    "permalink": "/whitepaper"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "explore",
+  "id": "explore",
+  "isDocsHomePage": false,
+  "title": "Exploration websites",
+  "description": "- Crowdloan.me- A single page where you will get every active data about the crowdloans based on Kusama and Polkadot network",
+  "source": "@site/docs/explore.md",
+  "sourceDirName": ".",
+  "slug": "/explore",
+  "permalink": "/explore",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/explore.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About Polkadot",
+    "permalink": "/about-polkadot"
+  },
+  "next": {
+    "title": "Substrate based projects on Kusama",
+    "permalink": "/kusama-projects"
+  }
+}

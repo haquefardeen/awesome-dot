@@ -1,0 +1,24 @@
+{
+  "unversionedId": "about-polkadot",
+  "id": "about-polkadot",
+  "isDocsHomePage": false,
+  "title": "About Polkadot",
+  "description": "- Blockchain",
+  "source": "@site/docs/about-polkadot.md",
+  "sourceDirName": ".",
+  "slug": "/about-polkadot",
+  "permalink": "/about-polkadot",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/about-polkadot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About Kusama",
+    "permalink": "/about-kusama"
+  },
+  "next": {
+    "title": "Exploration websites",
+    "permalink": "/explore"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "about-kusama",
+  "id": "about-kusama",
+  "isDocsHomePage": false,
+  "title": "About Kusama",
+  "description": "- Kusama",
+  "source": "@site/docs/about-kusama.md",
+  "sourceDirName": ".",
+  "slug": "/about-kusama",
+  "permalink": "/about-kusama",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/about-kusama.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "About Polkadot",
+    "permalink": "/about-polkadot"
+  }
+}

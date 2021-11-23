@@ -1,0 +1,24 @@
+{
+  "unversionedId": "kusama-projects",
+  "id": "kusama-projects",
+  "isDocsHomePage": false,
+  "title": "Substrate based projects on Kusama",
+  "description": "- Moonriver- Solidity Smart Contracts on Kusama",
+  "source": "@site/docs/kusama-projects.md",
+  "sourceDirName": ".",
+  "slug": "/kusama-projects",
+  "permalink": "/kusama-projects",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kusama-projects.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exploration websites",
+    "permalink": "/explore"
+  },
+  "next": {
+    "title": "Learning",
+    "permalink": "/learning"
+  }
+}

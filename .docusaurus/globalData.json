@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "about-kusama",
+              "path": "/about-kusama",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "about-polkadot",
+              "path": "/about-polkadot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "explore",
+              "path": "/explore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "kusama-projects",
+              "path": "/kusama-projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "learning",
+              "path": "/learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "whitepaper",
+              "path": "/whitepaper",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

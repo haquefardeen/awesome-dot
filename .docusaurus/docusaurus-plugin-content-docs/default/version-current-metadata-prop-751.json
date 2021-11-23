@@ -1,0 +1,48 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Intro",
+        "href": "/"
+      },
+      {
+        "type": "link",
+        "label": "About Kusama",
+        "href": "/about-kusama"
+      },
+      {
+        "type": "link",
+        "label": "About Polkadot",
+        "href": "/about-polkadot"
+      },
+      {
+        "type": "link",
+        "label": "Exploration websites",
+        "href": "/explore"
+      },
+      {
+        "type": "link",
+        "label": "Substrate based projects on Kusama",
+        "href": "/kusama-projects"
+      },
+      {
+        "type": "link",
+        "label": "Learning",
+        "href": "/learning"
+      },
+      {
+        "type": "link",
+        "label": "Whitepaper",
+        "href": "/whitepaper"
+      }
+    ]
+  }
+}
