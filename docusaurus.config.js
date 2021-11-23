@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'Awesome Dot',
   tagline: 'An awesome repo around polkadot',
-  url: 'https://awesome-dot.com',
+  url: 'https://awesome-dot.netlify.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Droidsize', // Usually your GitHub org/user name.
+  organizationName: 'awesomedot', // Usually your GitHub org/user name.
   projectName: 'awesome-dot', // Usually your repo name.
 
   presets: [
