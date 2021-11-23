@@ -29,6 +29,7 @@
 - [Kusama Guide](https://guide.kusama.network/docs/kusama-claims/)
 - [Youtube](https://www.youtube.com/c/KusamaNetwork)
 
+
 #### Substrate based projects on Kusama
 
 - [Moonriver](https://moonbeam.network/networks/moonriver/)- Solidity Smart Contracts on Kusama
