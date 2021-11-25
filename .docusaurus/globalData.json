@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Dapps",
+              "path": "/Dapps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "explore",
               "path": "/explore",
               "sidebar": "tutorialSidebar"
@@ -28,6 +33,11 @@
             {
               "id": "intro",
               "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Jobs",
+              "path": "/Jobs",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,13 +51,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Related-Resources",
+              "path": "/Related-Resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tools",
               "path": "/tools",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Wallets",
+              "path": "/Wallets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "whitepaper",
               "path": "/whitepaper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Youtube Channels That Are Translating The Content of Polkadot",
+              "path": "/Youtube Channels That Are Translating The Content of Polkadot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "YouTube sessions",
+              "path": "/YouTube sessions",
               "sidebar": "tutorialSidebar"
             }
           ]

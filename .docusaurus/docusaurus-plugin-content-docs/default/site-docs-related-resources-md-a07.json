@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Related-Resources",
+  "id": "Related-Resources",
+  "isDocsHomePage": false,
+  "title": "Related-Resources",
+  "description": "- Promoteam 3D- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community",
+  "source": "@site/docs/Related-Resources.md",
+  "sourceDirName": ".",
+  "slug": "/Related-Resources",
+  "permalink": "/Related-Resources",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Related-Resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jobs",
+    "permalink": "/Jobs"
+  },
+  "next": {
+    "title": "Wallets",
+    "permalink": "/Wallets"
+  }
+}

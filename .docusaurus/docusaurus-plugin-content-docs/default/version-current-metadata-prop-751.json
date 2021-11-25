@@ -15,6 +15,36 @@
       },
       {
         "type": "link",
+        "label": "Dapps",
+        "href": "/Dapps"
+      },
+      {
+        "type": "link",
+        "label": "Jobs",
+        "href": "/Jobs"
+      },
+      {
+        "type": "link",
+        "label": "Related-Resources",
+        "href": "/Related-Resources"
+      },
+      {
+        "type": "link",
+        "label": "Wallets",
+        "href": "/Wallets"
+      },
+      {
+        "type": "link",
+        "label": "YouTube Sessions",
+        "href": "/YouTube sessions"
+      },
+      {
+        "type": "link",
+        "label": "Youtube Channels that are Translating the Content of Polkadot",
+        "href": "/Youtube Channels That Are Translating The Content of Polkadot"
+      },
+      {
+        "type": "link",
         "label": "About Kusama",
         "href": "/about-kusama"
       },

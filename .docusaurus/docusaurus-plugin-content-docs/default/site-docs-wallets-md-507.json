@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Wallets",
+  "id": "Wallets",
+  "isDocsHomePage": false,
+  "title": "Wallets",
+  "description": "- Fearless.io",
+  "source": "@site/docs/Wallets.md",
+  "sourceDirName": ".",
+  "slug": "/Wallets",
+  "permalink": "/Wallets",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Wallets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Related-Resources",
+    "permalink": "/Related-Resources"
+  },
+  "next": {
+    "title": "YouTube Sessions",
+    "permalink": "/YouTube sessions"
+  }
+}

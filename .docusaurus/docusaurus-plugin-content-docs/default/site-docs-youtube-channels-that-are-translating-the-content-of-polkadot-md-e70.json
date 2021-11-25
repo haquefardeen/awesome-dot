@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Youtube Channels That Are Translating The Content of Polkadot",
+  "id": "Youtube Channels That Are Translating The Content of Polkadot",
+  "isDocsHomePage": false,
+  "title": "Youtube Channels that are Translating the Content of Polkadot",
+  "description": "- Polkadot Portugese",
+  "source": "@site/docs/Youtube Channels That Are Translating The Content of Polkadot.md",
+  "sourceDirName": ".",
+  "slug": "/Youtube Channels That Are Translating The Content of Polkadot",
+  "permalink": "/Youtube Channels That Are Translating The Content of Polkadot",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Youtube Channels That Are Translating The Content of Polkadot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "YouTube Sessions",
+    "permalink": "/YouTube sessions"
+  },
+  "next": {
+    "title": "About Kusama",
+    "permalink": "/about-kusama"
+  }
+}

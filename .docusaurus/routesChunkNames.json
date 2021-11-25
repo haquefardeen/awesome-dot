@@ -125,7 +125,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/-bcb": {
+  "/-5b3": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -141,9 +141,17 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---about-polkadot-1-f-3-d91"
   },
+  "/Dapps-944": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dapps-611-001"
+  },
   "/explore-a4a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---explorec-18-ebc"
+  },
+  "/Jobs-ed5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---jobsb-99-89b"
   },
   "/kusama-projects-66e": {
     "component": "component---theme-doc-item-178-a40",
@@ -153,12 +161,28 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---learning-384-c4d"
   },
+  "/Related-Resources-c21": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---related-resourcesa-07-c81"
+  },
   "/tools-a63": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---tools-2-b-7-b61"
   },
+  "/Wallets-e60": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---wallets-507-6d6"
+  },
   "/whitepaper-c99": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---whitepaperc-22-263"
+  },
+  "/Youtube Channels That Are Translating The Content of Polkadot-64a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---youtube-channels-that-are-translating-the-content-of-polkadote-70-c07"
+  },
+  "/YouTube sessions-39e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---you-tube-sessions-9-db-a6e"
   }
 }

@@ -35,8 +35,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Intro",
-                "permalink": "/"
+                "title": "Youtube Channels that are Translating the Content of Polkadot",
+                "permalink": "/Youtube Channels That Are Translating The Content of Polkadot"
               },
               "next": {
                 "title": "About Polkadot",
@@ -68,6 +68,30 @@
               }
             },
             {
+              "unversionedId": "Dapps",
+              "id": "Dapps",
+              "isDocsHomePage": false,
+              "title": "Dapps",
+              "description": "- Sub.id- Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.",
+              "source": "@site/docs/Dapps.md",
+              "sourceDirName": ".",
+              "slug": "/Dapps",
+              "permalink": "/Dapps",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Dapps.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Jobs",
+                "permalink": "/Jobs"
+              }
+            },
+            {
               "unversionedId": "explore",
               "id": "explore",
               "isDocsHomePage": false,
@@ -96,7 +120,7 @@
               "id": "intro",
               "isDocsHomePage": false,
               "title": "Intro",
-              "description": "Awesome Dot is a list that curates the best resources, projects and learning around the Polkadot ecosystem.",
+              "description": "Awesome Dot is a list that curates the best resources, projects and learning in the Polkadot ecosystem.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -111,8 +135,32 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "About Kusama",
-                "permalink": "/about-kusama"
+                "title": "Dapps",
+                "permalink": "/Dapps"
+              }
+            },
+            {
+              "unversionedId": "Jobs",
+              "id": "Jobs",
+              "isDocsHomePage": false,
+              "title": "Jobs",
+              "description": "- KSMJobs - Jobs to find on Kusama based network",
+              "source": "@site/docs/Jobs.md",
+              "sourceDirName": ".",
+              "slug": "/Jobs",
+              "permalink": "/Jobs",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Jobs.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dapps",
+                "permalink": "/Dapps"
+              },
+              "next": {
+                "title": "Related-Resources",
+                "permalink": "/Related-Resources"
               }
             },
             {
@@ -164,6 +212,30 @@
               }
             },
             {
+              "unversionedId": "Related-Resources",
+              "id": "Related-Resources",
+              "isDocsHomePage": false,
+              "title": "Related-Resources",
+              "description": "- Promoteam 3D- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community",
+              "source": "@site/docs/Related-Resources.md",
+              "sourceDirName": ".",
+              "slug": "/Related-Resources",
+              "permalink": "/Related-Resources",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Related-Resources.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Jobs",
+                "permalink": "/Jobs"
+              },
+              "next": {
+                "title": "Wallets",
+                "permalink": "/Wallets"
+              }
+            },
+            {
               "unversionedId": "tools",
               "id": "tools",
               "isDocsHomePage": false,
@@ -188,6 +260,30 @@
               }
             },
             {
+              "unversionedId": "Wallets",
+              "id": "Wallets",
+              "isDocsHomePage": false,
+              "title": "Wallets",
+              "description": "- Fearless.io",
+              "source": "@site/docs/Wallets.md",
+              "sourceDirName": ".",
+              "slug": "/Wallets",
+              "permalink": "/Wallets",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Wallets.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Related-Resources",
+                "permalink": "/Related-Resources"
+              },
+              "next": {
+                "title": "YouTube Sessions",
+                "permalink": "/YouTube sessions"
+              }
+            },
+            {
               "unversionedId": "whitepaper",
               "id": "whitepaper",
               "isDocsHomePage": false,
@@ -206,6 +302,54 @@
                 "title": "Tools",
                 "permalink": "/tools"
               }
+            },
+            {
+              "unversionedId": "Youtube Channels That Are Translating The Content of Polkadot",
+              "id": "Youtube Channels That Are Translating The Content of Polkadot",
+              "isDocsHomePage": false,
+              "title": "Youtube Channels that are Translating the Content of Polkadot",
+              "description": "- Polkadot Portugese",
+              "source": "@site/docs/Youtube Channels That Are Translating The Content of Polkadot.md",
+              "sourceDirName": ".",
+              "slug": "/Youtube Channels That Are Translating The Content of Polkadot",
+              "permalink": "/Youtube Channels That Are Translating The Content of Polkadot",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Youtube Channels That Are Translating The Content of Polkadot.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "YouTube Sessions",
+                "permalink": "/YouTube sessions"
+              },
+              "next": {
+                "title": "About Kusama",
+                "permalink": "/about-kusama"
+              }
+            },
+            {
+              "unversionedId": "YouTube sessions",
+              "id": "YouTube sessions",
+              "isDocsHomePage": false,
+              "title": "YouTube Sessions",
+              "description": "- Kirill session - Kirill talks about Web3's vision and give a brief summary about Polkadot.",
+              "source": "@site/docs/YouTube sessions.md",
+              "sourceDirName": ".",
+              "slug": "/YouTube sessions",
+              "permalink": "/YouTube sessions",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/YouTube sessions.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wallets",
+                "permalink": "/Wallets"
+              },
+              "next": {
+                "title": "Youtube Channels that are Translating the Content of Polkadot",
+                "permalink": "/Youtube Channels That Are Translating The Content of Polkadot"
+              }
             }
           ],
           "sidebars": {
@@ -213,6 +357,30 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "Dapps"
+              },
+              {
+                "type": "doc",
+                "id": "Jobs"
+              },
+              {
+                "type": "doc",
+                "id": "Related-Resources"
+              },
+              {
+                "type": "doc",
+                "id": "Wallets"
+              },
+              {
+                "type": "doc",
+                "id": "YouTube sessions"
+              },
+              {
+                "type": "doc",
+                "id": "Youtube Channels That Are Translating The Content of Polkadot"
               },
               {
                 "type": "doc",

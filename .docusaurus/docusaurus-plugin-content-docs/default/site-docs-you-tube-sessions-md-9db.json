@@ -1,0 +1,24 @@
+{
+  "unversionedId": "YouTube sessions",
+  "id": "YouTube sessions",
+  "isDocsHomePage": false,
+  "title": "YouTube Sessions",
+  "description": "- Kirill session - Kirill talks about Web3's vision and give a brief summary about Polkadot.",
+  "source": "@site/docs/YouTube sessions.md",
+  "sourceDirName": ".",
+  "slug": "/YouTube sessions",
+  "permalink": "/YouTube sessions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/YouTube sessions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wallets",
+    "permalink": "/Wallets"
+  },
+  "next": {
+    "title": "Youtube Channels that are Translating the Content of Polkadot",
+    "permalink": "/Youtube Channels That Are Translating The Content of Polkadot"
+  }
+}

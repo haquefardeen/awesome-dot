@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Dapps",
+  "id": "Dapps",
+  "isDocsHomePage": false,
+  "title": "Dapps",
+  "description": "- Sub.id- Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.",
+  "source": "@site/docs/Dapps.md",
+  "sourceDirName": ".",
+  "slug": "/Dapps",
+  "permalink": "/Dapps",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Dapps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Jobs",
+    "permalink": "/Jobs"
+  }
+}

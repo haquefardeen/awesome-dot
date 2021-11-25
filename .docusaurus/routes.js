@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','bcb'),
+    component: ComponentCreator('/','5b3'),
     routes: [
       {
         path: '/',
@@ -121,8 +121,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Dapps',
+        component: ComponentCreator('/Dapps','944'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/explore',
         component: ComponentCreator('/explore','a4a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Jobs',
+        component: ComponentCreator('/Jobs','ed5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -139,14 +151,38 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Related-Resources',
+        component: ComponentCreator('/Related-Resources','c21'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/tools',
         component: ComponentCreator('/tools','a63'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Wallets',
+        component: ComponentCreator('/Wallets','e60'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/whitepaper',
         component: ComponentCreator('/whitepaper','c99'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Youtube Channels That Are Translating The Content of Polkadot',
+        component: ComponentCreator('/Youtube Channels That Are Translating The Content of Polkadot','64a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/YouTube sessions',
+        component: ComponentCreator('/YouTube sessions','39e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

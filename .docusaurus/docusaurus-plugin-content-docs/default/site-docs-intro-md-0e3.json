@@ -3,7 +3,7 @@
   "id": "intro",
   "isDocsHomePage": false,
   "title": "Intro",
-  "description": "Awesome Dot is a list that curates the best resources, projects and learning around the Polkadot ecosystem.",
+  "description": "Awesome Dot is a list that curates the best resources, projects and learning in the Polkadot ecosystem.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "About Kusama",
-    "permalink": "/about-kusama"
+    "title": "Dapps",
+    "permalink": "/Dapps"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Jobs",
+  "id": "Jobs",
+  "isDocsHomePage": false,
+  "title": "Jobs",
+  "description": "- KSMJobs - Jobs to find on Kusama based network",
+  "source": "@site/docs/Jobs.md",
+  "sourceDirName": ".",
+  "slug": "/Jobs",
+  "permalink": "/Jobs",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Jobs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dapps",
+    "permalink": "/Dapps"
+  },
+  "next": {
+    "title": "Related-Resources",
+    "permalink": "/Related-Resources"
+  }
+}
