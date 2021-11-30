@@ -92,7 +92,13 @@ const config = {
             ]
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AwesomeDot, Inc. Built with Docusaurus.`
+        copyright: `Copyright © ${new Date().getFullYear()} AwesomeDot, Inc. Built with Docusaurus.`,
+        gtag: {
+          // You can also use your "G-" Measurement ID here.
+          trackingID: 'GTM-5CDDKX7',
+          // Optional fields.
+          anonymizeIP: true // Should IPs be anonymized?
+        }
       },
       prism: {
         theme: lightCodeTheme,
