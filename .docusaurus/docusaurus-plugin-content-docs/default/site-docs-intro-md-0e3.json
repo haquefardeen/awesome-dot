@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Dapps",
-    "permalink": "/Dapps"
+    "title": "Tweets",
+    "permalink": "/Tweets"
   }
 }

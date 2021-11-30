@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','5b3'),
+    component: ComponentCreator('/','061'),
     routes: [
       {
         path: '/',
@@ -117,6 +117,12 @@ export default [
       {
         path: '/about-polkadot',
         component: ComponentCreator('/about-polkadot','913'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Building on Polkadot',
+        component: ComponentCreator('/Building on Polkadot','0c7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -163,8 +169,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/Tweets',
+        component: ComponentCreator('/Tweets','61b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/Wallets',
         component: ComponentCreator('/Wallets','e60'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/Web3 Grants',
+        component: ComponentCreator('/Web3 Grants','50a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

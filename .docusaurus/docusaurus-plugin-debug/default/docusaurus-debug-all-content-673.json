@@ -68,6 +68,33 @@
               }
             },
             {
+              "unversionedId": "Building on Polkadot",
+              "id": "Building on Polkadot",
+              "isDocsHomePage": false,
+              "title": "Building on Polkadot",
+              "description": "",
+              "source": "@site/docs/Building on Polkadot.md",
+              "sourceDirName": ".",
+              "slug": "/Building on Polkadot",
+              "permalink": "/Building on Polkadot",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Building on Polkadot.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 17,
+              "frontMatter": {
+                "sidebar_position": 17
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Web3 Grants",
+                "permalink": "/Web3 Grants"
+              },
+              "next": {
+                "title": "Dapps",
+                "permalink": "/Dapps"
+              }
+            },
+            {
               "unversionedId": "Dapps",
               "id": "Dapps",
               "isDocsHomePage": false,
@@ -83,8 +110,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Intro",
-                "permalink": "/"
+                "title": "Building on Polkadot",
+                "permalink": "/Building on Polkadot"
               },
               "next": {
                 "title": "Jobs",
@@ -135,8 +162,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Dapps",
-                "permalink": "/Dapps"
+                "title": "Tweets",
+                "permalink": "/Tweets"
               }
             },
             {
@@ -260,6 +287,33 @@
               }
             },
             {
+              "unversionedId": "Tweets",
+              "id": "Tweets",
+              "isDocsHomePage": false,
+              "title": "Tweets",
+              "description": "-  -  Trobriand on why Kilt will be successful in the upcoming years.",
+              "source": "@site/docs/Tweets.md",
+              "sourceDirName": ".",
+              "slug": "/Tweets",
+              "permalink": "/Tweets",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Tweets.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 15,
+              "frontMatter": {
+                "sidebar_position": 15
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Web3 Grants",
+                "permalink": "/Web3 Grants"
+              }
+            },
+            {
               "unversionedId": "Wallets",
               "id": "Wallets",
               "isDocsHomePage": false,
@@ -281,6 +335,33 @@
               "next": {
                 "title": "YouTube Sessions",
                 "permalink": "/YouTube sessions"
+              }
+            },
+            {
+              "unversionedId": "Web3 Grants",
+              "id": "Web3 Grants",
+              "isDocsHomePage": false,
+              "title": "Web3 Grants",
+              "description": "",
+              "source": "@site/docs/Web3 Grants.md",
+              "sourceDirName": ".",
+              "slug": "/Web3 Grants",
+              "permalink": "/Web3 Grants",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Web3 Grants.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_position": 16
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tweets",
+                "permalink": "/Tweets"
+              },
+              "next": {
+                "title": "Building on Polkadot",
+                "permalink": "/Building on Polkadot"
               }
             },
             {
@@ -357,6 +438,18 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "Tweets"
+              },
+              {
+                "type": "doc",
+                "id": "Web3 Grants"
+              },
+              {
+                "type": "doc",
+                "id": "Building on Polkadot"
               },
               {
                 "type": "doc",

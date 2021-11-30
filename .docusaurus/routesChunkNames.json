@@ -125,7 +125,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/-5b3": {
+  "/-061": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -140,6 +140,10 @@
   "/about-polkadot-913": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---about-polkadot-1-f-3-d91"
+  },
+  "/Building on Polkadot-0c7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---building-on-polkadot-9-dc-35e"
   },
   "/Dapps-944": {
     "component": "component---theme-doc-item-178-a40",
@@ -169,9 +173,17 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---tools-2-b-7-b61"
   },
+  "/Tweets-61b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tweetsc-34-429"
+  },
   "/Wallets-e60": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---wallets-507-6d6"
+  },
+  "/Web3 Grants-50a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---web-3-grants-4-c-3-7fa"
   },
   "/whitepaper-c99": {
     "component": "component---theme-doc-item-178-a40",

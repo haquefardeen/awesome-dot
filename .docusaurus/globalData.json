@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Building on Polkadot",
+              "path": "/Building on Polkadot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Dapps",
               "path": "/Dapps",
               "sidebar": "tutorialSidebar"
@@ -61,8 +66,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tweets",
+              "path": "/Tweets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Wallets",
               "path": "/Wallets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Web3 Grants",
+              "path": "/Web3 Grants",
               "sidebar": "tutorialSidebar"
             },
             {

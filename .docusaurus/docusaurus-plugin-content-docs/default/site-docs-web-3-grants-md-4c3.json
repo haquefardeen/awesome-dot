@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Web3 Grants",
+  "id": "Web3 Grants",
+  "isDocsHomePage": false,
+  "title": "Web3 Grants",
+  "description": "",
+  "source": "@site/docs/Web3 Grants.md",
+  "sourceDirName": ".",
+  "slug": "/Web3 Grants",
+  "permalink": "/Web3 Grants",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Web3 Grants.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tweets",
+    "permalink": "/Tweets"
+  },
+  "next": {
+    "title": "Building on Polkadot",
+    "permalink": "/Building on Polkadot"
+  }
+}

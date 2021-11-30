@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Building on Polkadot",
+  "id": "Building on Polkadot",
+  "isDocsHomePage": false,
+  "title": "Building on Polkadot",
+  "description": "",
+  "source": "@site/docs/Building on Polkadot.md",
+  "sourceDirName": ".",
+  "slug": "/Building on Polkadot",
+  "permalink": "/Building on Polkadot",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Building on Polkadot.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web3 Grants",
+    "permalink": "/Web3 Grants"
+  },
+  "next": {
+    "title": "Dapps",
+    "permalink": "/Dapps"
+  }
+}

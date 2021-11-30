@@ -15,6 +15,21 @@
       },
       {
         "type": "link",
+        "label": "Tweets",
+        "href": "/Tweets"
+      },
+      {
+        "type": "link",
+        "label": "Web3 Grants",
+        "href": "/Web3 Grants"
+      },
+      {
+        "type": "link",
+        "label": "Building on Polkadot",
+        "href": "/Building on Polkadot"
+      },
+      {
+        "type": "link",
         "label": "Dapps",
         "href": "/Dapps"
       },

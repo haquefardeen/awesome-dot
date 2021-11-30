@@ -80,6 +80,10 @@ export default {
       ],
       "copyright": "Copyright © 2021 AwesomeDot, Inc. Built with Docusaurus."
     },
+    "gtag": {
+      "trackingID": "GTM-5CDDKX7",
+      "anonymizeIP": true
+    },
     "prism": {
       "theme": {
         "plain": {

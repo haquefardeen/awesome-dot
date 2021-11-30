@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Tweets",
+  "id": "Tweets",
+  "isDocsHomePage": false,
+  "title": "Tweets",
+  "description": "-  -  Trobriand on why Kilt will be successful in the upcoming years.",
+  "source": "@site/docs/Tweets.md",
+  "sourceDirName": ".",
+  "slug": "/Tweets",
+  "permalink": "/Tweets",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Tweets.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Web3 Grants",
+    "permalink": "/Web3 Grants"
+  }
+}
