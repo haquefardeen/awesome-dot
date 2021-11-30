@@ -149,7 +149,8 @@ Cryptonapa This channel brings comprehensive research on different crowd loan ne
 - [Polkadot Russian](https://www.youtube.com/c/Cryptor/about)
 - [Polkadot Persian](https://www.youtube.com/channel/UCy1SvU96SBcLfEWvwFCyi2Q/about)
 - 
-- 
+
+
   
 
 
