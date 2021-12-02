@@ -1,4 +1,8 @@
+---
+sidebar_position: 10
+---
+
 # Jobs
 
-- [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network 
-- [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem
+-   [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network
+-   [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem
