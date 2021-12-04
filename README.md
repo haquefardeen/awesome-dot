@@ -56,10 +56,10 @@
   
   -  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
   -  [Jay Chrawna](https://youtube.com/c/JayChrawnna) - Jay helps the user by teaching them about governance and everything related to Polkadot.
-  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities                                                                                  going in Kusama ecosystem.
-  -  [Cryptor]  For the Russian community this channel is a blessing. With over twenty thousand subscribers Cryptor has provided value in every YouTube video Please go and watch.
+  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with        all the activities                                                                                  going in Kusama ecosystem.
+  -  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers          Cryptor has provided value in every YouTube video Please go and watch.
 
-Promo team channel A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
+  Promo team channel A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
 
 Kryptoschain From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
 
