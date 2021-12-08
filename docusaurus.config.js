@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'Awesome Dot',
   tagline: 'An awesome repo around polkadot',
-  url: 'https://awesome-dot.netlify.com',
+  url: 'https://www.awesome-dot.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,7 +74,7 @@ const config = {
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus'
+                href: 'https://twitter.com/describedot'
               }
             ]
           },
@@ -92,7 +92,7 @@ const config = {
             ]
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AwesomeDot, Inc. Built with Docusaurus.`
+        copyright: `Copyright © ${new Date().getFullYear()} [AwesomeDot](https://www.awesome-dot.com)`
       },
       gtag: {
         // You can also use your "G-" Measurement ID here.
