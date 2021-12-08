@@ -92,7 +92,7 @@ const config = {
             ]
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} [AwesomeDot](https://www.awesome-dot.com)`
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://www.awesome-dot.com/">AwesomeDot</a>`
       },
       gtag: {
         // You can also use your "G-" Measurement ID here.
