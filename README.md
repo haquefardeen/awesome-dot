@@ -28,6 +28,7 @@
 - [Kusama](https://kusama.network/)
 - [Kusama Guide](https://guide.kusama.network/docs/kusama-claims/)
 - [Youtube](https://www.youtube.com/c/KusamaNetwork)
+- 
 
 
 #### Substrate based projects on Kusama
