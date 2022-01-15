@@ -1,6 +1,7 @@
 # awesome-dot.com 
 #### Awesome Dot is a list that curates the best resources, projects and learning around the Polkadot ecosystem.
 
+
 ![Awesome-dot.com](https://imgur.com/xMLaStv.png)
 
 #### About Polkadot 
@@ -106,7 +107,6 @@ Cryptonapa This channel brings comprehensive research on different crowd loan ne
 
 - [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network 
 - [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem
-
 
 
 #### Wallets
