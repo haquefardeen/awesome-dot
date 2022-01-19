@@ -14,6 +14,7 @@
 - [Polkadot wiki](https://wiki.polkadot.network/)
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
 - [Video](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
+- 
 
 #### Polkadot parachain
 
