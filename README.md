@@ -1,5 +1,5 @@
 # awesome-dot.com 
-#### Awesome Dot is a list that curates the best resources, projects and learning around the Polkadot ecosystem.
+#### Awesome Dot is a list that curates the best resources, projects and learning around the Dotsama ecosystem.
 
 
 ![Awesome-dot.com](https://imgur.com/xMLaStv.png)
