@@ -44,7 +44,7 @@
 
 
 ##### Learning
--  Youtube 
+-     Youtube 
   
   -  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
   -  [Jay Chrawna](https://youtube.com/c/JayChrawnna) - Jay helps the user by teaching them about governance and everything related to Polkadot.
@@ -58,7 +58,7 @@ Kryptoschain From Tutorials to News. This channel has covered a wide range of co
 Cryptonapa This channel brings comprehensive research on different crowd loan networks and shares a wide perspective on rewards distribution.
 
 
- #####   Blogs and Article
+ ##### Blogs and Article
 
    -  [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
    -  [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
