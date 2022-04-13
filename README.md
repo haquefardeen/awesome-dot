@@ -131,6 +131,7 @@ Cryptonapa This channel brings comprehensive research on different crowd loan ne
 
 
 
+
 #### Youtube channels that are translating the content of Polkadot
 
 - [Polkadot Portugese](https://www.youtube.com/channel/UCDoiX3VhkSZGauEoxHW5Mug)
