@@ -16,6 +16,9 @@
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
 
 
+#### About Kusama
+
+
 
 
 
