@@ -2,7 +2,7 @@
 #### Awesome Dot is a list that curates the best resources, projects and learning around the Dotsama ecosystem.
 
 
-![Awesome-dot.com](https://imgur.com/xMLaStv.png)
+![Awesome-dot.com](https://imgur.com/a/C2JJPaJ)
 
 
 #### About Polkadot 
