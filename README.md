@@ -6,6 +6,7 @@
 
 
 #### About Polkadot 
+     Polkadot is an open source blockchain platform and cryptocurrency.
 
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain/)
 - [Cryptocurrency ](https://www.youtube.com/watch?v=j23HnORQXvs)
@@ -17,7 +18,12 @@
 
 
 #### About Kusama
-
+      Kusama is a scalable network of specialized blockchains built using Substrate and nearly the same codebase as Polkadot.
+      
+#### Polkadot official 
+- [Polkadot](https://www.polkadot.com/) - Official website.
+- [Polkadot Foundation](https://polkadot.network/) - Official website of the Foundation.
+- [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot Foundation.
 
 
 
@@ -43,7 +49,7 @@
 - [talkpolkadot]( https://talkpolkadot.com/)- A media media site dedicated to sharing information on Polkadot related, projects, technology, media and events.
 - [Polkadir](https://polkadir.com/)- Directory for Polkadot, Kusama and Substrate resources.
 - [Parastats](https://parastats.io/)- Listing of upcoming projects opting for a parachain on Kusama.
-- 
+
 
 
 ##### Learning
@@ -51,8 +57,8 @@
   
   -  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
   -  [Jay Chrawna](https://youtube.com/c/JayChrawnna) - Jay helps the user by teaching them about governance and everything related to Polkadot.
-  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with                all the activities that are happening in Kusama ecosystem.
-  -  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers                  this channel has provided value in every YouTube video Please go and watch.
+  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities          that are happening in Kusama ecosystem.
+  -  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers this channel has provided      value in every YouTube video Please go and watch.
 
   -   Promo team channel A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
 
@@ -70,9 +76,9 @@ Cryptonapa This channel brings comprehensive research on different crowd loan ne
    -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
    -  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
    -  [Learn Polkadot](https://learnpolkadot.com/)- A community hosted, curated and maintained Polkadot hub.
-   -  
-   -  
-   -  
+     
+    
+ 
  
 
 
