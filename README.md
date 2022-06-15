@@ -89,7 +89,7 @@ Cryptonapa This channel brings comprehensive research on different crowd loan ne
     
 
 #### Tools
--
+
 - [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
 - [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
 - [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
