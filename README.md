@@ -3,8 +3,8 @@
 
 
 ![Awesome-dot.com](https://imgur.com/a/C2JJPaJ)
-#### About Polkadot
-    Polkadot is a open source blockchain platform and cryptocurrency.
+#### About Polkadot 
+   Polkadot is an open source blockchain platform and cryptocurrency.
  
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain/)
 - [Cryptocurrency ](https://www.youtube.com/watch?v=j23HnORQXvs)
@@ -16,7 +16,7 @@
 
 
 #### About Kusama
-     Kusama is a scalable network of specialized blockchains built using Substrate and nearly the same codebase as Polkadot. 
+   Kusama is a scalable network of specialized blockchains built using Substrate and nearly the same codebase as Polkadot.
 #### Polkadot official 
 - [Polkadot](https://www.polkadot.com/) - Official website.
 - [Polkadot Foundation](https://polkadot.network/) - Official website of the Foundation.
