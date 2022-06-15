@@ -21,6 +21,8 @@
 - [Polkadot](https://www.polkadot.com/) - Official website.
 - [Polkadot Foundation](https://polkadot.network/) - Official website of the Foundation.
 - [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot Foundation.
+- [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot Governance program.
+- [Polkadot Developer portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 
 
 
