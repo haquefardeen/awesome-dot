@@ -3,9 +3,8 @@
 
 
 ![Awesome-dot.com](https://imgur.com/a/C2JJPaJ)
-#### About Polkadot 
-   Polkadot is an open source blockchain platform and cryptocurrency.
- 
+
+#### About Blockchain
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain/)
 - [Cryptocurrency ](https://www.youtube.com/watch?v=j23HnORQXvs)
 - [What is Blockchain](https://www.youtube.com/watch?v=SSo_EIwHSd4)
@@ -13,31 +12,30 @@
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
 - [Polkadot wiki](https://wiki.polkadot.network/)
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
-
-
-#### About Kusama
-   Kusama is a scalable network of specialized blockchains built using Substrate and nearly the same codebase as Polkadot.
+ 
+#### About Polkadot
+ Polkadot is an open source blockchain platform and cryptocurrency.
+ 
 #### Polkadot official 
 - [Polkadot](https://www.polkadot.com/) - Official website.
-- [Polkadot Foundation](https://polkadot.network/) - Official website of the Foundation.
-- [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot Foundation.
-- [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot Governance program.
-- [Polkadot Developer portal](https://polkadot.network/Build) - Official Polkaot developer portal.
+- [Polkadot Foundation](https://polkadot.network/) - Official website of the foundation.
+- [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot foundation.
+- [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot governance program.
+- [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 
+#### About Kusama
+ Kusama is a scalable network of specialized blockchains built using substrate and nearly the same codebase as Polkadot.
+
+#### Kusama official
+- [kusama](https://www.kusama.network/)- Official website.
+- [kusama Foundation](https://www.kusama.network/)- Official website of the foundation.
+- [kusama FAQ](https://guide.kusama.network/docs/faq/)- FAQ maintained by the Kusama foundation.
 
 
 
 #### Whitepaper
 - [Hindi Language](https://bit.ly/3BxMBGf)
 - [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
-
-
- 
-
-
-
-#### Parachain on Polkadot
-
 
 #### Exploration websites
 
@@ -59,11 +57,8 @@
   -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities          that are happening in Kusama ecosystem.
   -  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers this channel has provided      value in every YouTube video Please go and watch.
 
-  -   Promo team channel A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
-
-Kryptoschain From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
-
-Cryptonapa This channel brings comprehensive research on different crowd loan networks and shares a wide perspective on rewards distribution.
+  -  Promo team channel A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
+     Kryptoschain From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.                      Cryptonapa This channel brings comprehensive research on different crowd loan networks and shares a wide perspective on rewards distribution.
 
 
  ##### Blogs and Article
@@ -78,17 +73,14 @@ Cryptonapa This channel brings comprehensive research on different crowd loan ne
      
     
  
- 
-
-
--  Youtube sessions 
+  #### Youtube sessions 
 
    - [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI) - Kirill talks about Web3's vision and give a brief summary about Polkadot.
    - [Polkadot Catalan](https://www.youtube.com/watch?v=CCgEA_CTRNI)- A session in Spanish on the history of blockchain tech, Kusama & Polkadot ecosystem.
    - [Polkadot India](https://www.youtube.com/watch?v=uCp7mB8sEQY)- A session on Polkadot, how does it work and key points to develop in Polkadot.
     
 
-#### Tools
+ #### Tools
 
 - [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
 - [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
