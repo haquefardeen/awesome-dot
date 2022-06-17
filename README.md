@@ -30,6 +30,7 @@
 - [kusama](https://www.kusama.network/)- Official website.
 - [kusama Foundation](https://www.kusama.network/)- Official website of the foundation.
 - [kusama FAQ](https://guide.kusama.network/docs/faq/)- FAQ maintained by the Kusama foundation.
+- [Kusama Governance](https://kusama.polkassembly.io/)- Governance for Kusama Network
 
 
 
