@@ -30,7 +30,7 @@
 - [kusama](https://www.kusama.network/)- Official website.
 - [kusama Foundation](https://www.kusama.network/)- Official website of the foundation.
 - [kusama FAQ](https://guide.kusama.network/docs/faq/)- FAQ maintained by the Kusama foundation.
-- [Kusama Governance](https://kusama.polkassembly.io/)- Governance for Kusama Network
+- [Kusama Governance](https://kusama.polkassembly.io/)- Governance for Kusama network.
 
 
 
@@ -40,7 +40,7 @@
 
 #### Exploration websites
 
-- [Crowdloan.me](https://crowdloan.me/)- A single page where you will get every active data about the crowdloans based on Kusama and Polkadot network
+- [Crowdloan.me](https://crowdloan.me/)- A single page where you will get every active data about the crowdloans based on Kusama and Polkadot network.
 - [Parachains Info](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every details.
 - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to vote and discuss governance proposals, motions, and referenda.
@@ -96,8 +96,8 @@
 
 #### Jobs 
 
-- [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network 
-- [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem
+- [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network.
+- [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem.
 
 
 #### Wallets
@@ -123,7 +123,7 @@
 
 #### Related Resources
 
-- [Promoteam 3D](https://readymag.com/joaji/parachain/)- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community
+- [Promoteam 3D](https://readymag.com/joaji/parachain/)- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community.
 - [Anaelleltd](https://anaelleltd.github.io/substrate4/)- A curated list of Substrate-related resources.
 - [ZKKnowledge Podcast](https://zeroknowledge.fm/171-2/)- Podcast on Mapping the Polkadot Ecosystem.
 - [Polkadot Comics](https://twitter.com/PolkadotComics)- A visual guide for Polkadot and parachains.
