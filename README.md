@@ -2,7 +2,7 @@
 #### Awesome Dot is a list that curates the best resources, projects and learning around the Dotsama ecosystem.
 
 
-![Awesome-dot.com](https://imgur.com/a/C2JJPaJ)
+< a href="https://awesomedot.com" target="_blank"> <img width="100%" src="https://imgur.com/UnjfTXa.jpg"> </a>
 
 #### About Blockchain
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain/)
@@ -14,7 +14,7 @@
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
  
 #### About Polkadot
- Polkadot is an open source blockchain platform and cryptocurrency.
+ Polkadot is an open source blockchain platform and cryptocurrency. Polkadot enables scalability by allowing specialized blockchains to communicate with each other in  a secure, trust-free environment.
  
 #### Polkadot official 
 - [Polkadot](https://www.polkadot.com/) - Official website.
@@ -24,7 +24,7 @@
 - [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 
 #### About Kusama
- Kusama is a scalable network of specialized blockchains built using substrate and nearly the same codebase as Polkadot.
+ Kusama is a scalable network of specialized blockchains built using substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot.
 
 #### Kusama official
 - [kusama](https://www.kusama.network/)- Official website.
@@ -102,9 +102,9 @@
 
 #### Wallets
 
-- [Fearless.io](https://fearlesswallet.io/)
-- [Polkawallet](https://polkawallet.io/)
-- [Parity Signer](https://www.parity.io/technologies/signer/)
+- [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
+- [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
+- [Parity Signer](https://www.parity.io/technologies/signer/)- 
 - [Fractapp](https://www.fractapp.com/)
 - [Talisman](https://app.talisman.xyz/)- The team is working on this and hopefully they will be launching soon.
 
