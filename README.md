@@ -2,7 +2,7 @@
 #### Awesome Dot is a list that curates the best resources, projects and learning around the Dotsama ecosystem.
 
 
-< a href="https://awesomedot.com" target="_blank"> <img width="100%" src="https://imgur.com/UnjfTXa.jpg"> </a>
+ <img width="100%" src="https://imgur.com/UnjfTXa.jpg"> </a>
 
 #### About Blockchain
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain/)
