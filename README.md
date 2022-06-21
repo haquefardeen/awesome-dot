@@ -104,9 +104,9 @@
 
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
 - [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
-- [Parity Signer](https://www.parity.io/technologies/signer/)- 
-- [Fractapp](https://www.fractapp.com/)
-- [Talisman](https://app.talisman.xyz/)- The team is working on this and hopefully they will be launching soon.
+- [Parity Signer](https://www.parity.io/technologies/signer/)- Turn your smartphone into a hardware wallet.
+- [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
+- [Talisman](https://app.talisman.xyz/)- Talisman is a community owned wallet built for Polkadot, Kusama .
 
 
 #### DApps
