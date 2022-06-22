@@ -38,6 +38,25 @@
 - [Hindi Language](https://bit.ly/3BxMBGf)
 - [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
 
+#### Bridge 
+ - [Chainx](https://www.dotmarketcap.com/coin/chainx)- The largest layer-2 network of Bitcoin, based on substrate technology.
+ - [Centrifuge](https://www.dotmarketcap.com/coin/centrifuge)- A decentralized asset finance.
+ - [Stafi](https://www.dotmarketcap.com/coin/stafi)- The first DeFi protocol unlocking liquidity of staked assets.
+ - [Ternoa](https://www.dotmarketcap.com/coin/coin-capsule)- NFT based decentralized data transmission blockchain.
+ - [Altair](https://www.dotmarketcap.com/coin/altair)- Spinning real world assets into Kusama.
+ - [Darwinia](https://www.dotmarketcap.com/coin/darwinia-network-native-token)- A Web 3.0 cross chain bridge hub built on substrate.
+ - [Kintsugi BTC](https://www.dotmarketcap.com/coin/kintsugi)- Radically open Bitcoin on Kusama network.
+ - [Zenlink](https://www.dotmarketcap.com/coin/zenlink)- Zenlink is a cross-chain DEX protocol based on Polkadot.
+ - [Solarbeam](https://www.dotmarketcap.com/coin/solarbeam)- A decentralized exchange, providing liquidity and enabling peer to peer transactions on the Moonriver         network and Moonbeam network.
+ - [Interlay](https://www.dotmarketcap.com/coin/interlay)- A trustless Bitcoin for Polkadot's DeFi ecosystem.
+ - [SherpaX](https://www.dotmarketcap.com/coin/sherpax)- A Canary network of chainX on Kusama.
+ - [Snowbridge](https://www.dotmarketcap.com/coin/snowbridge)- A general purpose, trustless and decentralized bridge between Polkadot and Ethereum.
+ - [Composable](https://www.dotmarketcap.com/coin/composable)- Liquidity infrastructure for DeFi assets powered by Layer 2 Ethereum and Polkadot.
+ - [Pontem Network](https://www.dotmarketcap.com/coin/pontem-network)- Pontem Network is the bridge between Crypto and Diem by Facebook.
+ - [Pendulum](https://www.dotmarketcap.com/coin/pendulum)- Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into      the DeFi future.
+ - [Darwinia Crab](https://www.dotmarketcap.com/coin/darwinia-crab-network)- Darwinia Crab Testnet is a canary network with real economics for Darwinia.
+
+
 #### Exploration websites
 
 - [Crowdloan.me](https://crowdloan.me/)- A single page where you will get every active data about the crowdloans based on Kusama and Polkadot network.
