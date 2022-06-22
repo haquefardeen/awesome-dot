@@ -56,6 +56,29 @@
  - [Pendulum](https://www.dotmarketcap.com/coin/pendulum)- Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into      the DeFi future.
  - [Darwinia Crab](https://www.dotmarketcap.com/coin/darwinia-crab-network)- Darwinia Crab Testnet is a canary network with real economics for Darwinia.
 
+#### Tool
+- [Ceres](https://www.dotmarketcap.com/coin/ceres)- Ceres is one of the first fully developed projects on Sora blockchain - future Polkadot parachain, bringing DeFi     Services, transparency and security to Polkaswap.
+
+#### DAO 
+ - [Automata](https://www.dotmarketcap.com/coin/automata)- Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
+ - [Houses of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
+ - [Edgeware](https://www.dotmarketcap.com/coin/edgeware)- Decentralized applications for an Open Society. Community-owned & powered by Substrate.
+
+#### Oracle 
+ - [Chainlink](https://www.dotmarketcap.com/coin/chainlink)- An Intermediary Between Smart Contracts And Real World Data.
+ - [Kylin Network](https://www.dotmarketcap.com/coin/kylin-network)- A Cross-chain platform building supporting data economy on Polkadot.
+ - [Ares Protocol](https://www.dotmarketcap.com/coin/ares-protocol)- A Decentralized Cross-chain Oracle Service Protocol.
+
+#### Game
+ - [Saito Network](https://www.dotmarketcap.com/coin/saito)- A blockchain process terabytes of data, decentralize from micropayments to email & social networks.
+ - [House of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
+ - [Crowns](https://www.dotmarketcap.com/coin/crowns)- The Crown Jewel of Incentivized Gaming.
+ - [Demeter](https://www.dotmarketcap.com/coin/demeter)- A first Ceres airdrop token with its platform called Demeter Farming Platform and Play-to-Earn game called DEO    Arena.
+
+#### Utility
+ - [Sora Validator](https://www.dotmarketcap.com/coin/sora-validator-token)- Utility & governance token used to reward validators on the SORA Network.
+ - [Liquid KSM](https://www.dotmarketcap.com/coin/liquid-ksm)- 
+ - [LCDOT](https://www.dotmarketcap.com/coin/lcdot)- A derivative that enables Crowdloan participants to stay liquid while contributing to the Acala Crowdloan.
 
 #### Exploration websites
 
