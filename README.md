@@ -69,6 +69,10 @@
  - [Kylin Network](https://www.dotmarketcap.com/coin/kylin-network)- A Cross-chain platform building supporting data economy on Polkadot.
  - [Ares Protocol](https://www.dotmarketcap.com/coin/ares-protocol)- A Decentralized Cross-chain Oracle Service Protocol.
 
+#### Social
+ - [Bit.Country Pioneer](https://www.dotmarketcap.com/coin/pioneer-network)- Metaverse Hub of Kusama - the canary network of Bit Country.
+ - [SubSocial](https://www.dotmarketcap.com/coin/subsocial-network)- Open protocol for social + finance on Polkadot and IPFS.
+ - [Joystream](https://www.dotmarketcap.com/coin/joystream)- Joystream is a video platform controlled, owned, and operated by its users.
 #### Game
  - [Saito Network](https://www.dotmarketcap.com/coin/saito)- A blockchain process terabytes of data, decentralize from micropayments to email & social networks.
  - [House of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
