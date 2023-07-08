@@ -93,6 +93,7 @@
 - [talkpolkadot]( https://talkpolkadot.com/)- A media media site dedicated to sharing information on Polkadot related, projects, technology, media and events.
 - [Polkadir](https://polkadir.com/)- Directory for Polkadot, Kusama and Substrate resources.
 - [Parastats](https://parastats.io/)- Listing of upcoming projects opting for a parachain on Kusama.
+- [Yieldbay](https://yieldbay.io/) - Find all dotsama liquidity pools and yield farms
 
 
 
