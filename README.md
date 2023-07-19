@@ -1,5 +1,5 @@
 # awesome-dot.com 
-#### Awesome Dot is a list that curates the best resources, projects and learning around the Dotsama ecosystem.
+#### Awesome Dot is a list that curates the best resources, projects, and learning around the Dotsama ecosystem.
 
 
  <img width="100%" src="https://imgur.com/UnjfTXa.jpg"> </a>
@@ -14,7 +14,7 @@
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
  
 #### About Polkadot
- Polkadot is an open source blockchain platform and cryptocurrency. Polkadot enables scalability by allowing specialized blockchains to communicate with each other in  a secure, trust-free environment.
+ Polkadot is an open-source blockchain platform and cryptocurrency. Polkadot enables scalability by allowing specialized blockchains to communicate with each other in  a secure, trust-free environment.
  
 #### Polkadot official 
 - [Polkadot](https://www.polkadot.com/) - Official website.
@@ -63,6 +63,8 @@
  - [Automata](https://www.dotmarketcap.com/coin/automata)- Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
  - [Houses of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
  - [Edgeware](https://www.dotmarketcap.com/coin/edgeware)- Decentralized applications for an Open Society. Community-owned & powered by Substrate.
+ - [Chaos DAO](https://twitter.com/ChaosDAO)-The first friendly community in Polkadot and Kusama, ChaosDAO focuses on quality over 
+    quantity, and is full of varied and valuable minds taking progressive action
 
 #### Oracle 
  - [Chainlink](https://www.dotmarketcap.com/coin/chainlink)- An Intermediary Between Smart Contracts And Real World Data.
