@@ -81,7 +81,8 @@
  - [Houses of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
  - [Edgeware](https://www.dotmarketcap.com/coin/edgeware)- Decentralized applications for an Open Society. Community-owned & powered by Substrate.
  - [Chaos DAO](https://twitter.com/ChaosDAO)-The first friendly community in Polkadot and Kusama, ChaosDAO focuses on quality over 
-    quantity, and is full of varied and valuable minds taking progressive action
+    quantity, and is full of varied and valuable minds taking progressive action.
+ - [DotValidators](https://dotvalidators.org/#about)- A community who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.
 
 #### Oracle 
  - [Chainlink](https://www.dotmarketcap.com/coin/chainlink)- An Intermediary Between Smart Contracts And Real World Data.
