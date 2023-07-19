@@ -1,22 +1,24 @@
 # awesome-dot.com 
 #### Awesome Dot is a list that curates the best resources, projects, and learning around the Dotsama ecosystem.
 
+#### About Polkadot
+ Polkadot is an open-source blockchain platform and cryptocurrency. Polkadot enables scalability by allowing specialized blockchains to 
+ communicate with each other in  a secure, trust-free environment.
+
 
  <img width="100%" src="https://imgur.com/UnjfTXa.jpg"> </a>
 
-#### About Blockchain
-- [Blockchain](https://github.com/yjjnls/awesome-blockchain/)
-- [Cryptocurrency ](https://www.youtube.com/watch?v=j23HnORQXvs)
-- [What is Blockchain](https://www.youtube.com/watch?v=SSo_EIwHSd4)
-- [What is cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp)
+## Content
+
+
+
+#### About Polkadot
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
 - [Polkadot wiki](https://wiki.polkadot.network/)
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
  
-#### About Polkadot
- Polkadot is an open-source blockchain platform and cryptocurrency. Polkadot enables scalability by allowing specialized blockchains to communicate with each other in  a secure, trust-free environment.
- 
-#### Polkadot official 
+
+ #### Polkadot official 
 - [Polkadot](https://www.polkadot.com/) - Official website.
 - [Polkadot Foundation](https://polkadot.network/) - Official website of the foundation.
 - [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot foundation.
@@ -33,10 +35,23 @@
 - [Kusama Governance](https://kusama.polkassembly.io/)- Governance for Kusama network.
 
 
-
 #### Whitepaper
 - [Hindi Language](https://bit.ly/3BxMBGf)
 - [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
+
+#### Block Explorer
+- [Polkascan](https://explorer.polkascan.io/)
+- [Subscan](https://polkadot.subscan.io/)
+
+ #### Wallets
+- [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
+- [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
+- [Parity Signer](https://www.parity.io/technologies/signer/)- Turn your smartphone into a hardware wallet.
+- [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
+- [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
+
+
+
 
 #### Bridge 
  - [Chainx](https://www.dotmarketcap.com/coin/chainx)- The largest layer-2 network of Bitcoin, based on substrate technology.
@@ -152,13 +167,6 @@
 - [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem.
 
 
-#### Wallets
-
-- [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
-- [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
-- [Parity Signer](https://www.parity.io/technologies/signer/)- Turn your smartphone into a hardware wallet.
-- [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
-- [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
 
 
 #### DApps
