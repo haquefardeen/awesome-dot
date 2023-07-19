@@ -76,6 +76,7 @@
 - [Ceres](https://www.dotmarketcap.com/coin/ceres)- Ceres is one of the first fully developed projects on Sora blockchain - future Polkadot parachain, bringing DeFi     Services, transparency and security to Polkaswap.
 - [ChainHammer](https://github.com/drandreaskrueger/chainhammer)- Multi-chain performance testing tool
 - [Polkashots](https://polkashots.io/)- A repository of Polkadot node database snapshots.
+  
 
 #### DAO 
  - [Automata](https://www.dotmarketcap.com/coin/automata)- Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
@@ -104,6 +105,7 @@
  - [Sora Validator](https://www.dotmarketcap.com/coin/sora-validator-token)- Utility & governance token used to reward validators on the SORA Network.
  - [Liquid KSM](https://www.dotmarketcap.com/coin/liquid-ksm)- 
  - [LCDOT](https://www.dotmarketcap.com/coin/lcdot)- A derivative that enables Crowdloan participants to stay liquid while contributing to the Acala Crowdloan.
+ - [DatDot](https://datdot.org/)- An autonomous hosting network for p2p data systems.
 
 #### Exploration websites
 
