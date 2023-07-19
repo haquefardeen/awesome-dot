@@ -75,6 +75,7 @@
 #### Tool
 - [Ceres](https://www.dotmarketcap.com/coin/ceres)- Ceres is one of the first fully developed projects on Sora blockchain - future Polkadot parachain, bringing DeFi     Services, transparency and security to Polkaswap.
 - [ChainHammer](https://github.com/drandreaskrueger/chainhammer)- Multi-chain performance testing tool
+- [Polkashots](https://polkashots.io/)- A repository of Polkadot node database snapshots.
 
 #### DAO 
  - [Automata](https://www.dotmarketcap.com/coin/automata)- Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
