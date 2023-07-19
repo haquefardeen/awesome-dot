@@ -42,6 +42,7 @@
 #### Block Explorer
 - [Polkascan](https://explorer.polkascan.io/)
 - [Subscan](https://polkadot.subscan.io/)
+- [Polkastats](https://polkastats.io/)
 
  #### Wallets
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
