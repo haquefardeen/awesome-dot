@@ -78,6 +78,14 @@
 - [Polkashots](https://polkashots.io/)- A repository of Polkadot node database snapshots.
 - [Radiumblock](https://radiumblock.com/snapshots.html)- Dotsama validator snapshot service
 - [Polkawatch](https://polkawatch.app/)- A tool designed to measure the effective decentralization of Polkadot’s Validation process
+
+#### Polkadot Host Implementation
+- [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
+- [Kagome](https://github.com/soramitsu/kagome)- C++implementation of Polkadot Host
+- [Smoldot](https://github.com/paritytech/smoldot)- Alternative client for substrate based chains.
+
+#### Polkadot Runtime Implementation
+- [
   
 
 #### DAO 
