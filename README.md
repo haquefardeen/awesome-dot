@@ -77,6 +77,7 @@
 - [ChainHammer](https://github.com/drandreaskrueger/chainhammer)- Multi-chain performance testing tool
 - [Polkashots](https://polkashots.io/)- A repository of Polkadot node database snapshots.
 - [Radiumblock](https://radiumblock.com/snapshots.html)- Dotsama validator snapshot service
+- [Polkawatch](https://polkawatch.app/)- A tool designed to measure the effective decentralization of Polkadot’s Validation process
   
 
 #### DAO 
