@@ -135,8 +135,9 @@
 
 #### Learning
 
-## Courses
+### Courses
 
+- [Blockchain Training Alliance](https://blockchaintrainingalliance.com/collections/self-paced-training/products/developing-on-polkadot-with-substrate)- A course for developers to learn how to effectively build on Polkadot.
   
   
   -  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
