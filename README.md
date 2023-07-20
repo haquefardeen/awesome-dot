@@ -44,14 +44,16 @@
 - [Subscan](https://polkadot.subscan.io/)
 - [Polkastats](https://polkastats.io/)
 
- #### Wallets
+#### Wallets
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
 - [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
 - [Parity Signer](https://www.parity.io/technologies/signer/)- Turn your smartphone into a hardware wallet.
 - [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
 
-  #### Libraries
+  
+
+#### Libraries
   - [Python](https://github.com/polkascan/py-substrate-interface)- Python Substrate Interface
   - 
 
