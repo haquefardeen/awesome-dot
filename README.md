@@ -51,6 +51,10 @@
 - [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
 
+  #### Libraries
+  - [Python](https://github.com/polkascan/py-substrate-interface)- Python Substrate Interface
+  - 
+
 
 
 
