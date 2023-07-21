@@ -164,7 +164,8 @@
 - [Parastats](https://parastats.io/)- Listing of upcoming projects opting for a parachain on Kusama.
 - [Yieldbay](https://yieldbay.io/) - Find all dotsama liquidity pools and yield farms.
 - [Polkalytics](https://www.polkalytics.io/)- Learn about the insights of Polkadot data ecosystem.
-- 
+- [DotAppstore](https://dotappstore.com/)- Polkadot ecosystem App directory
+  
 
 
 
