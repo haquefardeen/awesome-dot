@@ -157,6 +157,7 @@
   -  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA)- Kusama & Polkadot parachains explained in simple terms.
   -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
   -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
+  -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot
 
 
 ##### Newsletter
