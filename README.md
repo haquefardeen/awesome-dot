@@ -64,6 +64,8 @@
   - [Fudge](https://github.com/centrifuge/fudge)- FUDGE provides a simple and generic way to interact with and manipulate the database of 
     a substrate-based blockchain.
   - [OpenZL](https://github.com/openzklib/openzl/tree/main)- Common Good Zero-Knowledge-Proof Library for Substrate Builders.
+  - [SubQl](https://github.com/subquery/subql-dictionary)- This library serve pre-computed indexes of each block for most Polkadot and 
+    Kusama parachains. 
         
     
 
