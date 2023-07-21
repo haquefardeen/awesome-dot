@@ -157,6 +157,12 @@
   -  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA)- Kusama & Polkadot parachains explained in simple terms.
   -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
   -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
+
+
+##### Newsletter
+
+- [Dot.Alert](https://dot-alert.gitbook.io/dot.alert/)- A knowledgebase that provides practical guidelines for managing assets safely 
+   across the Polkadot ecosystem. 
     
 
 
@@ -168,7 +174,7 @@
    -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot.
    -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
    -  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
-   -  [Learn Polkadot](https://learnpolkadot.com/)- A community hosted, curated and maintained Polkadot hub.
+   -  [Learn Polkadot](https://learnpolkadot.com/)- A community-hosted, curated, and maintained Polkadot hub.
      
     
  
