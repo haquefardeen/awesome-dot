@@ -50,6 +50,8 @@
 - [Parity Signer](https://www.parity.io/technologies/signer/)- Turn your smartphone into a hardware wallet.
 - [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
+- [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multisigs
+  
 
   
 
