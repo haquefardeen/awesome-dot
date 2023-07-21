@@ -105,7 +105,9 @@
 - [Polkawatch](https://polkawatch.app/)- A tool designed to measure the effective decentralization of Polkadot’s Validation process.
 - [Uptest](https://github.com/uptest-sc/uptest/tree/main)- Uptest aims to be an easy stand-alone library for testing runtime upgrades 
    before they are deployed.
-- [Web3Alert](https://web3alert.io/)- Get instant alert of your favourite blockchain.
+- [Web3Alert](https://web3alert.io/)- Get instant alert of your favorite blockchain.
+- [Polkabeat](https://polkabeat.org/polkabeat/)- Measuring the decentralization of each parachain.
+- 
 - 
 
 #### Polkadot Host Implementation
