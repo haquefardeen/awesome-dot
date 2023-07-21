@@ -107,7 +107,8 @@
    before they are deployed.
 - [Web3Alert](https://web3alert.io/)- Get instant alert of your favorite blockchain.
 - [Polkabeat](https://polkabeat.org/polkabeat/)- Measuring the decentralization of each parachain.
-- 
+- [Thousand Validator Dashboard](https://insights.math-crypto.com/polkadot/)- This Dashboard allows people to track the performance of w3f 
+  Thousand Validators. 
 - 
 
 #### Polkadot Host Implementation
