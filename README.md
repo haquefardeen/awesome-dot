@@ -190,7 +190,8 @@
 ##### Newsletter
 
 - [Dot.Alert](https://dot-alert.gitbook.io/dot.alert/)- A knowledgebase that provides practical guidelines for managing assets safely 
-   across the Polkadot ecosystem. 
+   across the Polkadot ecosystem.
+- [DotLeap](https://newsletter.dotleap.com/)- The most comprehensive weekly newsletter for the Polkadot ecosystem.
     
 
 
