@@ -61,7 +61,7 @@
     that are widely used by teams in the dotsama ecosystem.
   - [Simnode](https://github.com/polytope-labs/sc-simnode)- Simulation Testing Framework for Parachains and Standalone Substrate Based 
     Chains.
-    
+  - [Fudge](https://github.com/centrifuge/fudge)- FUDGE provides a simple and generic way to interact with and manipulate the database of a substrate-based blockchain.
     
     
 
