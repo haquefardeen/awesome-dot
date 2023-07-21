@@ -184,7 +184,9 @@
   -  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA)- Kusama & Polkadot parachains explained in simple terms.
   -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
   -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
-  -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot
+  -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot.
+  -  [Web3 Online](https://www.youtube.com/@web3online)- Learn about Rust and Polkadot ecosystem.
+    
 
 
 ##### Newsletter
@@ -212,6 +214,7 @@
    - [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI) - Kirill talks about Web3's vision and give a brief summary about Polkadot.
    - [Polkadot Catalan](https://www.youtube.com/watch?v=CCgEA_CTRNI)- A session in Spanish on the history of blockchain tech, Kusama & Polkadot ecosystem.
    - [Polkadot India](https://www.youtube.com/watch?v=uCp7mB8sEQY)- A session on Polkadot, how does it work and key points to develop in Polkadot.
+     
     
 
  #### Tools
