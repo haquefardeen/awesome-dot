@@ -21,12 +21,12 @@
  #### Polkadot official 
 - [Polkadot](https://www.polkadot.com/) - Official website.
 - [Polkadot Foundation](https://polkadot.network/) - Official website of the foundation.
-- [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot foundation.
+- [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot Foundation.
 - [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot governance program.
 - [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 
 #### About Kusama
- Kusama is a scalable network of specialized blockchains built using substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot.
+ Kusama is a scalable network of specialized blockchains built using a substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot.
 
 #### Kusama official
 - [kusama](https://www.kusama.network/)- Official website.
@@ -65,7 +65,12 @@
     a substrate-based blockchain.
   - [OpenZL](https://github.com/openzklib/openzl/tree/main)- Common Good Zero-Knowledge-Proof Library for Substrate Builders.
   - [SubQl](https://github.com/subquery/subql-dictionary)- This library serve pre-computed indexes of each block for most Polkadot and 
-    Kusama parachains. 
+    Kusama parachains.
+  - [Chopsticks](https://github.com/AcalaNetwork/chopsticks)-Chopsticks is a testing client that enables the 1-step creation of a mainnet 
+    replica of a substrate-based network, for safely testing action and reviewing outcomes. Projects can test new runtime, proposal 
+    actions,  XCM, different configurations, dry run transactions, etc, to discover and eliminate issues before they arrive on to live 
+    network.
+    
         
     
 
@@ -98,6 +103,8 @@
 - [Polkawatch](https://polkawatch.app/)- A tool designed to measure the effective decentralization of Polkadot’s Validation process.
 - [Uptest](https://github.com/uptest-sc/uptest/tree/main)- Uptest aims to be an easy stand-alone library for testing runtime upgrades 
    before they are deployed.
+- [Web3Alert](https://web3alert.io/)- Get instant alert of your favourite blockchain.
+- 
 
 #### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
