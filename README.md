@@ -98,10 +98,12 @@
  - [Darwinia](https://www.dotmarketcap.com/coin/darwinia-network-native-token)- A Web 3.0 cross chain bridge hub built on substrate.
  - [Kintsugi BTC](https://www.dotmarketcap.com/coin/kintsugi)- Radically open Bitcoin on Kusama network.
  - [Zenlink](https://www.dotmarketcap.com/coin/zenlink)- Zenlink is a cross-chain DEX protocol based on Polkadot.
- - [Solarbeam](https://www.dotmarketcap.com/coin/solarbeam)- A decentralized exchange, providing liquidity and enabling peer to peer transactions on the Moonriver         network and Moonbeam network.
+ - [Solarbeam](https://www.dotmarketcap.com/coin/solarbeam)- A decentralized exchange, providing liquidity and enabling peer to peer 
+  transactions on the Moonriver         network and Moonbeam network.
  - [Interlay](https://www.dotmarketcap.com/coin/interlay)- A trustless Bitcoin for Polkadot's DeFi ecosystem.
  - [SherpaX](https://www.dotmarketcap.com/coin/sherpax)- A Canary network of chainX on Kusama.
- - [Snowbridge](https://www.dotmarketcap.com/coin/snowbridge)- A general purpose, trustless and decentralized bridge between Polkadot and Ethereum.
+ - [Snowbridge](https://www.dotmarketcap.com/coin/snowbridge)- A general purpose, trustless and decentralized bridge between Polkadot and 
+   Ethereum.
  - [Composable](https://www.dotmarketcap.com/coin/composable)- Liquidity infrastructure for DeFi assets powered by Layer 2 Ethereum and Polkadot.
  - [Pontem Network](https://www.dotmarketcap.com/coin/pontem-network)- Pontem Network is the bridge between Crypto and Diem by Facebook.
  - [Pendulum](https://www.dotmarketcap.com/coin/pendulum)- Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into      the DeFi future.
@@ -121,6 +123,7 @@
   Thousand Validators.
 - [One-T](https://github.com/turboflakes/one-t)- Performance Report bot for Polkadot and Kusama.
 - [Dotsama Channel](https://dotsama-channels.vercel.app/#/)- Visualisation of cross-chain messaging network in Polkadot.
+- [1KV Dashboard](https://1k.hirish.net/kusama)- Thousand Validator Performance dashboard.
 
 #### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
