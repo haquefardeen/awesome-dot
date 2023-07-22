@@ -110,7 +110,8 @@
 - [Polkabeat](https://polkabeat.org/polkabeat/)- Measuring the decentralization of each parachain.
 - [Thousand Validator Dashboard](https://insights.math-crypto.com/polkadot/)- This Dashboard allows people to track the performance of w3f 
   Thousand Validators.
-- [One-T](https://github.com/turboflakes/one-t)- Performance Report bot for Polkadot and Kusama
+- [One-T](https://github.com/turboflakes/one-t)- Performance Report bot for Polkadot and Kusama.
+- [Dotsama Channel](https://dotsama-channels.vercel.app/#/)- Visualisation of cross-chain messaging network in Polkadot.
 
 #### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
