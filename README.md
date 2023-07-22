@@ -177,6 +177,7 @@
 #### Website
 
 - [Polkadot.Study](https://polkadot.study/)- Development tutorials for Polkadot
+- [AnaelleLTD Blog](https://anaelleltd.company/blog/2021/01/18/how-does-web-3-development-work/)- Blog for Learning Rust and Substrate
 
 #### Courses
 
