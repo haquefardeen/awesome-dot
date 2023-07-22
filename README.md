@@ -73,6 +73,11 @@
     actions,  XCM, different configurations, dry run transactions, etc, to discover and eliminate issues before they arrive on to live 
     network.
   - [Metis](https://github.com/patractlabs/metis)- ink! and Ask! standard Library
+  - [Ziggurat](https://github.com/runziggurat/zcash)- A library with a set of tools that allows node developers to test three layers 
+     extensively and ensure that each new release does not introduce bugs, performance bottlenecks, or security flaws.
+  - [Substrate Debug](https://github.com/paritytech/substrate-debug-kit)- A collection of debug tools, scripts and libraries on top of 
+     substrate.
+
     
         
     
