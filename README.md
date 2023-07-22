@@ -79,6 +79,8 @@
      substrate.
   - [Pay-CTL](https://github.com/stakelink/substrate-payctl)- Simple command line application to control the payouts of Substrate 
      validators (Polkadot and Kusama among others).
+  - [K8 Monitor](https://github.com/ironoa/polkadot-k8s-monitor)- A tool to deploy a Monitoring System for your Substrate based Nodes in a 
+    Kubernetes cluster. The focus is specific on Validators.
 
     
         
