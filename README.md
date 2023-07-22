@@ -172,6 +172,10 @@
 
 #### Learning
 
+#### Website
+
+- [Polkadot.Study](https://polkadot.study/)- Development tutorials for Polkadot
+
 #### Courses
 
 - [Blockchain Training Alliance](https://blockchaintrainingalliance.com/collections/self-paced-training/products/developing-on-polkadot-with-substrate)- A course for developers to learn how to effectively build on Polkadot.
