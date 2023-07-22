@@ -77,6 +77,8 @@
      extensively and ensure that each new release does not introduce bugs, performance bottlenecks, or security flaws.
   - [Substrate Debug](https://github.com/paritytech/substrate-debug-kit)- A collection of debug tools, scripts and libraries on top of 
      substrate.
+  - [Pay-CTL](https://github.com/stakelink/substrate-payctl)- Simple command line application to control the payouts of Substrate 
+     validators (Polkadot and Kusama among others).
 
     
         
