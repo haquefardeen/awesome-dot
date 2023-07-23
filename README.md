@@ -83,6 +83,10 @@
     Kubernetes cluster. The focus is specific on Validators.
   - [Subwasm](https://github.com/chevdor/subwasm)-Subwasm is a cli utility inside a Substrate WASM Runtime. It can inspect and compare 
      the metadata of Substrate based runtimes such as Polkadot or Kusama.
+  - [Crunch](https://github.com/turboflakes/crunch)- A command-line interface (CLI) to easily automate payouts of staking rewards on 
+    Substrate-based chains.
+
+
     
         
     
