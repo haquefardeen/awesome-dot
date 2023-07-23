@@ -125,6 +125,7 @@
 - [One-T](https://github.com/turboflakes/one-t)- Performance Report bot for Polkadot and Kusama.
 - [Dotsama Channel](https://dotsama-channels.vercel.app/#/)- Visualisation of cross-chain messaging network in Polkadot.
 - [1KV Dashboard](https://1k.hirish.net/kusama)- Thousand Validator Performance dashboard.
+- [Substrate Cronde](https://github.com/stakelink/substrate-crond)- Daemon to execute scheduled jobs based on Substrate activity
 
 #### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
