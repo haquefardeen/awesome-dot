@@ -125,20 +125,22 @@
 - [One-T](https://github.com/turboflakes/one-t)- Performance Report bot for Polkadot and Kusama.
 - [Dotsama Channel](https://dotsama-channels.vercel.app/#/)- Visualisation of cross-chain messaging network in Polkadot.
 - [1KV Dashboard](https://1k.hirish.net/kusama)- Thousand Validator Performance dashboard.
-- [Substrate Cronde](https://github.com/stakelink/substrate-crond)- Daemon to execute scheduled jobs based on Substrate activity
+- [Substrate Cronde](https://github.com/stakelink/substrate-crond)- a tool that allows tasks to be executed based on substrate events
 
+
+  
 #### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
 - [Kagome](https://github.com/soramitsu/kagome)- C++implementation of Polkadot Host
 - [Smoldot](https://github.com/paritytech/smoldot)- Alternative client for substrate-based chains.
 - [Paritytech](https://github.com/paritytech/polkadot)- Rust implementation of Polkadot Host.
-- 
+  
 
 #### Polkadot Runtime Implementation
 - [Limechain](https://github.com/LimeChain/as-substrate-runtime)- Substrate runtime written in Assemblyscript.
 - [Gosemble](https://github.com/LimeChain/gosemble)-Go-based Polkadot/Substrate Runtimes.
 - [Subsembly](https://github.com/LimeChain/subsembly)-Framework for building AssemblyScript Substrate Runtimes.
-- 
+  
   
 
 #### DAO 
