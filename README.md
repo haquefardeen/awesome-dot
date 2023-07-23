@@ -200,7 +200,8 @@
 - [Vegas1KV](https://vegas1kv.com/)- 1KvP Leaderboard
 - [DB Size](https://paranodes.io/DBSize)- A website that updates hourly with Polkadot and Kusama DB sizes.
 - [Certum Maps](https://www.certhum.com/maps/kusama)- A tool that displays the location of active Kusama validators on a global map.
-- [TotalPanic](https://github.com/ksmnetwork/Total-Panic)- Kusama and Polkadot Telemetry Analysis and Alerting 
+- [TotalPanic](https://github.com/ksmnetwork/Total-Panic)- Kusama and Polkadot Telemetry Analysis and Alerting.
+- [Chainziz](https://alpha.chainviz.app/)- Open-sourced visualization tool for Polkadot and Kusama network.  
 
 
 
