@@ -182,6 +182,8 @@
 - [Polkalytics](https://www.polkalytics.io/)- Learn about the insights of Polkadot data ecosystem.
 - [DotAppstore](https://dotappstore.com/)- Polkadot ecosystem App directory
 - [Submap](https://playing-with-dust.github.io/submap/)- Map out all the extrinsic of your account.
+- [Nominumbers](https://playing-with-dust.github.io/nominumbers/)- This open-source app reads subscan and tries to collect your total 
+  rewards from the last week (28 eras) for each validator you currently nominate, and display it as a percentage. 
   
 
 
