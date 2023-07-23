@@ -89,6 +89,7 @@
   - [GitQL](https://github.com/ksmnetwork/GitQL)-A basic script that will check the latest Polkadot release.
   - [Polkadot Prometheus scrapper](https://github.com/ksmnetwork/polkadot-prometheus-logger)- PolkaDOT Prometheus logger with Promtail, 
     Loki and Grafana.
+  - [GraphQL Endpoint](https://github.com/metaspan/dotsama-grapql)- A GraphQL Endpoint for Kusama.
 
 
     
