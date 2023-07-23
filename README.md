@@ -207,6 +207,8 @@
 - [Chainziz](https://alpha.chainviz.app/)- Open-sourced visualization tool for Polkadot and Kusama network.
 - [Dotstaking Income Web](https://james-sangalli.github.io/dot-staking-income-web/ )- An open-source web app that allows users to generate 
    their staking rewards in CSV format.
+- [Parasnaps](https://amforc.com/parasnaps)-This project provides database snapshots for pruned validators databases for Polkadot and 
+   Kusama. 
 
 
 
