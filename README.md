@@ -173,7 +173,8 @@
  - [Saito Network](https://www.dotmarketcap.com/coin/saito)- A blockchain process terabytes of data, decentralize from micropayments to email & social networks.
  - [House of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
  - [Crowns](https://www.dotmarketcap.com/coin/crowns)- The Crown Jewel of Incentivized Gaming.
- - [Demeter](https://www.dotmarketcap.com/coin/demeter)- A first Ceres airdrop token with its platform called Demeter Farming Platform and Play-to-Earn game called DEO    Arena.
+ - [Demeter](https://www.dotmarketcap.com/coin/demeter)- A first Ceres airdrop token with its platform called Demeter Farming Platform and 
+   The play-to-Earn game is called DEO Arena.
 
 #### Utility
  - [Sora Validator](https://www.dotmarketcap.com/coin/sora-validator-token)- Utility & governance token used to reward validators on the SORA Network.
@@ -198,7 +199,8 @@
   rewards from the last week (28 eras) for each validator you currently nominate, and display it as a percentage.
 - [Vegas1KV](https://vegas1kv.com/)- 1KvP Leaderboard
 - [DB Size](https://paranodes.io/DBSize)- A website that updates hourly with Polkadot and Kusama DB sizes.
-- [Certum Maps](https://www.certhum.com/maps/kusama)- A tool that displays the location of active Kusama validators on a global map. 
+- [Certum Maps](https://www.certhum.com/maps/kusama)- A tool that displays the location of active Kusama validators on a global map.
+- [TotalPanic](https://github.com/ksmnetwork/Total-Panic)- Kusama and Polkadot Telemetry Analysis and Alerting 
 
 
 
