@@ -81,7 +81,8 @@
      validators (Polkadot and Kusama among others).
   - [K8 Monitor](https://github.com/ironoa/polkadot-k8s-monitor)- A tool to deploy a Monitoring System for your Substrate based Nodes in a 
     Kubernetes cluster. The focus is specific on Validators.
-
+  - [Subwasm](https://github.com/chevdor/subwasm)-Subwasm is a cli utility inside a Substrate WASM Runtime. It can inspect and compare 
+     the metadata of Substrate based runtimes such as Polkadot or Kusama.
     
         
     
