@@ -87,6 +87,8 @@
     Substrate-based chains.
   - [TVP Monitor](https://github.com/paradox-tt/TVP_Monitor)-A bot that monitors nominations of the accounts held by the 1KV programme.
   - [GitQL](https://github.com/ksmnetwork/GitQL)-A basic script that will check the latest Polkadot release.
+  - [Polkadot Prometheus scrapper](https://github.com/ksmnetwork/polkadot-prometheus-logger)- PolkaDOT Prometheus logger with Promtail, 
+    Loki and Grafana.
 
 
     
