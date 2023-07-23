@@ -185,7 +185,7 @@
  - [LCDOT](https://www.dotmarketcap.com/coin/lcdot)- A derivative that enables Crowdloan participants to stay liquid while contributing to the Acala Crowdloan.
  - [DatDot](https://datdot.org/)- An autonomous hosting network for p2p data systems.
 
-#### Exploration websites
+#### Community Projects
 
 - [Crowdloan.me](https://crowdloan.me/)- A single page where you will get every active data about the crowdloans based on Kusama and Polkadot network.
 - [Parachains Info](https://parachains.info/#!) - Get the essential information of every parachain auction.
@@ -204,7 +204,9 @@
 - [DB Size](https://paranodes.io/DBSize)- A website that updates hourly with Polkadot and Kusama DB sizes.
 - [Certum Maps](https://www.certhum.com/maps/kusama)- A tool that displays the location of active Kusama validators on a global map.
 - [TotalPanic](https://github.com/ksmnetwork/Total-Panic)- Kusama and Polkadot Telemetry Analysis and Alerting.
-- [Chainziz](https://alpha.chainviz.app/)- Open-sourced visualization tool for Polkadot and Kusama network.  
+- [Chainziz](https://alpha.chainviz.app/)- Open-sourced visualization tool for Polkadot and Kusama network.
+- [Dotstaking Income Web](https://james-sangalli.github.io/dot-staking-income-web/ )- An open-source web app that allows users to generate 
+   their staking rewards in CSV format.
 
 
 
