@@ -131,7 +131,9 @@
 - [One-T](https://github.com/turboflakes/one-t)- Performance Report bot for Polkadot and Kusama.
 - [Dotsama Channel](https://dotsama-channels.vercel.app/#/)- Visualisation of cross-chain messaging network in Polkadot.
 - [1KV Dashboard](https://1k.hirish.net/kusama)- Thousand Validator Performance dashboard.
-- [Substrate Cronde](https://github.com/stakelink/substrate-crond)- a tool that allows tasks to be executed based on substrate events
+- [Substrate Cronde](https://github.com/stakelink/substrate-crond)- a tool that allows tasks to be executed based on substrate events.
+- [Scouty](https://github.com/turboflakes/scouty)- Scouty is a command-line interface (CLI) to keep an eye on substrate-based chains and 
+   hook things up.
 
 
   
