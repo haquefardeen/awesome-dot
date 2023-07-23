@@ -85,6 +85,7 @@
      the metadata of Substrate based runtimes such as Polkadot or Kusama.
   - [Crunch](https://github.com/turboflakes/crunch)- A command-line interface (CLI) to easily automate payouts of staking rewards on 
     Substrate-based chains.
+  - [TVP Monitor](https://github.com/paradox-tt/TVP_Monitor)-A bot that monitors nominations of the accounts held by the 1KV programme.
 
 
     
