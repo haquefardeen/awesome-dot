@@ -136,6 +136,7 @@
 - [Substrate Cronde](https://github.com/stakelink/substrate-crond)- a tool that allows tasks to be executed based on substrate events.
 - [Scouty](https://github.com/turboflakes/scouty)- Scouty is a command-line interface (CLI) to keep an eye on substrate-based chains and 
    hook things up.
+- [1KV API Monitor](https://ccris02.github.io/1KV_API/)- An online 1KV API monitoring service.
 
 
   
