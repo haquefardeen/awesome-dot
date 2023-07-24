@@ -52,8 +52,8 @@
 - [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
 - [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multi sigs
-- [Polkagate](https://polkagate.xyz/)- An easy to use extension for Polkadot ecosystem.
-- [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem
+- [Polkagate](https://polkagate.xyz/)- An easy-to-use extension for the Polkadot ecosystem.
+- [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem.
   
 
   
@@ -214,6 +214,8 @@
 - [Parasnaps](https://amforc.com/parasnaps)-This project provides database snapshots for pruned validators databases for Polkadot and 
    Kusama.
 - [DotforDummies](https://www.dotfordummies.com/)- A comprehensive reading list for the Polkadot ecosystem.
+- [SubVT](https://subvt.io/)- SubVT (Substrate Validator Toolkit) is a native mobile application for iOS and Android phones, tablets, and 
+  wearables that provides node operators with tools that aid them in running their validators on any Substrate-based blockchain network.
 
 
 
