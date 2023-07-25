@@ -93,6 +93,17 @@
   - [GraphQL Endpoint](https://github.com/metaspan/dotsama-grapql)- A GraphQL Endpoint for Kusama.
 
 
+#### Governance
+
+ - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to discuss governance proposals, motions, and 
+    referenda.
+ - [Subsquare](https://www.subsquare.io/)-SubSquare enables community members to propose, discuss and vote on governance proposals.
+ - [BrightTreasury]( https://treasury.bright.dev )- A web application to interact with a treasury module of Substrate based networks.
+
+
+
+
+
     
         
     
