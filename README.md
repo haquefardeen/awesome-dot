@@ -20,9 +20,9 @@
  
 
  #### Polkadot official 
-- [Polkadot](https://www.polkadot.com/) - Official website.
-- [Polkadot Foundation](https://polkadot.network/) - Official website of the foundation.
-- [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot Foundation.
+- [Polkadot](https://polkadot.network/) - Official website.
+- [Web3 Foundation](https://web3.foundation/) - Official website of the foundation.
+- [Polkadot FAQ](https://polkadot.network/faq) - Polkadot FAQ.
 - [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot governance program.
 - [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 
@@ -31,19 +31,20 @@
 
 #### Kusama official
 - [kusama](https://www.kusama.network/)- Official website.
-- [kusama Foundation](https://www.kusama.network/)- Official website of the foundation.
-- [kusama FAQ](https://guide.kusama.network/docs/faq/)- FAQ maintained by the Kusama foundation.
+- [kusama FAQ](https://guide.kusama.network/docs/faq/)- Kusama FAQ.
 - [Kusama Governance](https://kusama.polkassembly.io/)- Governance for Kusama network.
 
 
 #### Whitepaper
+- [English Language](https://polkadot.network/whitepaper/)
 - [Hindi Language](https://bit.ly/3BxMBGf)
 - [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
 
-#### Block Explorer
+#### Block Explorers
 - [Polkascan](https://explorer.polkascan.io/)
 - [Subscan](https://polkadot.subscan.io/)
 - [Polkastats](https://polkastats.io/)
+- [Polkaholic](https://polkaholic.io/)
 
 #### Wallets
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
