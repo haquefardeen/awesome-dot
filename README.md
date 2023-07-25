@@ -101,6 +101,10 @@
     referenda.
  - [Subsquare](https://www.subsquare.io/)-SubSquare enables community members to propose, discuss and vote on governance proposals.
  - [BrightTreasury]( https://treasury.bright.dev )- A web application to interact with a treasury module of Substrate based networks.
+ - [KusamaGovernance](https://www.kusamagovernance.com/)- The dashboard visualizes key metrics for referenda and accounts and helps token 
+    holders in their decision-making when it comes to delegation and voting. It also provides key indicators of the overall health of our 
+    governance system.
+
 
 
 
