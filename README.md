@@ -22,7 +22,7 @@
  #### Polkadot official 
 - [Polkadot](https://polkadot.network/) - Official website.
 - [Web3 Foundation](https://web3.foundation/) - Official website of the foundation.
-- [Polkadot FAQ](https://polkadot.network/faq) - Polkadot FAQ.
+- [Polkadot FAQ](https://polkadot.network/faq) - General questions on Polkadot.
 - [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot governance program.
 - [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 
