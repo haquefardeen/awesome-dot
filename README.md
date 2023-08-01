@@ -93,6 +93,8 @@
   - [Polkadot Prometheus scrapper](https://github.com/ksmnetwork/polkadot-prometheus-logger)- PolkaDOT Prometheus logger with Promtail, 
     Loki and Grafana.
   - [GraphQL Endpoint](https://github.com/metaspan/dotsama-grapql)- A GraphQL Endpoint for Kusama.
+  - [NoiseExplorer](https://github.com/SymbolicSoft/noiseexplorer)- Rust code generator for formally verified (Noise/ cryptographic) 
+    handshakes
 
 
 #### Governance
