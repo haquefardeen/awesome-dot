@@ -49,16 +49,15 @@
 #### Wallets
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
 - [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
-- [Parity Signer](https://www.parity.io/technologies/signer/)- Turn your smartphone into a hardware wallet.
+- [Polkadot Vault](https://signer.parity.io/)- Turn your smartphone into a hardware wallet.
 - [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
 - [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multi sigs
 - [Polkagate](https://polkagate.xyz/)- An easy-to-use extension for the Polkadot ecosystem.
 - [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem.
 - [Polkasafe](https://polkasafe.xyz/)- A a user friendly Multisig for Polkadot & Kusama ecosystem.
-
-  
-
+- [NovaWallet](https://novawallet.io/) - Mobile wallet for Polkadot Ecosystem
+- [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate based blockchains.
   
 
 #### Libraries
@@ -105,20 +104,10 @@
  - [KusamaGovernance](https://www.kusamagovernance.com/)- The dashboard visualizes key metrics for referenda and accounts and helps token 
     holders in their decision-making when it comes to delegation and voting. It also provides key indicators of the overall health of our 
     governance system.
+- [Delegation Dashboard](https://delegation.polkadot.network/)- Easy to use dashboard for delegating votes for Polkadot OpenGov.
 
 
-
-
-
-
-    
-        
-    
-
-
-
-
-#### Bridge 
+#### Bridges 
  - [Chainx](https://www.dotmarketcap.com/coin/chainx)- The largest layer-2 network of Bitcoin, based on substrate technology.
  - [Centrifuge](https://www.dotmarketcap.com/coin/centrifuge)- A decentralized asset finance.
  - [Stafi](https://www.dotmarketcap.com/coin/stafi)- The first DeFi protocol unlocking liquidity of staked assets.
@@ -138,7 +127,7 @@
  - [Pendulum](https://www.dotmarketcap.com/coin/pendulum)- Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into      the DeFi future.
  - [Darwinia Crab](https://www.dotmarketcap.com/coin/darwinia-crab-network)- Darwinia Crab Testnet is a canary network with real economics for Darwinia.
 
-#### Tool
+#### Tools
 - [Ceres](https://www.dotmarketcap.com/coin/ceres)- Ceres is one of the first fully developed projects on Sora blockchain - future Polkadot parachain, bringing DeFi     Services, transparency and security to Polkaswap.
 - [ChainHammer](https://github.com/drandreaskrueger/chainhammer)- Multi-chain performance testing tool
 - [Polkashots](https://polkashots.io/)- A repository of Polkadot node database snapshots.
@@ -196,7 +185,8 @@
  - [Bit.Country Pioneer](https://www.dotmarketcap.com/coin/pioneer-network)- Metaverse Hub of Kusama - the canary network of Bit Country.
  - [SubSocial](https://www.dotmarketcap.com/coin/subsocial-network)- Open protocol for social + finance on Polkadot and IPFS.
  - [Joystream](https://www.dotmarketcap.com/coin/joystream)- Joystream is a video platform controlled, owned, and operated by its users.
-#### Game
+ - [Frequency](https://www.frequency.xyz/) - Implements Decentralized Social Networking Protocol (DSNP). Frequency gives builders high
+volume blockchain transactions at low, predictable costs.
  - [Saito Network](https://www.dotmarketcap.com/coin/saito)- A blockchain process terabytes of data, decentralize from micropayments to email & social networks.
  - [House of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
  - [Crowns](https://www.dotmarketcap.com/coin/crowns)- The Crown Jewel of Incentivized Gaming.
@@ -249,6 +239,7 @@
 
 - [Blockchain Training Alliance](https://blockchaintrainingalliance.com/collections/self-paced-training/products/developing-on-polkadot-with-substrate)- A course for developers to learn how to effectively build on Polkadot.
 - [TeachMe Defi](https://teachmedefi.de/)- A German Educational Platform for Polkadot
+- [Web3 Foundation on edX](https://www.edx.org/school/web3x) - Introductory courses on Blockchain, Web3 and Polkadot.
   
 
 #### Youtube 
@@ -272,7 +263,7 @@
 - [Dot.Alert](https://dot-alert.gitbook.io/dot.alert/)- A knowledgebase that provides practical guidelines for managing assets safely 
    across the Polkadot ecosystem.
 - [DotLeap](https://newsletter.dotleap.com/)- The most comprehensive weekly newsletter for the Polkadot ecosystem.
-    
+- [Substrate Newsletter](https://substrate.io/ecosystem/connect/newsletter/) - Subscribe for the latest news, technical updates and helpful Substrate developer resources.    
 
 
  ##### Blogs and Article
