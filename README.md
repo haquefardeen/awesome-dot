@@ -168,6 +168,7 @@
 - [Kagome](https://github.com/soramitsu/kagome)- C++implementation of Polkadot Host
 - [Smoldot](https://github.com/paritytech/smoldot)- Alternative client for substrate-based chains.
 - [Paritytech](https://github.com/paritytech/polkadot)- Rust implementation of Polkadot Host.
+- [Golkadot](https://github.com/opennetsys/golkadot)-Polkadot Substrate implementation in Go
   
 
 #### Polkadot Runtime Implementation
