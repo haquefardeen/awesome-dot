@@ -93,6 +93,8 @@
   - [Polkadot Prometheus scrapper](https://github.com/ksmnetwork/polkadot-prometheus-logger)- PolkaDOT Prometheus logger with Promtail, 
     Loki and Grafana.
   - [GraphQL Endpoint](https://github.com/metaspan/dotsama-grapql)- A GraphQL Endpoint for Kusama.
+  - [NoiseExplorer](https://github.com/SymbolicSoft/noiseexplorer)- Rust code generator for formally verified (Noise/ cryptographic) 
+    handshakes
 
 
 #### Governance
@@ -158,6 +160,7 @@
 - [Kagome](https://github.com/soramitsu/kagome)- C++implementation of Polkadot Host
 - [Smoldot](https://github.com/paritytech/smoldot)- Alternative client for substrate-based chains.
 - [Paritytech](https://github.com/paritytech/polkadot)- Rust implementation of Polkadot Host.
+- [Golkadot](https://github.com/opennetsys/golkadot)-Polkadot Substrate implementation in Go
   
 
 #### Polkadot Runtime Implementation
@@ -239,7 +242,9 @@ volume blockchain transactions at low, predictable costs.
 
 - [Blockchain Training Alliance](https://blockchaintrainingalliance.com/collections/self-paced-training/products/developing-on-polkadot-with-substrate)- A course for developers to learn how to effectively build on Polkadot.
 - [TeachMe Defi](https://teachmedefi.de/)- A German Educational Platform for Polkadot
-- [Web3 Foundation on edX](https://www.edx.org/school/web3x) - Introductory courses on Blockchain, Web3 and Polkadot.
+- [Introduction to Blockchain Course](https://www.edx.org/course/introduction-to-blockchain-and-web3/?webview=false&campaign=Introduction+to+Blockchain+and+Web3&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- A course by Web3 Foundation that helps you to understand the fundamental concepts of Blockchain technology and Web3.
+- [Introduction to Polkadot](https://www.edx.org/course/introduction-to-polkadot?webview=false&campaign=Introduction+to+Polkadot&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- This course provides a comprehensive overview of Polkadot Network, its technology, and ecosystem.
+
   
 
 #### Youtube 
@@ -255,6 +260,9 @@ volume blockchain transactions at low, predictable costs.
   -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
   -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot.
   -  [Web3 Online](https://www.youtube.com/@web3online)- Learn about Rust and Polkadot ecosystem.
+
+
+##### Media
     
 
 
