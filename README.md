@@ -95,6 +95,7 @@
   - [GraphQL Endpoint](https://github.com/metaspan/dotsama-grapql)- A GraphQL Endpoint for Kusama.
   - [NoiseExplorer](https://github.com/SymbolicSoft/noiseexplorer)- Rust code generator for formally verified (Noise/ cryptographic) 
     handshakes
+  - [Usetech](https://github.com/usetech-llc/polkadot_api_cpp)- С++ API for Polkadot
 
 
 #### Governance
