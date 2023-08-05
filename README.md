@@ -271,6 +271,7 @@ volume blockchain transactions at low, predictable costs.
 
 ##### Media
     
+- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users. 
 
 
 ##### Newsletter
