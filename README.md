@@ -46,19 +46,29 @@
 - [Polkastats](https://polkastats.io/)
 - [Polkaholic](https://polkaholic.io/)
 
-#### Wallets
-- [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
-- [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
-- [Polkadot Vault](https://signer.parity.io/)- Turn your smartphone into a hardware wallet.
-- [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
+#### Desktop Browser Extension Wallets
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
-- [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multi sigs
-- [Polkagate](https://polkagate.xyz/)- An easy-to-use extension for the Polkadot ecosystem.
-- [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem.
-- [Polkasafe](https://polkasafe.xyz/)- A a user friendly Multisig for Polkadot & Kusama ecosystem.
-- [NovaWallet](https://novawallet.io/) - Mobile wallet for Polkadot Ecosystem
 - [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate based blockchains.
-  
+- [Polkagate](https://polkagate.xyz/)- An easy-to-use extension for the Polkadot ecosystem.
+
+#### Mobile Wallets
+- [Nova Wallet](https://novawallet.io/) - Next-gen iOS & Android wallet app for the Polkadot ecosystem.
+- [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
+- [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
+- [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate based blockchains.
+
+#### Hardware Wallets
+- [Polkadot Vault](https://signer.parity.io/)- Polkadot Vault is a cold storage solution, which allows you to turn your iOS or Android device into a dedicated hardware wallet for Polkadot, Kusama, and other Substrate-based chains. Your keys are kept secure (i.e. offline) at all times, and transactions are signed in an air-gapped way via QR-codes.
+- [Polkadot Vault Metadata Portal](https://metadata.novasama.io/) - Metadata portal hosted by Novasama Technologies, code available [here](https://github.com/novasamatech/metadata-portal)
+- [Ledger](https://www.ledger.com/)- Hardware wallet that stores the user's private key in it's secure enclave storage.
+
+#### Multisig Wallets
+- [Nova Spektr](https://novaspektr.io/)- Full-spectrum Polkadot desktop wallet supporting 70+ Polkadot networks, multisigs, light clients, multishard staking and hardware wallet support.
+- [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multi sigs
+- [Polkasafe](https://polkasafe.xyz/)- A a user friendly Multisig for Polkadot & Kusama ecosystem.
+- [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem.
+
+<!--- [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto. This website 404's i would advise the OP checks it-->
 
 #### Libraries
   - [Python](https://github.com/polkascan/py-substrate-interface)- Python Substrate Interface
@@ -97,6 +107,12 @@
     handshakes
   - [Usetech](https://github.com/usetech-llc/polkadot_api_cpp)- С++ API for Polkadot
   - [PolkaStore](https://github.com/TheGoldenEye/polka-store)- Store chain-related data in a database
+  - [iOS Substrate SDK](https://github.com/novasamatech/substrate-sdk-ios) - Swift Substrate SDK for iOS by Novasama Technologies
+  - [Android Substrate SDK](https://github.com/novasamatech/substrate-sdk-android) - Kotlin Substrate SDK for Android by Novasama Technologies
+  - [API for Polkadot & Kusama Eco](https://api.novasama.io/) - API for Polkadot/Kusama ecosystem networks & solochains, implemented & hosted on SubQuery. Includes Operations, Staking analytics, Governance, Multistaking APIs, code found [Here](https://github.com/novasamatech/subquery-nova), [here](https://github.com/novasamatech/subquery-governance) and [here](https://github.com/novasamatech/subquery-staking)
+  - [Design Assets for Polkadot eco](https://www.figma.com/community/file/1039874427311142565) - Design Assets for Polkadot ecosystem — tokens, networks, DApps. by Novasama Technologies
+  - 
+
 
 
 
@@ -114,6 +130,8 @@ Resources
     holders in their decision-making when it comes to delegation and voting. It also provides key indicators of the overall health of our 
     governance system.
 - [Delegation Dashboard](https://delegation.polkadot.network/)- Easy to use dashboard for delegating votes for Polkadot OpenGov.
+- [Delegation Registry](https://github.com/novasamatech/opengov-delegate-registry) - OpenGov Delegate registry by Novasama Technologies — an open-source repository for Delegates to fill out their information to attract more delegations through the Agile Delegation feature
+- [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
 
 
 #### Bridges 
@@ -181,7 +199,7 @@ Resources
  - [Automata](https://www.dotmarketcap.com/coin/automata)- Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
  - [Houses of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
  - [Edgeware](https://www.dotmarketcap.com/coin/edgeware)- Decentralized applications for an Open Society. Community-owned & powered by Substrate.
- - [Chaos DAO](https://twitter.com/ChaosDAO)-The first friendly community in Polkadot and Kusama, ChaosDAO focuses on quality over 
+ - [ChaosDAO](https://twitter.com/ChaosDAO)-The first friendly community in Polkadot and Kusama, ChaosDAO focuses on quality over 
     quantity, and is full of varied and valuable minds taking progressive action.
  - [DotValidators](https://dotvalidators.org/#about)- A community who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.
  - [PolkadotBuilders](https://app.polkadotbuilders.xyz/)- Creating public goods in the Polkadot Ecosystem
@@ -211,6 +229,7 @@ volume blockchain transactions at low, predictable costs.
 
 #### Community Projects
 
+- [ChaosDAO OpenGov Bot](https://github.com/ChaosDAO-org/InternalGov-2.0) – OpenGov Community Voting Discord Bot, funded by [Kusama treasury](https://kusama.subsquare.io/referenda/referendum/243)
 - [ProofofChaos](https://www.proofofchaos.app/)- Incentivise voting to decentralize Kusama.
 - [Parachains Info](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every detail.
@@ -267,6 +286,7 @@ volume blockchain transactions at low, predictable costs.
   -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
   -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot.
   -  [Web3 Online](https://www.youtube.com/@web3online)- Learn about Rust and Polkadot ecosystem.
+  -  [Polkadot in Action](https://www.youtube.com/playlist?list=PLi8ol7g_VgHE6ODDyvaWyLn-JhFIiERB_) - Polkadot in Action YouTube series showcasing the power of Polkadot through the Nova Wallet
 
 
 ##### Media
