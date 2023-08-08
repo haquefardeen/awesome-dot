@@ -1,8 +1,8 @@
 # awesome-dot.com 
-**Awesome Dot is a list that curates the best resources, projects, and learning around the Dotsama ecosystem.**
+**Awesome Dot is a list that curates the best resources, projects, and learning around the Polkadot and Kusama ecosystem.**
 
 ## About Polkadot
-Polkadot is an open-source blockchain platform and cryptocurrency. Polkadot enables scalability by allowing specialized blockchains to 
+Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
 communicate with each other in  a secure, trust-free environment.
 
 
