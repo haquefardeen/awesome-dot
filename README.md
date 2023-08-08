@@ -41,56 +41,73 @@ communicate with each other in  a secure, trust-free environment.
 - [Polkastats](https://polkastats.io/)
 - [Polkaholic](https://polkaholic.io/)
 
-### Wallets
+### Desktop Browser Extension Wallets
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
 - [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
 - [Polkadot Vault](https://signer.parity.io/)- Turn your smartphone into a hardware wallet.
-- [Fractapp](https://www.fractapp.com/)- The most simple Polkadot wallet for DeFi and crypto.
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
-- [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multi sigs
-- [Polkagate](https://polkagate.xyz/)- An easy-to-use extension for the Polkadot ecosystem.
-- [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem.
-- [Polkasafe](https://polkasafe.xyz/)- A a user friendly Multisig for Polkadot & Kusama ecosystem.
-- [NovaWallet](https://novawallet.io/) - Mobile wallet for Polkadot Ecosystem
 - [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate based blockchains.
-  
+- [Polkagate](https://polkagate.xyz/)- An easy-to-use extension for the Polkadot ecosystem.
+
+### Mobile Wallets
+- [Nova Wallet](https://novawallet.io/) - Next-gen iOS & Android wallet app for the Polkadot ecosystem.
+- [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
+- [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
+- [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate based blockchains.
+
+### Hardware Wallets
+- [Polkadot Vault](https://signer.parity.io/)- Polkadot Vault is a cold storage solution, which allows you to turn your iOS or Android device into a dedicated hardware wallet for Polkadot, Kusama, and other Substrate-based chains. Your keys are kept secure (i.e. offline) at all times, and transactions are signed in an air-gapped way via QR-codes.
+- [Polkadot Vault Metadata Portal](https://metadata.novasama.io/) - Metadata portal hosted by Novasama Technologies, code available [here](https://github.com/novasamatech/metadata-portal)
+- [Ledger](https://www.ledger.com/)- Hardware wallet that stores the user's private key in it's secure enclave storage.
+
+### Multisig Wallets
+- [Nova Spektr](https://novaspektr.io/)- Full-spectrum Polkadot desktop wallet supporting 70+ Polkadot networks, multisigs, light clients, multishard staking and hardware wallet support.
+- [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multi sigs
+- [Polkasafe](https://polkasafe.xyz/)- A a user friendly Multisig for Polkadot & Kusama ecosystem.
+- [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem.
+
 ### Libraries
-- [Python](https://github.com/polkascan/py-substrate-interface)- Python Substrate Interface
-- [ORML](https://github.com/open-web3-stack/open-runtime-module-library)- Library with a set of community-maintained Substrate modules 
-  that are widely used by teams in the dotsama ecosystem.
-- [Simnode](https://github.com/polytope-labs/sc-simnode)- Simulation Testing Framework for Parachains and Standalone Substrate Based 
-  Chains.
-- [Fudge](https://github.com/centrifuge/fudge)- FUDGE provides a simple and generic way to interact with and manipulate the database of 
-  a substrate-based blockchain.
-- [OpenZL](https://github.com/openzklib/openzl/tree/main)- Common Good Zero-Knowledge-Proof Library for Substrate Builders.
-- [SubQl](https://github.com/subquery/subql-dictionary)- This library serve pre-computed indexes of each block for most Polkadot and 
-  Kusama parachains.
-- [Chopsticks](https://github.com/AcalaNetwork/chopsticks)-Chopsticks is a testing client that enables the 1-step creation of a mainnet 
-  replica of a substrate-based network, for safely testing action and reviewing outcomes. Projects can test new runtime, proposal 
-  actions,  XCM, different configurations, dry run transactions, etc, to discover and eliminate issues before they arrive on to live 
-  network.
-- [Metis](https://github.com/patractlabs/metis)- ink! and Ask! standard Library
-- [Ziggurat](https://github.com/runziggurat/zcash)- A library with a set of tools that allows node developers to test three layers 
-  extensively and ensure that each new release does not introduce bugs, performance bottlenecks, or security flaws.
-- [Substrate Debug](https://github.com/paritytech/substrate-debug-kit)- A collection of debug tools, scripts and libraries on top of 
-  substrate.
-- [Pay-CTL](https://github.com/stakelink/substrate-payctl)- Simple command line application to control the payouts of Substrate 
-  validators (Polkadot and Kusama among others).
-- [K8 Monitor](https://github.com/ironoa/polkadot-k8s-monitor)- A tool to deploy a Monitoring System for your Substrate based Nodes in a 
-  Kubernetes cluster. The focus is specific on Validators.
-- [Subwasm](https://github.com/chevdor/subwasm)-Subwasm is a cli utility inside a Substrate WASM Runtime. It can inspect and compare 
-  the metadata of Substrate based runtimes such as Polkadot or Kusama.
-- [Crunch](https://github.com/turboflakes/crunch)- A command-line interface (CLI) to easily automate payouts of staking rewards on 
-  Substrate-based chains.
-- [TVP Monitor](https://github.com/paradox-tt/TVP_Monitor)-A bot that monitors nominations of the accounts held by the 1KV programme.
-- [GitQL](https://github.com/ksmnetwork/GitQL)-A basic script that will check the latest Polkadot release.
-- [Polkadot Prometheus scrapper](https://github.com/ksmnetwork/polkadot-prometheus-logger)- PolkaDOT Prometheus logger with Promtail, 
-  Loki and Grafana.
-- [GraphQL Endpoint](https://github.com/metaspan/dotsama-grapql)- A GraphQL Endpoint for Kusama.
-- [NoiseExplorer](https://github.com/SymbolicSoft/noiseexplorer)- Rust code generator for formally verified (Noise/ cryptographic) 
-  handshakes
-- [Usetech](https://github.com/usetech-llc/polkadot_api_cpp)- С++ API for Polkadot
-- [PolkaStore](https://github.com/TheGoldenEye/polka-store)- Store chain-related data in a database
+  - [Python](https://github.com/polkascan/py-substrate-interface)- Python Substrate Interface
+  - [ORML](https://github.com/open-web3-stack/open-runtime-module-library)- Library with a set of community-maintained Substrate modules 
+    that are widely used by teams in the dotsama ecosystem.
+  - [Simnode](https://github.com/polytope-labs/sc-simnode)- Simulation Testing Framework for Parachains and Standalone Substrate Based 
+    Chains.
+  - [Fudge](https://github.com/centrifuge/fudge)- FUDGE provides a simple and generic way to interact with and manipulate the database of 
+    a substrate-based blockchain.
+  - [OpenZL](https://github.com/openzklib/openzl/tree/main)- Common Good Zero-Knowledge-Proof Library for Substrate Builders.
+  - [SubQl](https://github.com/subquery/subql-dictionary)- This library serve pre-computed indexes of each block for most Polkadot and 
+    Kusama parachains.
+  - [Chopsticks](https://github.com/AcalaNetwork/chopsticks)-Chopsticks is a testing client that enables the 1-step creation of a mainnet 
+    replica of a substrate-based network, for safely testing action and reviewing outcomes. Projects can test new runtime, proposal 
+    actions,  XCM, different configurations, dry run transactions, etc, to discover and eliminate issues before they arrive on to live 
+    network.
+  - [Metis](https://github.com/patractlabs/metis)- ink! and Ask! standard Library
+  - [Ziggurat](https://github.com/runziggurat/zcash)- A library with a set of tools that allows node developers to test three layers 
+     extensively and ensure that each new release does not introduce bugs, performance bottlenecks, or security flaws.
+  - [Substrate Debug](https://github.com/paritytech/substrate-debug-kit)- A collection of debug tools, scripts and libraries on top of 
+     substrate.
+  - [Pay-CTL](https://github.com/stakelink/substrate-payctl)- Simple command line application to control the payouts of Substrate 
+     validators (Polkadot and Kusama among others).
+  - [K8 Monitor](https://github.com/ironoa/polkadot-k8s-monitor)- A tool to deploy a Monitoring System for your Substrate based Nodes in a 
+    Kubernetes cluster. The focus is specific on Validators.
+  - [Subwasm](https://github.com/chevdor/subwasm)-Subwasm is a cli utility inside a Substrate WASM Runtime. It can inspect and compare 
+     the metadata of Substrate based runtimes such as Polkadot or Kusama.
+  - [Crunch](https://github.com/turboflakes/crunch)- A command-line interface (CLI) to easily automate payouts of staking rewards on 
+    Substrate-based chains.
+  - [TVP Monitor](https://github.com/paradox-tt/TVP_Monitor)-A bot that monitors nominations of the accounts held by the 1KV programme.
+  - [GitQL](https://github.com/ksmnetwork/GitQL)-A basic script that will check the latest Polkadot release.
+  - [Polkadot Prometheus scrapper](https://github.com/ksmnetwork/polkadot-prometheus-logger)- PolkaDOT Prometheus logger with Promtail, 
+    Loki and Grafana.
+  - [GraphQL Endpoint](https://github.com/metaspan/dotsama-grapql)- A GraphQL Endpoint for Kusama.
+  - [NoiseExplorer](https://github.com/SymbolicSoft/noiseexplorer)- Rust code generator for formally verified (Noise/ cryptographic) 
+    handshakes
+  - [Usetech](https://github.com/usetech-llc/polkadot_api_cpp)- С++ API for Polkadot
+  - [PolkaStore](https://github.com/TheGoldenEye/polka-store)- Store chain-related data in a database
+  - [iOS Substrate SDK](https://github.com/novasamatech/substrate-sdk-ios) - Swift Substrate SDK for iOS by Novasama Technologies
+  - [Android Substrate SDK](https://github.com/novasamatech/substrate-sdk-android) - Kotlin Substrate SDK for Android by Novasama Technologies
+  - [API for Polkadot & Kusama Eco](https://api.novasama.io/) - API for Polkadot/Kusama ecosystem networks & solochains, implemented & hosted on SubQuery. Includes Operations, Staking analytics, Governance, Multistaking APIs, code found [Here](https://github.com/novasamatech/subquery-nova), [here](https://github.com/novasamatech/subquery-governance) and [here](https://github.com/novasamatech/subquery-staking)
+  - [Polkassets](https://www.polkassets.com/) - Icons for Polkadot and Kusama ecosystems as well as Parachains
+  - [Design Assets for Polkadot Ecosystem - Novasama](https://www.figma.com/community/file/1039874427311142565) - Design Assets for Polkadot ecosystem — tokens, networks, DApps.
 
 
 ## Resources
@@ -105,6 +122,8 @@ communicate with each other in  a secure, trust-free environment.
   holders in their decision-making when it comes to delegation and voting. It also provides key indicators of the overall health of our 
   governance system.
 - [Delegation Dashboard](https://delegation.polkadot.network/)- Easy to use dashboard for delegating votes for Polkadot OpenGov.
+- [Delegation Registry](https://github.com/novasamatech/opengov-delegate-registry) - OpenGov Delegate registry by Novasama Technologies — an open-source repository for Delegates to fill out their information to attract more delegations through the Agile Delegation feature
+- [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
 
 ### Bridges 
 - [Chainx](https://www.dotmarketcap.com/coin/chainx)- The largest layer-2 network of Bitcoin, based on substrate technology.
@@ -173,7 +192,7 @@ communicate with each other in  a secure, trust-free environment.
 - [DotValidators](https://dotvalidators.org/#about)- A community who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.
 - [PolkadotBuilders](https://app.polkadotbuilders.xyz/)- Creating public goods in the Polkadot Ecosystem
 
-#### Oracle 
+### Oracles
 - [Chainlink](https://www.dotmarketcap.com/coin/chainlink)- An Intermediary Between Smart Contracts And Real World Data.
 - [Kylin Network](https://www.dotmarketcap.com/coin/kylin-network)- A Cross-chain platform building supporting data economy on Polkadot.
 - [Ares Protocol](https://www.dotmarketcap.com/coin/ares-protocol)- A Decentralized Cross-chain Oracle Service Protocol.
@@ -190,7 +209,7 @@ volume blockchain transactions at low, predictable costs.
 - [Demeter](https://www.dotmarketcap.com/coin/demeter)- A first Ceres airdrop token with its platform called Demeter Farming Platform and 
   The play-to-Earn game is called DEO Arena.
 
-### Utility
+### Utilities
 - [Sora Validator](https://www.dotmarketcap.com/coin/sora-validator-token)- Utility & governance token used to reward validators on the SORA Network.
 - [Liquid KSM](https://www.dotmarketcap.com/coin/liquid-ksm)- 
 - [LCDOT](https://www.dotmarketcap.com/coin/lcdot)- A derivative that enables Crowdloan participants to stay liquid while contributing to the Acala Crowdloan.
@@ -198,6 +217,7 @@ volume blockchain transactions at low, predictable costs.
 
 ### Community Projects
 
+- [ChaosDAO OpenGov Bot](https://github.com/ChaosDAO-org/InternalGov-2.0) – OpenGov Community Voting Discord Bot, funded by [Kusama treasury](https://kusama.subsquare.io/referenda/referendum/243)
 - [ProofofChaos](https://www.proofofchaos.app/)- Incentivise voting to decentralize Kusama.
 - [Parachains Info](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/)- This website focus on creating accountability and transparency of Kusama treasury by providing every detail.
@@ -226,7 +246,7 @@ volume blockchain transactions at low, predictable costs.
 
 ## Learning
 
-### Website
+### Websites
 
 - [Polkadot.Study](https://polkadot.study/)- Development tutorials for Polkadot
 - [AnaelleLTD Blog](https://anaelleltd.company/blog/2021/01/18/how-does-web-3-development-work/)- Blog for Learning Rust and Substrate
@@ -239,19 +259,20 @@ volume blockchain transactions at low, predictable costs.
 - [Introduction to Polkadot](https://www.edx.org/course/introduction-to-polkadot?webview=false&campaign=Introduction+to+Polkadot&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- This course provides a comprehensive overview of Polkadot Network, its technology, and ecosystem.
 
 
-### Youtube 
+### Videos 
 
--  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
--  [Jay Chrawna](https://youtube.com/c/JayChrawnna) - Jay helps the user by teaching them about governance and everything related to Polkadot.
--  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities          that are happening in Kusama ecosystem.
--  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers this channel has provided      value in every YouTube video Please go and watch.
--  [Polkadot](https://www.youtube.com/watch?v=GcOKXAOh4Xw)- Official channel of Polkadot.
--  [Whiteboard crypto](https://www.youtube.com/watch?v=YlAdEQp6ekM&t=23s)-DOT explained with animation.
--  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA)- Kusama & Polkadot parachains explained in simple terms.
--  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
--  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
--  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot.
--  [Web3 Online](https://www.youtube.com/@web3online)- Learn about Rust and Polkadot ecosystem.
+  -  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
+  -  [Jay Chrawna](https://youtube.com/c/JayChrawnna) - Jay helps the user by teaching them about governance and everything related to Polkadot.
+  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities          that are happening in Kusama ecosystem.
+  -  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers this channel has provided      value in every YouTube video Please go and watch.
+  -  [Polkadot](https://www.youtube.com/watch?v=GcOKXAOh4Xw)- Official channel of Polkadot.
+  -  [Whiteboard crypto](https://www.youtube.com/watch?v=YlAdEQp6ekM&t=23s)-DOT explained with animation.
+  -  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA)- Kusama & Polkadot parachains explained in simple terms.
+  -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
+  -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
+  -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot.
+  -  [Web3 Online](https://www.youtube.com/@web3online)- Learn about Rust and Polkadot ecosystem.
+  -  [Polkadot in Action](https://www.youtube.com/playlist?list=PLi8ol7g_VgHE6ODDyvaWyLn-JhFIiERB_) - Polkadot in Action YouTube series showcasing the power of Polkadot through the Nova Wallet
 
 
 ## Media
@@ -264,14 +285,14 @@ volume blockchain transactions at low, predictable costs.
 - [Substrate Newsletter](https://substrate.io/ecosystem/connect/newsletter/) - Subscribe for the latest news, technical updates and helpful Substrate developer resources.    
 
 
-#### Blogs and Article
+#### Blogs and Articles
 
 -  [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
 -  [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
 -  [Hold Polkadot](https://www.holdpolkadot.com)- This website tells the importance of Polkadot by giving very good infographics.
 -  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot.
 -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
--  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
+-  [Anaelle Github](https://anaelleltd.company/blog/)- Easily guide to Polkadot network and the governance.
 -  [Learn Polkadot](https://learnpolkadot.com/)- A community-hosted, curated, and maintained Polkadot hub.
      
     
