@@ -168,6 +168,8 @@ communicate with each other in  a secure, trust-free environment.
 - [Subscrape](https://github.com/ChaosDAO-org/subscrape)- A Python scraper for Substrate chains.
 - [Polkascan Calendar](https://calendar.polkascan.io/)- An open-source web application that gives an overview of Substrate-based 
   blockchain events in time.
+- [PolkaTax](https://polkatax.com/)- Seamlessly track and export staking rewards across Polkadot and other substrate chains 
+  in both crypto and fiat currencies for effortless taxation and monitoring.
 
 ### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
