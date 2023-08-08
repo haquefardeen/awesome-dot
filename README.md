@@ -170,6 +170,7 @@ communicate with each other in  a secure, trust-free environment.
   blockchain events in time.
 - [PolkaTax](https://polkatax.com/)- Seamlessly track and export staking rewards across Polkadot and other substrate chains 
   in both crypto and fiat currencies for effortless taxation and monitoring.
+- [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector)- Collect staking rewards. 
 
 ### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
