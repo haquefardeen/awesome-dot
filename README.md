@@ -144,6 +144,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Pontem Network](https://www.dotmarketcap.com/coin/pontem-network)- Pontem Network is the bridge between Crypto and Diem by Facebook.
 - [Pendulum](https://www.dotmarketcap.com/coin/pendulum)- Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into      the DeFi future.
 - [Darwinia Crab](https://www.dotmarketcap.com/coin/darwinia-crab-network)- Darwinia Crab Testnet is a canary network with real economics for Darwinia.
+- [Sygma](https://buildwithsygma.com/)- A substrate to EVM Bridge
 
 ### Tools
 - [Ceres](https://www.dotmarketcap.com/coin/ceres)- Ceres is one of the first fully developed projects on Sora blockchain - future Polkadot parachain, bringing DeFi     Services, transparency, and security to Polkaswap.
