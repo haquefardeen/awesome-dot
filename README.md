@@ -174,6 +174,8 @@ communicate with each other in  a secure, trust-free environment.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector)- Collect staking rewards.
 - [Polkalert](https://github.com/galacticcouncil/polkalert)- Polkadot / Substrate-based node monitoring.
 - [SS58 Generator](https://polkadot.subscan.io/tools/ss58_transform)- Easily Convert address into Substrate based chains.
+- [Polkanalyzer](https://github.com/filippoweb3/polkanalyzer)- A tool that allows one to easily visualize Polkadot's NPoS data and make a 
+  fair selection of validator nodes.
 
 ### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
