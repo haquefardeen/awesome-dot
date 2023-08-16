@@ -172,7 +172,8 @@ communicate with each other in  a secure, trust-free environment.
 - [PolkaTax](https://polkatax.com/)- Seamlessly track and export staking rewards across Polkadot and other substrate chains 
   in both crypto and fiat currencies for effortless taxation and monitoring.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector)- Collect staking rewards.
-- [Polkalert](https://github.com/galacticcouncil/polkalert)- Polkadot / Substrate based node monitoring.
+- [Polkalert](https://github.com/galacticcouncil/polkalert)- Polkadot / Substrate-based node monitoring.
+- [SS58 Generator](https://polkadot.subscan.io/tools/ss58_transform)- Easily Convert address into Substrate based chains.
 
 ### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
