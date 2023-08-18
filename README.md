@@ -200,6 +200,7 @@ communicate with each other in  a secure, trust-free environment.
 - [DotValidators](https://dotvalidators.org/#about)- A community who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.
 - [PolkadotBuilders](https://app.polkadotbuilders.xyz/)- Creating public goods in the Polkadot Ecosystem
 - [InvArchNetwork](https://invarch.network/)- Multichain network for launching decentralized communities.
+- [Mangobox](https://www.mangobox.xyz/)- Fund-raising protocol on Polkadot 
 
 ### Oracles
 - [Chainlink](https://www.dotmarketcap.com/coin/chainlink)- An Intermediary Between Smart Contracts And Real World Data.
