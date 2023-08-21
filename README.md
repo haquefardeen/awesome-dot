@@ -102,6 +102,7 @@ communicate with each other in  a secure, trust-free environment.
   - [NoiseExplorer](https://github.com/SymbolicSoft/noiseexplorer)- Rust code generator for formally verified (Noise/ cryptographic) 
     handshakes
   - [Usetech](https://github.com/usetech-llc/polkadot_api_cpp)- С++ API for Polkadot
+  - [Sup](https://github.com/clearloop/sup)- Substrate Package Manager
   - [PolkaStore](https://github.com/TheGoldenEye/polka-store)- Store chain-related data in a database
   - [iOS Substrate SDK](https://github.com/novasamatech/substrate-sdk-ios) - Swift Substrate SDK for iOS by Novasama Technologies
   - [Android Substrate SDK](https://github.com/novasamatech/substrate-sdk-android) - Kotlin Substrate SDK for Android by Novasama Technologies
