@@ -127,7 +127,6 @@ communicate with each other in  a secure, trust-free environment.
 - [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
 
 ### Bridges 
-- [Chainx](https://www.dotmarketcap.com/coin/chainx)- The largest layer-2 network of Bitcoin, based on substrate technology.
 - [Centrifuge](https://www.dotmarketcap.com/coin/centrifuge)- A decentralized asset finance.
 - [Stafi](https://www.dotmarketcap.com/coin/stafi)- The first DeFi protocol unlocking liquidity of staked assets.
 - [Ternoa](https://www.dotmarketcap.com/coin/coin-capsule)- NFT based decentralized data transmission blockchain.
@@ -138,7 +137,6 @@ communicate with each other in  a secure, trust-free environment.
 - [Solarbeam](https://www.dotmarketcap.com/coin/solarbeam)- A decentralized exchange, providing liquidity and enabling peer to peer 
  transactions on the Moonriver         network and Moonbeam network.
 - [Interlay](https://www.dotmarketcap.com/coin/interlay)- A trustless Bitcoin for Polkadot's DeFi ecosystem.
-- [SherpaX](https://www.dotmarketcap.com/coin/sherpax)- A Canary network of chainX on Kusama.
 - [Snowbridge](https://www.dotmarketcap.com/coin/snowbridge)- A general purpose, trustless and decentralized bridge between Polkadot and 
   Ethereum.
 - [Composable](https://www.dotmarketcap.com/coin/composable)- Liquidity infrastructure for DeFi assets powered by Layer 2 Ethereum and Polkadot.
