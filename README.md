@@ -136,7 +136,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Kintsugi BTC](https://www.dotmarketcap.com/coin/kintsugi)- Radically open Bitcoin on Kusama network.
 - [Zenlink](https://www.dotmarketcap.com/coin/zenlink)- Zenlink is a cross-chain DEX protocol based on Polkadot.
 - [Solarbeam](https://www.dotmarketcap.com/coin/solarbeam)- A decentralized exchange, providing liquidity and enabling peer to peer 
- transactions on the Moonriver         network and Moonbeam network.
+    transactions on the Moonriver network and Moonbeam network.
 - [Interlay](https://www.dotmarketcap.com/coin/interlay)- A trustless Bitcoin for Polkadot's DeFi ecosystem.
 - [Snowbridge](https://www.dotmarketcap.com/coin/snowbridge)- A general purpose, trustless and decentralized bridge between Polkadot and 
   Ethereum.
