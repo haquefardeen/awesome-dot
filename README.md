@@ -305,6 +305,7 @@ volume blockchain transactions at low, predictable costs.
 -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
 -  [Anaelle Github](https://anaelleltd.company/blog/)- Easily guide to Polkadot network and the governance.
 -  [Learn Polkadot](https://learnpolkadot.com/)- A community-hosted, curated, and maintained Polkadot hub.
+-  
      
     
 ### Youtube sessions 
@@ -325,7 +326,9 @@ volume blockchain transactions at low, predictable costs.
 - [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor)- Ironoa developed a monitoring and alerting tool for nodes and validators.
 - [Session Key Finder](https://paranodes.io/SessionKeys)- Session key finder for any stash address.
 - [Kusama NFT tool](https://kusama.d3sjfzcxgz1xj9.amplifyapp.com/)- A community visualization tool
-- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users. 
+- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
+- [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ)- Anaelle's article on How to submit 
+  referenda in Polkadot
 
 
 
