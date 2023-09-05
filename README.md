@@ -110,6 +110,7 @@ communicate with each other in  a secure, trust-free environment.
   - [API for Polkadot & Kusama Eco](https://api.novasama.io/) - API for Polkadot/Kusama ecosystem networks & solochains, implemented & hosted on SubQuery. Includes Operations, Staking analytics, Governance, Multistaking APIs, code found [Here](https://github.com/novasamatech/subquery-nova), [here](https://github.com/novasamatech/subquery-governance) and [here](https://github.com/novasamatech/subquery-staking)
   - [Polkassets](https://www.polkassets.com/) - Icons for Polkadot and Kusama ecosystems as well as Parachains
   - [Design Assets for Polkadot Ecosystem - Novasama](https://www.figma.com/community/file/1039874427311142565) - Design Assets for Polkadot ecosystem — tokens, networks, DApps.
+  - [Slothunter](https://github.com/hack-ink/slothunter/)- A bot for Polkadot parachain auctions.
 
 
 ## Resources
