@@ -111,6 +111,8 @@ communicate with each other in  a secure, trust-free environment.
   - [Polkassets](https://www.polkassets.com/) - Icons for Polkadot and Kusama ecosystems as well as Parachains
   - [Design Assets for Polkadot Ecosystem - Novasama](https://www.figma.com/community/file/1039874427311142565) - Design Assets for Polkadot ecosystem — tokens, networks, DApps.
   - [Slothunter](https://github.com/hack-ink/slothunter/)- A bot for Polkadot parachain auctions.
+  - [Talisman Connect](https://github.com/TalismanSociety/talisman-connect)-This library aims to provide the components necessary for Dapp 
+    developers to be able to quickly connect to wallets in the Polkadot and Kusama ecosystems.
 
 
 ## Resources
