@@ -268,7 +268,7 @@ volume blockchain transactions at low, predictable costs.
 ### Courses
 
 - [Blockchain Training Alliance](https://blockchaintrainingalliance.com/collections/self-paced-training/products/developing-on-polkadot-with-substrate)- A course for developers to learn how to effectively build on Polkadot.
-- [TeachMe Defi](https://teachmedefi.de/)- A German Educational Platform for Polkadot
+- [TeachMe Defi](https://teachmedefi.de/)- A German Educational Platform for Polkadot ecosystem.
 - [Introduction to Blockchain Course](https://www.edx.org/course/introduction-to-blockchain-and-web3/?webview=false&campaign=Introduction+to+Blockchain+and+Web3&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- A course by Web3 Foundation that helps you to understand the fundamental concepts of Blockchain technology and Web3.
 - [Introduction to Polkadot](https://www.edx.org/course/introduction-to-polkadot?webview=false&campaign=Introduction+to+Polkadot&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- This course provides a comprehensive overview of Polkadot Network, its technology, and ecosystem.
 - [Polkadot Blockchain Academy Courses](https://polkadot-blockchain-academy.github.io/pba-book/)- This book is the home of the majority of materials used within the Polkadot 
