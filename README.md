@@ -54,7 +54,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Nova Wallet](https://novawallet.io/) - Next-gen iOS & Android wallet app for the Polkadot ecosystem.
 - [Polkawallet](https://polkawallet.io/)- Mobile wallet for Polkadot.
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
-- [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate based blockchains.
+- [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate-based blockchains.
 
 ### Hardware Wallets
 - [Polkadot Vault](https://signer.parity.io/)- Polkadot Vault is a cold storage solution, which allows you to turn your iOS or Android device into a dedicated hardware wallet for Polkadot, Kusama, and other Substrate-based chains. Your keys are kept secure (i.e. offline) at all times, and transactions are signed in an air-gapped way via QR-codes.
