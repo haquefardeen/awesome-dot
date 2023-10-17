@@ -189,7 +189,7 @@ communicate with each other in  a secure, trust free environment.
 - [Smoldot](https://github.com/paritytech/smoldot)- Alternative client for substrate-based chains.
 - [Paritytech](https://github.com/paritytech/polkadot)- Rust implementation of Polkadot Host.
 - [Golkadot](https://github.com/opennetsys/golkadot)-Polkadot Substrate implementation in Go
-- 
+- [Fruzhin](https://github.com/LimeChain/Fruzhin)- Java implementation of the Polkadot Host
   
 
 ### Polkadot Runtime Implementation
