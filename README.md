@@ -130,6 +130,12 @@ communicate with each other in  a secure, trust free environment.
 - [Delegation Registry](https://github.com/novasamatech/opengov-delegate-registry) - OpenGov Delegate registry by Novasama Technologies — an open-source repository for Delegates to fill out their information to attract more delegations through the Agile Delegation feature
 - [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
 
+### Staking
+
+- [Validator Selection Tool](https://w3f.github.io/validator-selection-tool/)- A tool engineered to help nominators to streamline nominations based on preferences, using the most up-to-date validator data.
+- [Staking Dashboard](https://staking.polkadot.network/)- An open-source dashboard to participate in staking via direct nomination or nomination pools with historical data and educational resources.
+- [Staking Metrics](https://dashboards.data.paritytech.io/staking.html)- Dashboard with selected metrics on staking, nomination pools and more.
+
 ### Bridges 
 - [Centrifuge](https://www.dotmarketcap.com/coin/centrifuge)- A decentralized asset finance.
 - [Stafi](https://www.dotmarketcap.com/coin/stafi)- The first DeFi protocol unlocking liquidity of staked assets.
@@ -334,7 +340,6 @@ volume blockchain transactions at low, predictable costs.
 - [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
 - [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
 - [Dot Scanner](https://dotscanner.com/)- Blockchain explorer for Polkadot, Kusama, and other substrate-based networks.
-- [Crypto Lab Network](https://www.cryptolab.network/tools)- A simple, easy-to-use staking service for Polkadot and Kusama HODLers.
 - [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor)- Ironoa developed a monitoring and alerting tool for nodes and validators.
 - [Session Key Finder](https://paranodes.io/SessionKeys)- Session key finder for any stash address.
 - [Kusama NFT tool](https://kusama.d3sjfzcxgz1xj9.amplifyapp.com/)- A community visualization tool
