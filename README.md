@@ -196,6 +196,8 @@ communicate with each other in  a secure, trust free environment.
 - [Limechain](https://github.com/LimeChain/as-substrate-runtime)- Substrate runtime written in Assemblyscript.
 - [Gosemble](https://github.com/LimeChain/gosemble)-Go-based Polkadot/Substrate Runtimes.
 - [Subsembly](https://github.com/LimeChain/subsembly)-Framework for building AssemblyScript Substrate Runtimes.
+- [Tuxedo](https://github.com/Off-Narrative-Labs/Tuxedo/) - Write UTXO-based Substrate Runtimes
+
   
   
 ### DAO 
