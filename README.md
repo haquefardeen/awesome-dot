@@ -93,6 +93,7 @@ communicate with each other in  a secure, trust free environment.
     Kubernetes cluster. The focus is specific on Validators.
   - [Subwasm](https://github.com/chevdor/subwasm)-Subwasm is a cli utility inside a Substrate WASM Runtime. It can inspect and compare 
      the metadata of Substrate based runtimes such as Polkadot or Kusama.
+  - [Smoldot](https://github.com/smol-dot/smoldot) - smoldot is an alternative client of Substrate-based chains, including Polkadot.
   - [Crunch](https://github.com/turboflakes/crunch)- A command-line interface (CLI) to easily automate payouts of staking rewards on 
     Substrate-based chains.
   - [TVP Monitor](https://github.com/paradox-tt/TVP_Monitor)-A bot that monitors nominations of the accounts held by the 1KV programme.
@@ -186,8 +187,7 @@ communicate with each other in  a secure, trust free environment.
 ### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
 - [Kagome](https://github.com/soramitsu/kagome)- C++implementation of Polkadot Host
-- [Smoldot](https://github.com/paritytech/smoldot)- Alternative client for substrate-based chains.
-- [Paritytech](https://github.com/paritytech/polkadot)- Rust implementation of Polkadot Host.
+- [Paritytech](https://github.com/paritytech/polkadot-sdk)- Rust implementation of Polkadot SDK which provides all the resources needed to start building on the Polkadot.
 - [Golkadot](https://github.com/opennetsys/golkadot)-Polkadot Substrate implementation in Go
 - [Fruzhin](https://github.com/LimeChain/Fruzhin)- Java implementation of the Polkadot Host
   
