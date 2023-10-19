@@ -116,6 +116,11 @@ communicate with each other in  a secure, trust free environment.
   - [Slothunter](https://github.com/hack-ink/slothunter/)- A bot for Polkadot parachain auctions.
   - [Talisman Connect](https://github.com/TalismanSociety/talisman-connect)-This library aims to provide the components necessary for Dapp 
     developers to be able to quickly connect to wallets in the Polkadot and Kusama ecosystems.
+  - [Zombienet](https://github.com/paritytech/zombienet) - Zombienet is a testing framework, build in nodeJS, for Substrate 
+    based blockchains, providing a simple cli tool that allows users to spawn and test ephemeral networks.
+  - [Zombienet-SDK](https://github.com/paritytech/zombienet-sdk) - Zombienet-SDK allow users to build more complex use cases and
+    interact with the network in a more flexible and programatic way. The SDK provides a set of building blocks that users can combine
+    in order to spawn and interact (test/query/etc) with the network providing a fluent api to craft different topologies and assertions to the running network.
 
 
 ## Resources
