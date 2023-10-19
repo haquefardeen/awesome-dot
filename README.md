@@ -94,6 +94,8 @@ communicate with each other in  a secure, trust free environment.
   - [Subwasm](https://github.com/chevdor/subwasm)-Subwasm is a cli utility inside a Substrate WASM Runtime. It can inspect and compare 
      the metadata of Substrate based runtimes such as Polkadot or Kusama.
   - [Smoldot](https://github.com/smol-dot/smoldot) - smoldot is an alternative client of Substrate-based chains, including Polkadot.
+  - [Substrate Connect](https://github.com/paritytech/substrate-connect) - provides a way to interact with substrate based blockchains 
+    in the browser without using an RPC server. It uses a smoldot WASM light client to securely connect to the blockchain network without  relying on specific 3rd parties.
   - [Crunch](https://github.com/turboflakes/crunch)- A command-line interface (CLI) to easily automate payouts of staking rewards on 
     Substrate-based chains.
   - [TVP Monitor](https://github.com/paradox-tt/TVP_Monitor)-A bot that monitors nominations of the accounts held by the 1KV programme.
