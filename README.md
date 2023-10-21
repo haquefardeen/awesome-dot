@@ -93,6 +93,9 @@ communicate with each other in  a secure, trust free environment.
     Kubernetes cluster. The focus is specific on Validators.
   - [Subwasm](https://github.com/chevdor/subwasm)-Subwasm is a cli utility inside a Substrate WASM Runtime. It can inspect and compare 
      the metadata of Substrate based runtimes such as Polkadot or Kusama.
+  - [Smoldot](https://github.com/smol-dot/smoldot) - smoldot is an alternative client of Substrate-based chains, including Polkadot.
+  - [Substrate Connect](https://github.com/paritytech/substrate-connect) - provides a way to interact with substrate based blockchains 
+    in the browser without using an RPC server. It uses a smoldot WASM light client to securely connect to the blockchain network without  relying on specific 3rd parties.
   - [Crunch](https://github.com/turboflakes/crunch)- A command-line interface (CLI) to easily automate payouts of staking rewards on 
     Substrate-based chains.
   - [TVP Monitor](https://github.com/paradox-tt/TVP_Monitor)-A bot that monitors nominations of the accounts held by the 1KV programme.
@@ -113,6 +116,11 @@ communicate with each other in  a secure, trust free environment.
   - [Slothunter](https://github.com/hack-ink/slothunter/)- A bot for Polkadot parachain auctions.
   - [Talisman Connect](https://github.com/TalismanSociety/talisman-connect)-This library aims to provide the components necessary for Dapp 
     developers to be able to quickly connect to wallets in the Polkadot and Kusama ecosystems.
+  - [Zombienet](https://github.com/paritytech/zombienet) - Zombienet is a testing framework, build in nodeJS, for Substrate 
+    based blockchains, providing a simple cli tool that allows users to spawn and test ephemeral networks.
+  - [Zombienet-SDK](https://github.com/paritytech/zombienet-sdk) - Zombienet-SDK allow users to build more complex use cases and
+    interact with the network in a more flexible and programatic way. The SDK provides a set of building blocks that users can combine
+    in order to spawn and interact (test/query/etc) with the network providing a fluent api to craft different topologies and assertions to the running network.
 
 
 ## Resources
@@ -170,6 +178,7 @@ communicate with each other in  a secure, trust free environment.
 - [1KV API Monitor](https://ccris02.github.io/1KV_API/)- An online 1KV API monitoring service.
 - [Polkacli](https://github.com/kusamaxi/polkacli)-Bash tool for easy installation and running of Kusama nodes.
 - [Subscrape](https://github.com/ChaosDAO-org/subscrape)- A Python scraper for Substrate chains.
+- [Polkadot Cloud](https://polkadot.cloud/) - Polkadot Cloud is a library and platform for developing and publishing assets for Polkadot dapps. [Github](https://github.com/paritytech/polkadot-cloud)
 - [Polkascan Calendar](https://calendar.polkascan.io/)- An open-source web application that gives an overview of Substrate-based 
   blockchain events in time.
 - [PolkaTax](https://polkatax.com/)- Seamlessly track and export staking rewards across Polkadot and other substrate chains 
@@ -186,8 +195,7 @@ communicate with each other in  a secure, trust free environment.
 ### Polkadot Host Implementation
 - [Gossamer](https://github.com/ChainSafe/gossamer)- Go Implementation of the Polkadot Host
 - [Kagome](https://github.com/soramitsu/kagome)- C++implementation of Polkadot Host
-- [Smoldot](https://github.com/paritytech/smoldot)- Alternative client for substrate-based chains.
-- [Paritytech](https://github.com/paritytech/polkadot)- Rust implementation of Polkadot Host.
+- [Paritytech](https://github.com/paritytech/polkadot-sdk)- Rust implementation of Polkadot SDK which provides all the resources needed to start building on the Polkadot.
 - [Golkadot](https://github.com/opennetsys/golkadot)-Polkadot Substrate implementation in Go
 - [Fruzhin](https://github.com/LimeChain/Fruzhin)- Java implementation of the Polkadot Host
   
