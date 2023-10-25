@@ -3,7 +3,7 @@
 
 ## About Polkadot
 Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
-communicate with each other in  a secure, trust free environment.
+communicate with each other in  a secure, trust-free environment. 
 
 
 <img src="https://imgur.com/jp2JfL3.jpg"/>
