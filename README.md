@@ -286,6 +286,7 @@ volume blockchain transactions at low, predictable costs.
 - [AnaelleLTD Blog](https://anaelleltd.company/blog/2021/01/18/how-does-web-3-development-work/)- Blog for Learning Rust and Substrate
 - [Polkadot Philosophy](https://polkadotphilosophy.medium.com/)- In-Depth educational Content about Polkadot.
 - [Substrate in Bits](https://github.com/Chondria/SiB)- Going in-depth in all-things-substrate.
+- [Kusama Academy](https://kusama.academy/en/learn/)- Learn about Polkadot and different Parachains.
 
 ### Courses
 
