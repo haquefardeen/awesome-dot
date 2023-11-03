@@ -25,7 +25,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Polkadot Forum](https://forum.polkadot.network/)- Thoughtful discussion around Polkadot and Kusama. 
 
 ### About Kusama
- Kusama is a scalable network of specialized blockchains built using a substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot.
+ Kusama is a scalable network of specialized blockchains built using a substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot. 
 
 #### Kusama official pages
 - [kusama](https://www.kusama.network/)- Official website.
