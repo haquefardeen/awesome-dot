@@ -50,6 +50,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Talisman](https://app.talisman.xyz/)- A wallet for Polkadot and Kusama.
 - [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate based blockchains.
 - [Polkagate](https://polkagate.xyz/)- An easy-to-use extension for the Polkadot ecosystem.
+- [Kuma](https://kumawallet.io/)- A cross-chain wallet that offers seamless management and transfer of assets between EVM and WASM chains.
 
 ### Mobile Wallets
 - [Nova Wallet](https://novawallet.io/) - Next-gen iOS & Android wallet app for the Polkadot ecosystem.
