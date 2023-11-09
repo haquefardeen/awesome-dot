@@ -199,6 +199,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Mixbytes Tank](https://github.com/mixbytes/tank)- Benchmarking tool for Substrate and Polkadot.
 - [Ponto](https://github.com/mobr-ai/POnto)-A blockchain ontology for the Polkadot ecosystem.
 - [TPscore](https://tpscore.xyz/)- Transactions per Second Data Analysis for non-technical users in the Polkadot Ecosystem.
+- [Polkadot Weigher](https://polkadot-weigher.vercel.app/)- Track the core time utilization of all para chains on Polkadot and Kusama.
 
 
 
