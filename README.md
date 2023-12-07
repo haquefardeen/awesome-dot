@@ -123,6 +123,7 @@ communicate with each other in  a secure, trust-free environment.
   - [Zombienet-SDK](https://github.com/paritytech/zombienet-sdk) - Zombienet-SDK allow users to build more complex use cases and
     interact with the network in a more flexible and programatic way. The SDK provides a set of building blocks that users can combine
     in order to spawn and interact (test/query/etc) with the network providing a fluent api to craft different topologies and assertions to the running network.
+  -  [Polkadot Snap](https://snapcraft.io/polkadot)- Polkadot Snap package
 
 
 ## Resources
@@ -202,6 +203,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Polkadot Weigher](https://polkadot-weigher.vercel.app/)- Track the core time utilization of all para chains on Polkadot and Kusama.
 - [Dotordinals](https://github.com/niklabh/dotordinals)- Ordinals for polkadot ecosystem
 - [ContractWizards](https://contractwizard.xyz/)- A tool that simplifies creating and managing smart contract for Dotsama networks with the contracts Pallet.
+
 
 
 
