@@ -285,6 +285,7 @@ volume blockchain transactions at low, predictable costs.
 - [DotforDummies](https://www.dotfordummies.com/)- A comprehensive reading list for the Polkadot ecosystem.
 - [SubVT](https://subvt.io/)- SubVT (Substrate Validator Toolkit) is a native mobile application for iOS and Android phones, tablets, and 
   wearables that provides node operators with tools that aid them in running their validators on any Substrate-based blockchain network.
+- [KusumaFly](https://kusama-fly-ksm.vercel.app/)- Kusama version of Flappy Bird 
 
 
 ## Learning
