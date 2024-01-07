@@ -124,6 +124,7 @@ communicate with each other in  a secure, trust-free environment.
     interact with the network in a more flexible and programatic way. The SDK provides a set of building blocks that users can combine
     in order to spawn and interact (test/query/etc) with the network providing a fluent api to craft different topologies and assertions to the running network.
   -  [Polkadot Snap](https://snapcraft.io/polkadot)- Polkadot Snap package
+  -  [SIWS](https://siws.xyz/)- A tool to Sign in with Substrate
 
 
 ## Resources
