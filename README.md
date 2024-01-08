@@ -283,7 +283,7 @@ volume blockchain transactions at low, predictable costs.
    their staking rewards in CSV format.
 - [Parasnaps](https://amforc.com/parasnaps)-This project provides database snapshots for pruned validators databases for Polkadot and 
    Kusama.
-- [DotforDummies](https://www.dotfordummies.com/)- A comprehensive reading list for the Polkadot ecosystem.
+- [DotforDummies](https://www.dotfordummies.co/)- A comprehensive reading list for the Polkadot ecosystem.
 - [SubVT](https://subvt.io/)- SubVT (Substrate Validator Toolkit) is a native mobile application for iOS and Android phones, tablets, and 
   wearables that provides node operators with tools that aid them in running their validators on any Substrate-based blockchain network.
 - [KusumaFly](https://kusama-fly-ksm.vercel.app/)- Kusama version of Flappy Bird 
@@ -342,7 +342,6 @@ volume blockchain transactions at low, predictable costs.
 -  [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
 -  [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
 -  [Hold Polkadot](https://www.holdpolkadot.com)- This website tells the importance of Polkadot by giving very good infographics.
--  [DotinUrdu](http://dotinurdu.com/)- A website dedicated to Urdu users to learn about the basics of Polkadot.
 -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
 -  [Anaelle Github](https://anaelleltd.company/blog/)- Easily guide to Polkadot network and the governance.
 -  [Learn Polkadot](https://learnpolkadot.com/)- A community-hosted, curated, and maintained Polkadot hub.
@@ -360,7 +359,6 @@ volume blockchain transactions at low, predictable costs.
 ## Tools
 
 - [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
-- [Bitcharge](https://bitcharge.co/)- A useful tool that will help you to not remember the address everytime
 - [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
 - [Dot Scanner](https://dotscanner.com/)- Blockchain explorer for Polkadot, Kusama, and other substrate-based networks.
 - [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor)- Ironoa developed a monitoring and alerting tool for nodes and validators.
@@ -374,14 +372,11 @@ volume blockchain transactions at low, predictable costs.
 
 ### Jobs 
 
-- [KSMJobs](https://ksmjobs.net/) - Jobs to find on Kusama based network.
-- [DotJobs](https://dotjobs.net/) - Jobs to find on Polkadot based ecosystem.
-
+-  [Jobs in Polkadot](https://polkadot.getro.com/jobs)- Find jobs in Polkadot ecosystem
 
 ### DApps
 
 - [Sub.id](https://sub.id/#/)- Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.
-- [Yuser](https://yuser.co/)- The First NFT social app.
 - [Parallel.fi](https://parallel.fi/)- First lending protocol on Polkadot ecosystem.
 - [Paid Network](https://paidnetwork.com/)- A decentralized ecosystem designed to redefine the civil legal system.
 - [Kodadot](https://nft.kodadot.xyz/)-  Kusama native NFT platform.
