@@ -1,6 +1,8 @@
 # awesome-dot.com 
 **Awesome Dot is a list that curates the best resources, projects, and learning around the Polkadot and Kusama ecosystem.**
 
+> Please see [awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) for a similar list that is more specific to the Substrate, the blockchain framework of the Polkadot ecosystem.
+
 ## About Polkadot
 Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
 communicate with each other in  a secure, trust-free environment. 
