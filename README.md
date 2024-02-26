@@ -63,7 +63,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
 - [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate-based blockchains.
 
-### Hardware Wallets
+### Hardware Wallets 
 - [Polkadot Vault](https://signer.parity.io/)- Polkadot Vault is a cold storage solution, which allows you to turn your iOS or Android device into a dedicated hardware wallet for Polkadot, Kusama, and other Substrate-based chains. Your keys are kept secure (i.e. offline) at all times, and transactions are signed in an air-gapped way via QR-codes.
 - [Polkadot Vault Metadata Portal](https://metadata.novasama.io/) - Metadata portal hosted by Novasama Technologies, code available [here](https://github.com/novasamatech/metadata-portal)
 - [Ledger](https://www.ledger.com/)- Hardware wallet that stores the user's private key in it's secure enclave storage.
