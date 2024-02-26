@@ -390,7 +390,7 @@ volume blockchain transactions at low, predictable costs.
 - [Parallel.fi](https://parallel.fi/)- First lending protocol on Polkadot ecosystem.
 - [Paid Network](https://paidnetwork.com/)- A decentralized ecosystem designed to redefine the civil legal system.
 - [Kodadot](https://nft.kodadot.xyz/)-  Kusama native NFT platform.
-
+- [Prosopo](https://prosopo.io/)- Prosopo is a decentralized bot protection platform built on Polkadot.
 
 
 ## Related Resources
