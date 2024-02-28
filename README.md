@@ -132,7 +132,9 @@ communicate with each other in  a secure, trust-free environment.
     in order to spawn and interact (test/query/etc) with the network providing a fluent api to craft different topologies and assertions to the running network.
   -  [Polkadot Snap](https://snapcraft.io/polkadot)- Polkadot Snap package
   -  [SIWS](https://siws.xyz/)- A tool to Sign in with Substrate
-
+  - [ParaSpell XCM SDK](https://github.com/paraspell/xcm-tools/tree/main/packages/sdk) - SDK for handling XCM asset transfers across Polkadot and Kusama ecosystems.
+  - [ParaSpell XCM ROUTER](https://github.com/paraspell/xcm-tools/tree/main/packages/xcm-router) - Tool for XCM cross-chain asset exchanging across Polkadot and Kusama ecosystems.
+  - [ParaSpell XCM API](https://github.com/paraspell/xcm-tools/tree/main/apps/xcm-api) - The 🥇 XCM-API in Polkadot & Kusama ecosystem. Implement XCM in packageless way.
 
 ## Resources
 
@@ -212,6 +214,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Dotordinals](https://github.com/niklabh/dotordinals)- Ordinals for polkadot ecosystem
 - [ContractWizards](https://contractwizard.xyz/)- A tool that simplifies creating and managing smart contract for Dotsama networks with the contracts Pallet.
 - [OpenGov Watch](https://www.opengov.watch/)- A website that works on developing governance in Polkadot ecosystem.
+- [ParaSpell XCM Playground](https://github.com/paraspell/xcm-tools/tree/main/apps/playground) - Playground for various XCM Tools for Users/Devs to try out XCM
 
 
 
