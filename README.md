@@ -31,6 +31,7 @@ communicate with each other in  a secure, trust-free environment.
 - [What is Polkadot](https://www.youtube.com/watch?v=29Ty-VTDnh4)- Bill Laboon Presentation
 - [What is OpenGov](https://www.youtube.com/watch?v=Iv7b4ZxUzoM)- Bill Laboon Explaining about OpenGov
 
+
 ### About Kusama
  Kusama is a scalable network of specialized blockchains built using a substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot. 
 
