@@ -76,6 +76,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Multix](https://multix.chainsafe.io/?network=kusama)-A simple interface to manage complex multi sigs
 - [Polkasafe](https://polkasafe.xyz/)- A a user friendly Multisig for Polkadot & Kusama ecosystem.
 - [Saturn](https://github.com/invarch/saturn-gateway)- A Multichain Multisig Application for the Polkadot Ecosystem.
+- [Mimir](https://app.mimir.global/)- Enterprise level multisig in Polkadot ecosystem.
 
 ### Libraries
   - [Python](https://github.com/polkascan/py-substrate-interface)- Python Substrate Interface
