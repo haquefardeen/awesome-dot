@@ -320,6 +320,7 @@ volume blockchain transactions at low, predictable costs.
 - [Introduction to Polkadot](https://www.edx.org/course/introduction-to-polkadot?webview=false&campaign=Introduction+to+Polkadot&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- This course provides a comprehensive overview of Polkadot Network, its technology, and ecosystem.
 - [Polkadot Blockchain Academy Courses](https://polkadot-blockchain-academy.github.io/pba-book/)- This book is the home of the majority of materials used within the Polkadot 
   Blockchain Academy.
+- [Introduction to Rust](https://github.com/CrackTheCode016/intro-to-rust-workshop)- A beginner friendly course for Rust beginners.
 
 
 ### Read
