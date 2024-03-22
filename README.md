@@ -26,6 +26,11 @@ communicate with each other in  a secure, trust-free environment.
 - [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot governance program.
 - [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 - [Polkadot Forum](https://forum.polkadot.network/)- Thoughtful discussion around Polkadot and Kusama.
+- Technical Papers
+  - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
+  - [Polkadot: Vision for a heterogeneous multi-chain framework](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
+  - [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
+    - [Chinese Translation](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
 
 #### Presentation & Talks 
 - [What is Polkadot](https://www.youtube.com/watch?v=29Ty-VTDnh4)- Bill Laboon Presentation
