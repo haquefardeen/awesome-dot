@@ -14,6 +14,7 @@ communicate with each other in  a secure, trust-free environment.
 
 ## Content
 
+
 ### About Polkadot
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
 - [Polkadot wiki](https://wiki.polkadot.network/)
@@ -49,6 +50,19 @@ communicate with each other in  a secure, trust-free environment.
 - [English Language](https://polkadot.network/whitepaper/)
 - [Hindi Language](https://bit.ly/3BxMBGf)
 - [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
+
+### About Substrate
+Substrate is a framework for building upgradable, modular and efficient
+blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang.org/) code that is
+maintained by [Parity Technologies](https://www.parity.io/). Source code available on
+[GitHub](https://github.com/paritytech/substrate).
+
+### Substrate Official Pages
+  - [Official Homepage](https://substrate.io/) - Vision, ecosystem, opportunities, and much more.
+  - [Docs](https://docs.substrate.io/) - Developer documentation.
+  - [Tutorials](https://docs.substrate.io/tutorials) - Guided exercises to get you started.
+  - [How-to guides](https://docs.substrate.io/how-to-guides) - Workflows outlined to achieve a specific goal.
+  - [Reference Docs](https://docs.substrate.io/rustdocs) - Versioned API documentation. 
 
 ### Block Explorers
 - [Polkascan](https://explorer.polkascan.io/)
@@ -142,6 +156,15 @@ communicate with each other in  a secure, trust-free environment.
   - [ParaSpell XCM SDK](https://github.com/paraspell/xcm-tools/tree/main/packages/sdk) - SDK for handling XCM asset transfers across Polkadot and Kusama ecosystems.
   - [ParaSpell XCM ROUTER](https://github.com/paraspell/xcm-tools/tree/main/packages/xcm-router) - Tool for XCM cross-chain asset exchanging across Polkadot and Kusama ecosystems.
   - [ParaSpell XCM API](https://github.com/paraspell/xcm-tools/tree/main/apps/xcm-api) - The 🥇 XCM-API in Polkadot & Kusama ecosystem. Implement XCM in packageless way.
+
+## Support
+
+- [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - White-glove solutions and dedicated support team for visionary teams using Substrate.
+- [Stack Exchange](https://substrate.stackexchange.com/) - The best place for all technical questions.
+- [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
+- [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - The Treasury funds are allocated through the voting on spending proposal.
+- [Decentralized Futures Program](https://futures.web3.foundation/)-A Funding Program to Kickstart Teams & Initiatives Driving Polkadot’s Success.
+  
 
 ## Resources
 
@@ -304,7 +327,9 @@ volume blockchain transactions at low, predictable costs.
 - [DotforDummies](https://www.dotfordummies.co/)- A comprehensive reading list for the Polkadot ecosystem.
 - [SubVT](https://subvt.io/)- SubVT (Substrate Validator Toolkit) is a native mobile application for iOS and Android phones, tablets, and 
   wearables that provides node operators with tools that aid them in running their validators on any Substrate-based blockchain network.
-- [KusumaFly](https://kusama-fly-ksm.vercel.app/)- Kusama version of Flappy Bird 
+- [KusumaFly](https://kusama-fly-ksm.vercel.app/)- Kusama version of Flappy Bird
+- [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
+- [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 
 
 ## Learning
