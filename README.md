@@ -164,6 +164,14 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
 - [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - The Treasury funds are allocated through the voting on spending proposal.
 - [Decentralized Futures Program](https://futures.web3.foundation/)-A Funding Program to Kickstart Teams & Initiatives Driving Polkadot’s Success.
+
+## Events
+
+- [Sub0 Developer Conference](https://sub0.parity.io/) - Semiannual, online and in-person for all
+  things Substrate.
+- [Substrate Seminar](https://substrate.io/ecosystem/resources/seminar/) - Bi-weekly
+  collaborative learning sessions.
+- [Polkadot Decoded](https://events.polkadot.network/)- Annual flagship event of Polkadot ecosystem.
   
 
 ## Resources
