@@ -12,6 +12,10 @@
 
 ## Content
 - [About Polkadot](#about-polkadot)
+  - [Polkadot official](#polkadot-official)
+  - [Presentation and Talks](#presentation-talks)
+- [About Kusama](#about-kusama)
+  - [Kusama Official Pages](#kusama-official)
 
 
 ### About Polkadot
@@ -22,7 +26,7 @@ communicate with each other in  a secure, trust-free environment.
 - [Polkadot wiki](https://wiki.polkadot.network/)
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
   
-#### Polkadot official pages
+#### Polkadot official 
 - [Polkadot](https://polkadot.network/) - Official website.
 - [Web3 Foundation](https://web3.foundation/) - Official website of the foundation.
 - [Polkadot FAQ](https://polkadot.network/faq) - General questions on Polkadot.
@@ -30,6 +34,9 @@ communicate with each other in  a secure, trust-free environment.
 - [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
 - [Polkadot Forum](https://forum.polkadot.network/)- Thoughtful discussion around Polkadot and Kusama.
 - Technical Papers
+  - [English Language](https://polkadot.network/whitepaper/)
+  - [Hindi Language](https://bit.ly/3BxMBGf)
+  - [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
   - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
   - [Polkadot: Vision for a heterogeneous multi-chain framework](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
   - [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
@@ -43,15 +50,12 @@ communicate with each other in  a secure, trust-free environment.
 ### About Kusama
  Kusama is a scalable network of specialized blockchains built using a substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot. 
 
-#### Kusama official pages
+#### Kusama Official
 - [kusama](https://www.kusama.network/)- Official website.
 - [kusama FAQ](https://guide.kusama.network/docs/faq/)- Kusama FAQ.
 - [Kusama Governance](https://kusama.polkassembly.io/)- Governance for Kusama network.
 
-#### Whitepaper
-- [English Language](https://polkadot.network/whitepaper/)
-- [Hindi Language](https://bit.ly/3BxMBGf)
-- [Korean Language](https://crowdin.com/translate/polkadot-docs/1060/en-ko?filter=basic&value=0)
+
 
 ### About Substrate
 Substrate is a framework for building upgradable, modular and efficient
