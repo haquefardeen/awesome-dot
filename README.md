@@ -3,9 +3,7 @@
 
 > Please see [awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) for a similar list that is more specific to the Substrate, the blockchain framework of the Polkadot ecosystem.
 
-## About Polkadot
-Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
-communicate with each other in  a secure, trust-free environment. 
+
 
 
 
@@ -17,6 +15,9 @@ communicate with each other in  a secure, trust-free environment.
 
 
 ### About Polkadot
+Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
+communicate with each other in  a secure, trust-free environment. 
+
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
 - [Polkadot wiki](https://wiki.polkadot.network/)
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
