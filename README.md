@@ -41,6 +41,15 @@
 - [Learning](#learning)
    - [Websites](#websites)
    - [Courses](#courses)
+   - [Videos](#videos)
+- [Media](#media)
+  - [Newsletter](#newsletter)
+  - [Blogs&Articles](#blogs-articles)
+  - [Youtube Session](#youtube-session)
+- [Jobs](#jobs)
+- [DApps](#dapps)
+- [Related Resources]
+  - [Polkadot Global Channel](#polkadot-global-channel)
 
 ### About Polkadot
 Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
@@ -282,7 +291,14 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Dotordinals](https://github.com/niklabh/dotordinals)- Ordinals for polkadot ecosystem
 - [ContractWizards](https://contractwizard.xyz/)- A tool that simplifies creating and managing smart contract for Dotsama networks with the contracts Pallet.
 - [OpenGov Watch](https://www.opengov.watch/)- A website that works on developing governance in Polkadot ecosystem.
-- [ParaSpell XCM Playground](https://github.com/paraspell/xcm-tools/tree/main/apps/playground) - Playground for various XCM Tools for Users/Devs to try out XCM
+- [ParaSpell XCM Playground](https://github.com/paraspell/xcm-tools/tree/main/apps/playground) - Playground for various XCM Tools for Users/Devs to try out XCM-
+- [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
+- [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
+- [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor)- Ironoa developed a monitoring and alerting tool for nodes and validators.
+- [Session Key Finder](https://paranodes.io/SessionKeys)- Session key finder for any stash address.
+- [Kusama NFT tool](https://kusama.d3sjfzcxgz1xj9.amplifyapp.com/)- A community visualization tool
+- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
+
 
 
 
@@ -391,27 +407,25 @@ volume blockchain transactions at low, predictable costs.
 - [Introduction to Rust](https://github.com/CrackTheCode016/intro-to-rust-workshop)- A beginner friendly course for Rust beginners.
 
 
-### Read
-
-
-
-
-
-
 ### Videos 
 
   -  [Describedot](https://www.youtube.com/channel/UCMLbuHyF7gFb1A0U4WE7cXQ) - This channel provides an easy explanation about Polkadot in Hindi language.
   -  [Jay Chrawna](https://youtube.com/c/JayChrawnna) - Jay helps the user by teaching them about governance and everything related to Polkadot.
-  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities          that are happening in Kusama ecosystem.
-  -  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers this channel has provided      value in every YouTube video Please go and watch.
+  -  [Alice and Bob](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) - Alice and Bob helps to teach the tokonomics and update you with all the activities          that are 
+     happening in Kusama ecosystem.
+  -  [Cryptor](https://www.youtube.com/c/Cryptor)-For the Russian community this channel is a blessing. With over twenty thousand subscribers this channel has provided      value in 
+     every YouTube video Please go and watch.
   -  [Polkadot](https://www.youtube.com/watch?v=GcOKXAOh4Xw)- Official channel of Polkadot.
   -  [Whiteboard crypto](https://www.youtube.com/watch?v=YlAdEQp6ekM&t=23s)-DOT explained with animation.
   -  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA)- Kusama & Polkadot parachains explained in simple terms.
-  -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is amazing and worth watching.
-  -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token is amazing.
+  -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is 
+     amazing and worth watching.
+  -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token 
+     is amazing.
   -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot.
   -  [Web3 Online](https://www.youtube.com/@web3online)- Learn about Rust and Polkadot ecosystem.
-  -  [Polkadot in Action](https://www.youtube.com/playlist?list=PLi8ol7g_VgHE6ODDyvaWyLn-JhFIiERB_) - Polkadot in Action YouTube series showcasing the power of Polkadot through the Nova Wallet
+  -  [Polkadot in Action](https://www.youtube.com/playlist?list=PLi8ol7g_VgHE6ODDyvaWyLn-JhFIiERB_) - Polkadot in Action YouTube series showcasing the power of Polkadot through the 
+     Nova Wallet
 
 
 ## Media
@@ -421,7 +435,8 @@ volume blockchain transactions at low, predictable costs.
 - [Dot.Alert](https://dot-alert.gitbook.io/dot.alert/)- A knowledgebase that provides practical guidelines for managing assets safely 
    across the Polkadot ecosystem.
 - [DotLeap](https://newsletter.dotleap.com/)- The most comprehensive weekly newsletter for the Polkadot ecosystem.
-- [Substrate Newsletter](https://substrate.io/ecosystem/connect/newsletter/) - Subscribe for the latest news, technical updates and helpful Substrate developer resources.    
+- [Substrate Newsletter](https://substrate.io/ecosystem/connect/newsletter/) - Subscribe for the latest news, technical updates and helpful Substrate developer resources.
+- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.   
 
 
 #### Blogs and Articles
@@ -432,7 +447,8 @@ volume blockchain transactions at low, predictable costs.
 -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
 -  [Anaelle Github](https://anaelleltd.company/blog/)- Easily guide to Polkadot network and the governance.
 -  [Learn Polkadot](https://learnpolkadot.com/)- A community-hosted, curated, and maintained Polkadot hub.
--  
+-  [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ)- Anaelle's article on How to submit 
+  referenda in Polkadot
      
     
 ### Youtube sessions 
@@ -442,21 +458,6 @@ volume blockchain transactions at low, predictable costs.
 - [Polkadot India](https://www.youtube.com/watch?v=uCp7mB8sEQY)- A session on Polkadot, how does it work and key points to develop in Polkadot.
      
     
-
-## Tools
-
-- [Scout-by Polkachu](https://polkachu.com/scout)- A Validator lookup tool that provides nominators very fast.
-- [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot)- A GitHub bot to submit tips on behalf of contributors.
-- [Dot Scanner](https://dotscanner.com/)- Blockchain explorer for Polkadot, Kusama, and other substrate-based networks.
-- [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor)- Ironoa developed a monitoring and alerting tool for nodes and validators.
-- [Session Key Finder](https://paranodes.io/SessionKeys)- Session key finder for any stash address.
-- [Kusama NFT tool](https://kusama.d3sjfzcxgz1xj9.amplifyapp.com/)- A community visualization tool
-- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
-- [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ)- Anaelle's article on How to submit 
-  referenda in Polkadot
-
-
-
 ### Jobs 
 
 -  [Jobs in Polkadot](https://polkadot.getro.com/jobs)- Find jobs in Polkadot ecosystem
