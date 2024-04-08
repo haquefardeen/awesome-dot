@@ -24,7 +24,24 @@
 - [Hardware Wallets](#hardware-wallets)
 - [Multisig Wallets](#multisig-wallet)
 - [Libraries](#libraries)
-- 
+- [Support](#support)
+- [Events](#events)
+- [Resources](#resources)
+   - [Governance](#governance)
+   - [Staking](#staking)
+   - [Bridges](#bridges)
+   - [Tools](#tools)
+   - [Polkadot Host Implementation](#polkadot-host-implementation)
+   - [Polkadot Runtime Implementation](#polkadot-runtime-implementation)
+   - [DAO](#dao)
+   - [Oracles](#oracles)
+   - [Social](#social)
+   - [Utilities](#utilities)
+   - [Communuity Projects](#community-projects)
+- [Learning](#learning)
+   - [Websites](#websites)
+   - [Courses](#courses)
+
 ### About Polkadot
 Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
 communicate with each other in  a secure, trust-free environment. 
