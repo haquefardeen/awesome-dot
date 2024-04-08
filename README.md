@@ -18,7 +18,13 @@
   - [Kusama Official Pages](#kusama-official)
 - [About Substrate](#about-substrate)
   - [Substrate Official](#substrate-official)
-- [
+- [Block Explorers](#block-explorers)
+- [Desktop Browser Extension Wallet](#desktop-browser-extension-wallet)
+- [Mobile Wallets](#mobile-wallets)
+- [Hardware Wallets](#hardware-wallets)
+- [Multisig Wallets](#multisig-wallet)
+- [Libraries](#libraries)
+- 
 ### About Polkadot
 Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
 communicate with each other in  a secure, trust-free environment. 
