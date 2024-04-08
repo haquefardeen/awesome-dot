@@ -48,7 +48,7 @@
   - [Youtube Session](#youtube-session)
 - [Jobs](#jobs)
 - [DApps](#dapps)
-- [Related Resources]
+- [Related Resources](#related-resources)
   - [Polkadot Global Channel](#polkadot-global-channel)
 
 ### About Polkadot
