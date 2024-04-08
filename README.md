@@ -16,8 +16,9 @@
   - [Presentation and Talks](#presentation-talks)
 - [About Kusama](#about-kusama)
   - [Kusama Official Pages](#kusama-official)
-
-
+- [About Substrate](#about-substrate)
+  - [Substrate Official](#substrate-official)
+- [
 ### About Polkadot
 Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to 
 communicate with each other in  a secure, trust-free environment. 
@@ -63,7 +64,7 @@ blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang
 maintained by [Parity Technologies](https://www.parity.io/). Source code available on
 [GitHub](https://github.com/paritytech/substrate).
 
-### Substrate Official Pages
+### Substrate Official 
   - [Official Homepage](https://substrate.io/) - Vision, ecosystem, opportunities, and much more.
   - [Docs](https://docs.substrate.io/) - Developer documentation.
   - [Tutorials](https://docs.substrate.io/tutorials) - Guided exercises to get you started.
@@ -456,7 +457,7 @@ volume blockchain transactions at low, predictable costs.
 
 
 
-### Youtube channels that are translating the content of Polkadot
+### Polkadot Global channel
 
 - [Polkadot Portugese](https://www.youtube.com/channel/UCDoiX3VhkSZGauEoxHW5Mug)
 - [Polkadot Spanish](https://www.youtube.com/channel/UCwN_l3gIBmM1esufGlqd3Mg/about)
