@@ -469,6 +469,10 @@ volume blockchain transactions at low, predictable costs.
 - [Paid Network](https://paidnetwork.com/)- A decentralized ecosystem designed to redefine the civil legal system.
 - [Kodadot](https://nft.kodadot.xyz/)-  Kusama native NFT platform.
 - [Prosopo](https://prosopo.io/)- Prosopo is a decentralized bot protection platform built on Polkadot.
+- [Polkadex](https://polkadex.trade)-A Fully non-custodial peer-to-peer orderbook-based cryptocurrency exchange for the DeFi ecosystem built on Substrate.
+- [Moonwell](https://moonwell.fi)- Open Lending and Borrowing Protocol.
+- [GrillApp](https://grillapp.net/c/hot-chats)- Decentralized Chat App
+- [Heal3](https://grillapp.net/c/hot-chats)- GameFi Healthcare DApp.
 
 
 ## Related Resources
