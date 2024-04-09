@@ -474,6 +474,10 @@ volume blockchain transactions at low, predictable costs.
 - [Moonwell](https://moonwell.fi)- Open Lending and Borrowing Protocol.
 - [GrillApp](https://grillapp.net/c/hot-chats)- Decentralized Chat App
 - [Heal3](https://grillapp.net/c/hot-chats)- GameFi Healthcare DApp.
+- [Zenlink](https://zenlink.pro)- DEX composable hub between all Polkadot parachains.
+- [Taiga](https://www.taigaprotocol.io)- Assest Protocol unifying DOT and KSM tokens.
+- [Subbridge](https://subbridge.io/)- Cross chain router of the parachains bridging Dotsama.
+  
 
 
 ## Related Resources
