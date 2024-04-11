@@ -274,7 +274,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [1KV API Monitor](https://ccris02.github.io/1KV_API/)- An online 1KV API monitoring service.
 - [Polkacli](https://github.com/kusamaxi/polkacli)-Bash tool for easy installation and running of Kusama nodes.
 - [Subscrape](https://github.com/ChaosDAO-org/subscrape)- A Python scraper for Substrate chains.
-- [Polkadot Cloud](https://polkadot.cloud/) - Polkadot Cloud is a library and platform for developing and publishing assets for Polkadot dapps. [Github](https://github.com/paritytech/polkadot-cloud)
+- [Polkadot UI](https://polkadot-ui.info/) - Polkadot UI is a library and platform for developing and publishing assets for Polkadot dapps. [Github](https://github.com/polkadot-ui/library)
 - [Polkascan Calendar](https://calendar.polkascan.io/)- An open-source web application that gives an overview of Substrate-based 
   blockchain events in time.
 - [PolkaTax](https://polkatax.com/)- Seamlessly track and export staking rewards across Polkadot and other substrate chains 
