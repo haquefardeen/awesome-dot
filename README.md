@@ -84,8 +84,8 @@ communicate with each other in  a secure, trust-free environment.
  Kusama is a scalable network of specialized blockchains built using a substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot. 
 
 #### Kusama Official
-- [kusama](https://www.kusama.network/)- Official website.
-- [kusama FAQ](https://guide.kusama.network/docs/faq/)- Kusama FAQ.
+- [Kusama](https://www.kusama.network/)- Official website.
+- [Kusama FAQ](https://guide.kusama.network/docs/faq/)- Kusama FAQ.
 - [Kusama Governance](https://kusama.polkassembly.io/)- Governance for Kusama network.
 
 
@@ -104,10 +104,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   - [Reference Docs](https://docs.substrate.io/rustdocs) - Versioned API documentation. 
 
 ### Block Explorers
-- [Polkascan](https://explorer.polkascan.io/)
 - [Subscan](https://polkadot.subscan.io/)
-- [Polkastats](https://polkastats.io/)
-- [Polkaholic](https://polkaholic.io/)
 
 ### Desktop Browser Extension Wallets
 - [Fearless.io](https://fearlesswallet.io/)- The DeFi wallet for the future.
@@ -198,10 +195,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Support
 
-- [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - White-glove solutions and dedicated support team for visionary teams using Substrate.
+- [Polkadot Alpha Program](https://polkadot.network/development/alpha/) - White-glove solutions and dedicated support team for visionary teams using Substrate.
 - [Stack Exchange](https://substrate.stackexchange.com/) - The best place for all technical questions.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
-- [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - The Treasury funds are allocated through the voting on spending proposal.
+- [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-guides-treasury) - The Treasury funds are allocated through the voting on spending proposal.
 - [Decentralized Futures Program](https://futures.web3.foundation/)-A Funding Program to Kickstart Teams & Initiatives Driving Polkadot’s Success.
 
 ## Events
@@ -220,7 +217,6 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [polkassembly](https://polkadot.polkassembly.io/)- An open-source platform to discuss governance proposals, motions, and 
   referenda.
 - [Subsquare](https://www.subsquare.io/)-SubSquare enables community members to propose, discuss and vote on governance proposals.
-- [BrightTreasury]( https://treasury.bright.dev )- A web application to interact with a treasury module of Substrate based networks.
 - [KusamaGovernance](https://www.kusamagovernance.com/)- The dashboard visualizes key metrics for referenda and accounts and helps token 
   holders in their decision-making when it comes to delegation and voting. It also provides key indicators of the overall health of our 
   governance system.
@@ -418,13 +414,13 @@ volume blockchain transactions at low, predictable costs.
      every YouTube video Please go and watch.
   -  [Polkadot](https://www.youtube.com/watch?v=GcOKXAOh4Xw)- Official channel of Polkadot.
   -  [Whiteboard crypto](https://www.youtube.com/watch?v=YlAdEQp6ekM&t=23s)-DOT explained with animation.
-  -  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA)- Kusama & Polkadot parachains explained in simple terms.
-  -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam)-A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is 
+  -  [Exodus](https://www.youtube.com/watch?v=i6AP6zkhOkA) - Kusama & Polkadot parachains explained in simple terms.
+  -  [Promo team channel](https://www.youtube.com/@PolkadotPromoTeam) - A marketing startup that is contributing to increasing the value of substrate. Their 2-minute weekly news is 
      amazing and worth watching.
-  -  [Kryptoschain](https://www.youtube.com/@KryptosChain)- From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token 
+  -  [Kryptoschain](https://www.youtube.com/@KryptosChain) - From Tutorials to News. This channel has covered a wide range of concepts. Their recent video about teleporting the token 
      is amazing.
-  -  [Unit Network](https://www.youtube.com/@UnitNetwork)- Learn about the fundamentals of Polkadot.
-  -  [Web3 Online](https://www.youtube.com/@web3online)- Learn about Rust and Polkadot ecosystem.
+  -  [Unit Network](https://www.youtube.com/@UnitNetwork) - Learn about the fundamentals of Polkadot.
+  -  [Web3 Online](https://www.youtube.com/@web3online) - Learn about Rust and Polkadot ecosystem.
   -  [Polkadot in Action](https://www.youtube.com/playlist?list=PLi8ol7g_VgHE6ODDyvaWyLn-JhFIiERB_) - Polkadot in Action YouTube series showcasing the power of Polkadot through the 
      Nova Wallet
 
@@ -433,9 +429,9 @@ volume blockchain transactions at low, predictable costs.
 
 ### Newsletter
 
-- [Dot.Alert](https://dot-alert.gitbook.io/dot.alert/)- A knowledgebase that provides practical guidelines for managing assets safely 
+- [Dot.Alert](https://dot-alert.gitbook.io/dot.alert/) - A knowledgebase that provides practical guidelines for managing assets safely 
    across the Polkadot ecosystem.
-- [DotLeap](https://newsletter.dotleap.com/)- The most comprehensive weekly newsletter for the Polkadot ecosystem.
+- [DotLeap](https://newsletter.dotleap.com/) - The most comprehensive weekly newsletter for the Polkadot ecosystem.
 - [Substrate Newsletter](https://substrate.io/ecosystem/connect/newsletter/) - Subscribe for the latest news, technical updates and helpful Substrate developer resources.
 - [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.   
 
@@ -444,49 +440,49 @@ volume blockchain transactions at low, predictable costs.
 
 -  [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
 -  [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
--  [Hold Polkadot](https://www.holdpolkadot.com)- This website tells the importance of Polkadot by giving very good infographics.
--  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
--  [Anaelle Github](https://anaelleltd.company/blog/)- Easily guide to Polkadot network and the governance.
--  [Learn Polkadot](https://learnpolkadot.com/)- A community-hosted, curated, and maintained Polkadot hub.
--  [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ)- Anaelle's article on How to submit 
+-  [Hold Polkadot](https://www.holdpolkadot.com) - This website tells the importance of Polkadot by giving very good infographics.
+-  [Chris Medium](https://ccris02.medium.com/) - Learn about the bigger picture of validators in Kusama.
+-  [Anaelle Github](https://anaelleltd.company/blog/) - Easily guide to Polkadot network and the governance.
+-  [Learn Polkadot](https://learnpolkadot.com/) - A community-hosted, curated, and maintained Polkadot hub.
+-  [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ) - Anaelle's article on How to submit 
   referenda in Polkadot
      
     
 ### Youtube sessions 
 
-- [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI) - Kirill talks about Web3's vision and give a brief summary about Polkadot.
-- [Polkadot Catalan](https://www.youtube.com/watch?v=CCgEA_CTRNI)- A session in Spanish on the history of blockchain tech, Kusama & Polkadot ecosystem.
-- [Polkadot India](https://www.youtube.com/watch?v=uCp7mB8sEQY)- A session on Polkadot, how does it work and key points to develop in Polkadot.
+- [Kirill session](https://www.youtube.com/watch?v=83-Tpr3kEYI)  - Kirill talks about Web3's vision and give a brief summary about Polkadot.
+- [Polkadot Catalan](https://www.youtube.com/watch?v=CCgEA_CTRNI) - A session in Spanish on the history of blockchain tech, Kusama & Polkadot ecosystem.
+- [Polkadot India](https://www.youtube.com/watch?v=uCp7mB8sEQY) - A session on Polkadot, how does it work and key points to develop in Polkadot.
      
     
 ### Jobs 
 
--  [Jobs in Polkadot](https://polkadot.getro.com/jobs)- Find jobs in Polkadot ecosystem
+-  [Jobs in Polkadot](https://polkadot.getro.com/jobs) - Find jobs in Polkadot ecosystem
 
 ### DApps
 
-- [Sub.id](https://sub.id/#/)- Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.
-- [Parallel.fi](https://parallel.fi/)- First lending protocol on Polkadot ecosystem.
-- [Paid Network](https://paidnetwork.com/)- A decentralized ecosystem designed to redefine the civil legal system.
-- [Kodadot](https://nft.kodadot.xyz/)-  Kusama native NFT platform.
-- [Prosopo](https://prosopo.io/)- Prosopo is a decentralized bot protection platform built on Polkadot.
-- [Polkadex](https://polkadex.trade)-A Fully non-custodial peer-to-peer orderbook-based cryptocurrency exchange for the DeFi ecosystem built on Substrate.
-- [Moonwell](https://moonwell.fi)- Open Lending and Borrowing Protocol.
-- [GrillApp](https://grillapp.net/c/hot-chats)- Decentralized Chat App
-- [Heal3](https://grillapp.net/c/hot-chats)- GameFi Healthcare DApp.
-- [Zenlink](https://zenlink.pro)- DEX composable hub between all Polkadot parachains.
-- [Taiga](https://www.taigaprotocol.io)- Assest Protocol unifying DOT and KSM tokens.
-- [Subbridge](https://subbridge.io/)- Cross chain router of the parachains bridging Dotsama.
+- [Sub.id](https://sub.id/#/) - Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.
+- [Parallel.fi](https://parallel.fi/) - First lending protocol on Polkadot ecosystem.
+- [Paid Network](https://paidnetwork.com/) - A decentralized ecosystem designed to redefine the civil legal system.
+- [Kodadot](https://nft.kodadot.xyz/) -  Kusama native NFT platform.
+- [Prosopo](https://prosopo.io/) - Prosopo is a decentralized bot protection platform built on Polkadot.
+- [Polkadex](https://polkadex.trade) - A Fully non-custodial peer-to-peer orderbook-based cryptocurrency exchange for the DeFi ecosystem built on Substrate.
+- [Moonwell](https://moonwell.fi) - Open Lending and Borrowing Protocol.
+- [GrillApp](https://grillapp.net/c/hot-chats) - Decentralized Chat App
+- [Heal3](https://grillapp.net/c/hot-chats) - GameFi Healthcare DApp.
+- [Zenlink](https://zenlink.pro) - DEX composable hub between all Polkadot parachains.
+- [Taiga](https://www.taigaprotocol.io) - Assest Protocol unifying DOT and KSM tokens.
+- [Subbridge](https://subbridge.io/) - Cross chain router of the parachains bridging Dotsama.
   
 
 
 ## Related Resources
 
-- [Promoteam 3D](https://readymag.com/joaji/parachain/)- An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community.
-- [Anaelleltd](https://anaelleltd.github.io/substrate4/)- A curated list of Substrate-related resources.
-- [ZKKnowledge Podcast](https://zeroknowledge.fm/171-2/)- Podcast on Mapping the Polkadot Ecosystem.
-- [Polkadot Comics](https://twitter.com/PolkadotComics)- A visual guide for Polkadot and parachains.
-- [Polkadot in 3D](https://hive.blog/polkadot/@the-jedi/the-polkadot-network-in-3d)- For 3D Visualization of Polkadot.
+- [Promoteam 3D](https://readymag.com/joaji/parachain/) - An open-source 3D model of Relay chain and Parachains for Polkadot and Kusama community.
+- [Anaelleltd](https://anaelleltd.github.io/substrate4/) - A curated list of Substrate-related resources.
+- [ZKKnowledge Podcast](https://zeroknowledge.fm/171-2/) - Podcast on Mapping the Polkadot Ecosystem.
+- [Polkadot Comics](https://twitter.com/PolkadotComics) - A visual guide for Polkadot and parachains.
+- [Polkadot in 3D](https://hive.blog/polkadot/@the-jedi/the-polkadot-network-in-3d) - For 3D Visualization of Polkadot.
 
 
 
