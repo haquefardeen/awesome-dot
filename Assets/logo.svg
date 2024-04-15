@@ -1,0 +1,19 @@
+
+<svg width="89px" height="38px" viewBox="0 0 89 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Factoria-Demi, Factoria" font-size="36" font-weight="500" letter-spacing="0.7">
+        <g id="Post-Copy" transform="translate(-514.000000, -380.000000)">
+            <g id="Group" transform="translate(514.000000, 380.000000)">
+                <text id="ad">
+                    <tspan x="22.652" y="29" fill="#000000">a</tspan>
+                    <tspan x="44.304" y="29" fill="#25C2A0">d</tspan>
+                </text>
+                <text id="&gt;" fill="#000000">
+                    <tspan x="69.148" y="31">&gt;</tspan>
+                </text>
+                <text id="&lt;" fill="#000000">
+                    <tspan x="0.148" y="31">&lt;</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
