@@ -1,7 +1,7 @@
 # Awesome-DOT.com
 
 <div align="center">
-<img src="Assets/logo.svg"/>
+<img width="120" src="Assets/Awesome-DOT-logo.png"/>
 </div>
 
 **Awesome Dot is a list that curates the best resources, projects, and learning around the Polkadot and Kusama ecosystem.**
