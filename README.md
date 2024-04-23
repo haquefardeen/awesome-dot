@@ -152,7 +152,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Block Explorers
 
 - [Subscan](https://polkadot.subscan.io/)
-- [Statescan](statescan.io)
+- [Statescan](https://www.statescan.io/)
 
 ## Wallets
 
