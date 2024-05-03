@@ -86,6 +86,7 @@
 Polkadot is an open-source blockchain platform. Polkadot enables scalability by allowing specialized blockchains to
 communicate with each other in a secure, trust-free environment.
 
+
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
 - [Polkadot wiki](https://wiki.polkadot.network/)
 - [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
@@ -138,7 +139,7 @@ Kusama is a scalable network of specialized blockchains built using a substrate 
 
 Substrate is a framework for building upgradable, modular and efficient
 blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang.org/) code that is
-maintained by [Parity Technologies](https://www.parity.io/). Source code available on
+maintained by [Parity Technologies](https://www.parity.io/).Source code available on
 [GitHub](https://github.com/paritytech/substrate).
 
 ### Substrate Officials
