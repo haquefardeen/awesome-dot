@@ -37,6 +37,7 @@
     - [Kusama Officials](#kusama-officials)
   - [About Substrate](#about-substrate)
     - [Substrate Officials](#substrate-officials)
+  - [System Chain](#system-chain)
   - [Block Explorers](#block-explorers)
   - [Wallets](#wallets)
     - [Desktop Wallets](#desktop-wallets)
@@ -159,6 +160,9 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
   - [Polkadot Alliance](https://polkadot.polkassembly.io/referendum/94)- Collaboration of different teams to bring ethics and standards to Polkadot ecosystem.
   - [Polkadot Technical Fellowship](https://wiki.polkadot.network/docs/learn-polkadot-technical-fellowship)- A self-governing body of experts and developers of Polkadot and Kusama.
      networks protocols.
+- [Coretime Chain](https://wiki.polkadot.network/docs/learn-agile-coretime#coretime-chain)- A system parachain responsible for sale of bulk coretime.
+  - [Lastic](https://www.lastic.xyz/)- Blockspace Marketplace
+  - [RegionX](https://app.regionx.tech/?network=kusama)- Coretime Marketplace for Polkadot. 
 - [People Chain](https://forum.polkadot.network/t/people-chain-launch-and-identity-migration-plan/5930/10)  
 
 ## Block Explorers
@@ -282,6 +286,8 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 </div>
 
 ## Resources
+
+### Agile 
 
 ### Governance
 
