@@ -287,7 +287,9 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 
 ## Resources
 
-### Agile 
+### Agile Coretime
+
+- [Agile Coretime Learning Resource](https://polkadot-public.notion.site/Agile-Coretime-FAQ-c930796e8c884011adb1fa24ef22f77c#2007eb68754a48beadaf8b76fbfe60b8)- A good learning resource to know about the basics of agile coretime.
 
 ### Governance
 
