@@ -89,8 +89,8 @@ communicate with each other in a secure, trust-free environment.
 
 
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
-- [Polkadot wiki](https://wiki.polkadot.network/)
-- [Polkadot Docs](https://wiki.polkadot.network/docs/getting-started)
+- [Polkadot wiki](https://wiki.polkadot.network/docs/getting-started)
+- [Polkadot Docs](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/index.html)
 
 ### Polkadot Officials
 
@@ -98,7 +98,7 @@ communicate with each other in a secure, trust-free environment.
 - [Web3 Foundation](https://web3.foundation/) - Official website of the foundation.
 - [Polkadot FAQ](https://polkadot.network/faq) - General questions on Polkadot.
 - [Polkadot Governance](https://polkadot.network/Governance) - Official website of Polkadot governance program.
-- [Polkadot Developer Portal](https://polkadot.network/Build) - Official Polkaot developer portal.
+- [Polkadot Developer Portal](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/index.html) - Official Polkadot developer portal.
 - [Polkadot Forum](https://forum.polkadot.network/) - Thoughtful discussion around Polkadot and Kusama.
 - Technical Papers
   - [English Language](https://polkadot.network/whitepaper/)
@@ -141,7 +141,7 @@ Kusama is a scalable network of specialized blockchains built using a substrate 
 Substrate is a framework for building upgradable, modular and efficient
 blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang.org/) code that is
 maintained by [Parity Technologies](https://www.parity.io/).Source code available on
-[GitHub](https://github.com/paritytech/substrate).
+[GitHub](https://github.com/paritytech/polkadot-sdk/tree/master/substrate).
 
 ### Substrate Officials
 
@@ -153,8 +153,8 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 
 ## System Chains
 - [Assest Hub](https://wiki.polkadot.network/docs/learn-assets)-  System chains that are build for creating and sending fungible and non-fungible tokens.
-  - [Kheopswap](https://kheopswap.xyz/#/polkadot/pools)- Decentralize exchange app for Polkadot.
-  - [DotACP](https://app.dotacp.mvpworkshop.co/pools?network=kusama)- Assest Conversion For Kusama.
+  - [Kheopswap](https://kheopswap.xyz/#/polkadot/pools)- DEX app for Polkadot Asset Hub.
+  - [DotACP](https://app.dotacp.mvpworkshop.co/pools?network=kusama)- Asset Conversion on Kusama and testnets.
 - [Bridge Hub](https://wiki.polkadot.network/docs/learn-bridge-hub)-  Trustless bridging with other blockchain networks like Kusama, Ethereum etc.
 - [Collectives](https://polkadot.polkassembly.io/referendum/81)- The Collectives chain hosts on-chain collectives that serve the Polkadot network.
   - [Polkadot Alliance](https://polkadot.polkassembly.io/referendum/94)- Collaboration of different teams to bring ethics and standards to Polkadot ecosystem.
@@ -289,6 +289,8 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 
 ### Agile Coretime
 
+- [Agile Coretime Wiki docs](https://wiki.polkadot.network/docs/learn-agile-coretime-index)
+- [Agile Coretime Tutorials](https://guide.kusama.network/docs/learn-agile-coretime-getting-started)
 - [Agile Coretime Learning Resource](https://polkadot-public.notion.site/Agile-Coretime-FAQ-c930796e8c884011adb1fa24ef22f77c#2007eb68754a48beadaf8b76fbfe60b8)- A good learning resource to know about the basics of agile coretime.
 
 ### Governance
@@ -299,7 +301,6 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 - [KusamaGovernance](https://www.kusamagovernance.com/) - The dashboard visualizes key metrics for referenda and accounts and helps token
   holders in their decision-making when it comes to delegation and voting. It also provides key indicators of the overall health of our
   governance system.
-- [Delegation Dashboard](https://delegation.polkadot.network/) - Easy to use dashboard for delegating votes for Polkadot OpenGov.
 - [Delegation Registry](https://github.com/novasamatech/opengov-delegate-registry) - OpenGov Delegate registry by Novasama Technologies — an open-source repository for Delegates to fill out their information to attract more delegations through the Agile Delegation feature
 - [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
 
@@ -311,6 +312,7 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 
 ### Bridges
 
+- [DOT <> KSM Bridge](https://wiki.polkadot.network/docs/learn-guides-dot-ksm-bridge) - trustless bridge between Polkadot and Kusama.
 - [Centrifuge](https://www.dotmarketcap.com/coin/centrifuge) - A decentralized asset finance.
 - [Stafi](https://www.dotmarketcap.com/coin/stafi) - The first DeFi protocol unlocking liquidity of staked assets.
 - [Ternoa](https://www.dotmarketcap.com/coin/coin-capsule) - NFT based decentralized data transmission blockchain.
@@ -482,6 +484,9 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 
 ### Websites
 
+- [Polkadot Blockchain Academy Book](https://polkadot-blockchain-academy.github.io/pba-book/)
+- [Polkadot Blockchain Academy Slides](https://polkadot-blockchain-academy.github.io/pba-content/) - Official slide deck of all PBA cohorts
+- [DotCodeSchool](https://dotcodeschool.com/) - Learn to Code Web3 Apps by Building Real Projects.
 - [Polkadot.Study](https://polkadot.study/) - Development tutorials for Polkadot
 - [AnaelleLTD Blog](https://anaelleltd.company/blog/2021/01/18/how-does-web-3-development-work/) - Blog for Learning Rust and Substrate
 - [Polkadot Philosophy](https://polkadotphilosophy.medium.com/) - In-Depth educational Content about Polkadot.
