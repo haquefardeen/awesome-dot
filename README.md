@@ -89,7 +89,7 @@ communicate with each other in a secure, trust-free environment.
 
 
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
-- [Polkadot wiki](https://wiki.polkadot.network/docs/getting-started)
+- [Polkadot Wiki](https://wiki.polkadot.network/docs/getting-started)
 - [Polkadot Docs](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/index.html)
 
 ### Polkadot Officials
@@ -140,7 +140,7 @@ Kusama is a scalable network of specialized blockchains built using a substrate 
 
 Substrate is a framework for building upgradable, modular and efficient
 blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang.org/) code that is
-maintained by [Parity Technologies](https://www.parity.io/).Source code available on
+maintained by [Parity Technologies](https://www.parity.io/). Source code available on
 [GitHub](https://github.com/paritytech/polkadot-sdk/tree/master/substrate).
 
 ### Substrate Officials
@@ -155,6 +155,7 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 - [Assest Hub](https://wiki.polkadot.network/docs/learn-assets)-  System chains that are build for creating and sending fungible and non-fungible tokens.
   - [Kheopswap](https://kheopswap.xyz/#/polkadot/pools)- DEX app for Polkadot Asset Hub.
   - [DotACP](https://app.dotacp.mvpworkshop.co/pools?network=kusama)- Asset Conversion on Kusama and testnets.
+  - [Taniko](https://taniko.soda.zone/) - an app to create and manage assets on Asset Hub. 
 - [Bridge Hub](https://wiki.polkadot.network/docs/learn-bridge-hub)-  Trustless bridging with other blockchain networks like Kusama, Ethereum etc.
 - [Collectives](https://polkadot.polkassembly.io/referendum/81)- The Collectives chain hosts on-chain collectives that serve the Polkadot network.
   - [Polkadot Alliance](https://polkadot.polkassembly.io/referendum/94)- Collaboration of different teams to bring ethics and standards to Polkadot ecosystem.
@@ -330,6 +331,10 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 - [Pendulum](https://www.dotmarketcap.com/coin/pendulum) - Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into the DeFi future.
 - [Darwinia Crab](https://www.dotmarketcap.com/coin/darwinia-crab-network) - Darwinia Crab Testnet is a canary network with real economics for Darwinia.
 - [Sygma](https://buildwithsygma.com/) - A substrate to EVM Bridge
+
+### XCM
+
+- [Bagpipes](https://xcmsend.com/#/builder) - lets you create workflows in a drag and drop style interface in order to build execution flows of cross chain assets transfers using XCM.
 
 ### Tools
 
