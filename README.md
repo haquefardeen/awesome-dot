@@ -382,6 +382,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor) - Ironoa developed a monitoring and alerting tool for nodes and validators.
 - [Session Key Finder](https://paranodes.io/SessionKeys) - Session key finder for any stash address.
 - [Kusama NFT tool](https://kusama.d3sjfzcxgz1xj9.amplifyapp.com/) - A community visualization tool
+- [FollowtheDot](https://followthedot.live/)-Balance transfer graph visualization application for Polkadot.
 - [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
 
 ### Polkadot Host Implementation
