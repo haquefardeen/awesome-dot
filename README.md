@@ -205,6 +205,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [DotApp](https://dotapps.io/)
 - [Talisman](https://app.talisman.xyz/portfolio)
 - [Sub.Id](https://sub.id/)
+- [SubWallet](https://web.subwallet.app/)
 
 ### Hardware Wallets
 
@@ -280,6 +281,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [ParaSpell XCM SDK](https://github.com/paraspell/xcm-tools/tree/main/packages/sdk) - SDK for handling XCM asset transfers across Polkadot and Kusama ecosystems.
 - [ParaSpell XCM ROUTER](https://github.com/paraspell/xcm-tools/tree/main/packages/xcm-router) - Tool for XCM cross-chain asset exchanging across Polkadot and Kusama ecosystems.
 - [ParaSpell XCM API](https://github.com/paraspell/xcm-tools/tree/main/apps/xcm-api) - The 🥇 XCM-API in Polkadot & Kusama ecosystem. Implement XCM in packageless way.
+- [SubConnect](https://github.com/Koniverse/SubConnect-v2) - The connector provides an efficient and easy solution for connecting Polkadot, Substrate, & Ethereum wallets. Developed by SubWallet
+- [Chainlist](https://github.com/Koniverse/SubWallet-ChainList) - This is the repository to integrate, and contain all information about projects/chains/assets available on Polkadot Ecosystem. Developed by SubWallet
+- [Ledger Account Recovery Tool](https://github.com/Koniverse/Ledger-Account-Recovery-Tool) - This offline tool can be used to export accounts on Polkadot-SDK networks from a Ledger device using seed phrases. Developed by SubWallet
 
 ---
 
