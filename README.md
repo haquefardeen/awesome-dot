@@ -92,6 +92,7 @@ communicate with each other in a secure, trust-free environment.
 - [Polkadot](https://www.youtube.com/watch?v=_-k0xkooSlA/)
 - [Polkadot Wiki](https://wiki.polkadot.network/docs/getting-started)
 - [Polkadot Docs](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/index.html)
+- [Polkadot Support Knowledge Base](https://support.polkadot.network/)
 
 ### Polkadot Officials
 
