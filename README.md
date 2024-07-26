@@ -285,6 +285,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [SubConnect](https://github.com/Koniverse/SubConnect-v2) - The connector provides an efficient and easy solution for connecting Polkadot, Substrate, & Ethereum wallets. Developed by SubWallet
 - [Chainlist](https://github.com/Koniverse/SubWallet-ChainList) - This is the repository to integrate, and contain all information about projects/chains/assets available on Polkadot Ecosystem. Developed by SubWallet
 - [Ledger Account Recovery Tool](https://github.com/Koniverse/Ledger-Account-Recovery-Tool) - This offline tool can be used to export accounts on Polkadot-SDK networks from a Ledger device using seed phrases. Developed by SubWallet
+- [Ocelloids SDK](https://github.com/sodazone/ocelloids-sdk) - Typescript SDK for building multi-chain applications using reactive data streams. Features dynamic filtering over streams and extraction for nested batch, proxy and multisig calls.
+- [Ocelloids Client Library](https://github.com/sodazone/ocelloids-services/tree/main/packages/client) - TypeScript client library to interact with Ocelloids Service APIs. Supports subscriptions to real-time data streams across multiple chains and enables querying of aggregated multi-chain data.
 
 ---
 
@@ -341,6 +343,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ### XCM
 
 - [Bagpipes](https://xcmsend.com/#/builder) - lets you create workflows in a drag and drop style interface in order to build execution flows of cross chain assets transfers using XCM.
+- [XCM Tracker](https://xcm-tracker.ocelloids.net/) - Track XCMs in the Polkadot ecosystem in real-time.
 
 ### Tools
 
@@ -390,6 +393,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [FollowtheDot](https://followthedot.live/)-Balance transfer graph visualization application for Polkadot.
 - [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
 - [LiteScan](https://github.com/pifragile/litescan) - A lightweight indexer for Polkadot chains.
+- [Ocelloids](https://www.ocelloids.net/) - Offchain layer to simplify cross-chain development. Offers real-time data streams and aggreated APIs for 20+ Polkadot and Kusama networks.
 
 ### Polkadot Host Implementation
 
