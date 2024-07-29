@@ -157,7 +157,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Assest Hub](https://wiki.polkadot.network/docs/learn-assets)-  System chains that are build for creating and sending fungible and non-fungible tokens.
   - [Kheopswap](https://kheopswap.xyz/#/polkadot/pools)- DEX app for Polkadot Asset Hub.
   - [DotACP](https://app.dotacp.mvpworkshop.co/pools?network=kusama)- Asset Conversion on Kusama and testnets.
-  - [Taniko](https://taniko.soda.zone/) - an app to create and manage assets on Asset Hub. 
+  - [Taniko](https://taniko.soda.zone/) - an app to create and manage assets on Asset Hub.
 - [Bridge Hub](https://wiki.polkadot.network/docs/learn-bridge-hub)-  Trustless bridging with other blockchain networks like Kusama, Ethereum etc.
 - [Collectives](https://polkadot.polkassembly.io/referendum/81)- The Collectives chain hosts on-chain collectives that serve the Polkadot network.
   - [Polkadot Alliance](https://polkadot.polkassembly.io/referendum/94)- Collaboration of different teams to bring ethics and standards to Polkadot ecosystem.
@@ -165,8 +165,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
      networks protocols.
 - [Coretime Chain](https://wiki.polkadot.network/docs/learn-agile-coretime#coretime-chain)- A system parachain responsible for sale of bulk coretime.
   - [Lastic](https://www.lastic.xyz/)- Blockspace Marketplace
-  - [RegionX](https://app.regionx.tech/?network=kusama)- Coretime Marketplace for Polkadot. 
-- [People Chain](https://forum.polkadot.network/t/people-chain-launch-and-identity-migration-plan/5930/10)  
+  - [RegionX](https://app.regionx.tech/?network=kusama)- Coretime Marketplace for Polkadot.
+- [People Chain](https://forum.polkadot.network/t/people-chain-launch-and-identity-migration-plan/5930/10)
 
 ## Block Explorers
 
@@ -394,6 +394,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
 - [LiteScan](https://github.com/pifragile/litescan) - A lightweight indexer for Polkadot chains.
 - [Ocelloids](https://www.ocelloids.net/) - Offchain layer to simplify cross-chain development. Offers real-time data streams and aggreated APIs for 20+ Polkadot and Kusama networks.
+- [Pop CLI](https://onpop.io/) - Your all-in-one tool for Polkadot development.
+
 
 ### Polkadot Host Implementation
 
@@ -567,7 +569,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Learn Polkadot](https://learnpolkadot.com/) - A community-hosted, curated, and maintained Polkadot hub.
 - [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ) - Anaelle's article on How to submit
   referenda in Polkadot
-  
+
 
 ### Youtube Sessions
 
