@@ -395,6 +395,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [LiteScan](https://github.com/pifragile/litescan) - A lightweight indexer for Polkadot chains.
 - [Ocelloids](https://www.ocelloids.net/) - Offchain layer to simplify cross-chain development. Offers real-time data streams and aggreated APIs for 20+ Polkadot and Kusama networks.
 - [Pop CLI](https://onpop.io/) - Your all-in-one tool for Polkadot development.
+- [tapDOT](https://tapdot.xyz/)- One click blockchain actions for Polkadot.
 
 
 ### Polkadot Host Implementation
