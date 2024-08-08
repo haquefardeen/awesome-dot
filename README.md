@@ -587,7 +587,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Sub.id](https://sub.id/#/) - Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.
 - [Parallel.fi](https://parallel.fi/) - First lending protocol on Polkadot ecosystem.
 - [Paid Network](https://paidnetwork.com/) - A decentralized ecosystem designed to redefine the civil legal system.
-- [Kodadot](https://nft.kodadot.xyz/) - Kusama native NFT platform.
+- [Koda.](https://kodadot.xyz/) - Your Generative Art Marketplace & One-stop shop for Polkadot NFTs
 - [Prosopo](https://prosopo.io/) - Prosopo is a decentralized bot protection platform built on Polkadot.
 - [Polkadex](https://polkadex.trade) - A Fully non-custodial peer-to-peer orderbook-based cryptocurrency exchange for the DeFi ecosystem built on Substrate.
 - [Moonwell](https://moonwell.fi) - Open Lending and Borrowing Protocol.
