@@ -115,6 +115,7 @@ communicate with each other in a secure, trust-free environment.
 
 - [What is Polkadot](https://www.youtube.com/watch?v=29Ty-VTDnh4) - Bill Laboon Presentation
 - [What is OpenGov](https://www.youtube.com/watch?v=Iv7b4ZxUzoM) - Bill Laboon Explaining about OpenGov
+- [What is Polkadot 2.0](https://www.youtube.com/watch?si=ZM6ljI4Dt90nl67G&v=f4yK-yyLz60&feature=youtu.be)- The Defiant team explaining about Polkadot 2.0
 
 ---
 
