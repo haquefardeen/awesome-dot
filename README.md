@@ -560,8 +560,11 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [DotLeap](https://newsletter.dotleap.com/) - The most comprehensive weekly newsletter for the Polkadot ecosystem.
 - [Substrate Newsletter](https://substrate.io/ecosystem/connect/newsletter/) - Subscribe for the latest news, technical updates and helpful Substrate developer resources.
 - [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
+- [Polkadot Insider](https://x.com/PolkadotInsider)- Get insightful analytics and updates about Polkadot.
+- [Dotgraphic](https://x.com/dotgraphic1)- Layman infographics for the Polkadot ecosystem. 
+  
 
-### Blogs and Articles
+### Blogs
 
 - [Lorimer Jenkins](https://lorimerjenkins.medium.com/) - Lorimer provides great input relating to Kusama parachain.If you got a chance please go through this.
 - [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
@@ -571,6 +574,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Learn Polkadot](https://learnpolkadot.com/) - A community-hosted, curated, and maintained Polkadot hub.
 - [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ) - Anaelle's article on How to submit
   referenda in Polkadot
+
+### Articles
 
 
 ### Youtube Sessions
