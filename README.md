@@ -345,6 +345,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [Bagpipes](https://xcmsend.com/#/builder) - lets you create workflows in a drag and drop style interface in order to build execution flows of cross chain assets transfers using XCM.
 - [XCM Tracker](https://xcm-tracker.ocelloids.net/) - Track XCMs in the Polkadot ecosystem in real-time.
+- [XCM Tracer](https://tracer.xcm.app/)- A simple app that lets you track cross-chain messages seamlessly across Polkadot chains.
 
 ### Tools
 
