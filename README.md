@@ -288,7 +288,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Ledger Account Recovery Tool](https://github.com/Koniverse/Ledger-Account-Recovery-Tool) - This offline tool can be used to export accounts on Polkadot-SDK networks from a Ledger device using seed phrases. Developed by SubWallet
 - [Ocelloids SDK](https://github.com/sodazone/ocelloids-sdk) - Typescript SDK for building multi-chain applications using reactive data streams. Features dynamic filtering over streams and extraction for nested batch, proxy and multisig calls.
 - [Ocelloids Client Library](https://github.com/sodazone/ocelloids-services/tree/main/packages/client) - TypeScript client library to interact with Ocelloids Service APIs. Supports subscriptions to real-time data streams across multiple chains and enables querying of aggregated multi-chain data.
-
+- [Dedot Client Library](https://github.com/dedotdev/dedot) - Dedot is a JavaScript client for Polkadot and Substrate-based blockchains, optimized for lightweight and tree-shakable dapp development offering precise types and API suggestions with latest metadata integration for solochains and ink! Smart Contracts. (Made by OpenGuild Community)
+- [polkadot-rs](https://github.com/openguild-labs/polkadot-rs) - Minimal Rust implementation of `@polkadot-js/api`. (Made by OpenGuild Community)
 ---
 
 <div align="center">
@@ -399,7 +400,6 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Pop CLI](https://onpop.io/) - Your all-in-one tool for Polkadot development.
 - [tapDOT](https://tapdot.xyz/)- One click blockchain actions for Polkadot.
 
-
 ### Polkadot Host Implementation
 
 - [Gossamer](https://github.com/ChainSafe/gossamer) - Go Implementation of the Polkadot Host
@@ -496,6 +496,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 - [OGtracker](https://ogtracker.io/) - The Tracking tool for OpenGov deliverables.
 - [JAMChain](https://jamcha.in/clients)- Tracking teams that are working on JAM implementations in different languages.
+- [OpenGuild Community Platform](https://app.openguild.wtf/) - Platform made for Polkadot builders to participate in activities to earn XP and rewards from open contribution bounty pool.
 
 ---
 
@@ -515,6 +516,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot Philosophy](https://polkadotphilosophy.medium.com/) - In-Depth educational Content about Polkadot.
 - [Substrate in Bits](https://github.com/Chondria/SiB) - Going in-depth in all-things-substrate.
 - [Kusama Academy](https://kusama.academy/en/learn/) - Learn about Polkadot and different Parachains.
+- [OpenGuild Learning Hub](https://openguild.wtf/learn) - Learn about Rust, Polkadot SDK and ink!
 
 ### Courses
 
@@ -545,6 +547,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Web3 Online](https://www.youtube.com/@web3online) - Learn about Rust and Polkadot ecosystem.
 - [Polkadot in Action](https://www.youtube.com/playlist?list=PLi8ol7g_VgHE6ODDyvaWyLn-JhFIiERB_) - Polkadot in Action YouTube series showcasing the power of Polkadot through the
   Nova Wallet
+- [OpenGuild](https://www.youtube.com/@openguildwtf) - Learn about Polkadot development and ecosystem. 
 
 ---
 
@@ -575,6 +578,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Learn Polkadot](https://learnpolkadot.com/) - A community-hosted, curated, and maintained Polkadot hub.
 - [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ) - Anaelle's article on How to submit
   referenda in Polkadot
+- [OpenGuild Blogs](https://openguild.wtf/blog) - Blogs written by Polkadot builders in the OpenGuild community about Polkadot technical topics. 
 
 ### Articles
 
@@ -642,6 +646,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [ZKKnowledge Podcast](https://zeroknowledge.fm/171-2/) - Podcast on Mapping the Polkadot Ecosystem.
 - [Polkadot Comics](https://twitter.com/PolkadotComics) - A visual guide for Polkadot and parachains.
 - [Polkadot in 3D](https://hive.blog/polkadot/@the-jedi/the-polkadot-network-in-3d) - For 3D Visualization of Polkadot.
+- [JAM Knowledge Map](https://github.com/openguild-labs/learn-jam) - A knowledge map for learning about JAM. (Made by OpenGuild Community)
 
 ---
 
