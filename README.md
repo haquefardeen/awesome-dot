@@ -400,6 +400,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Pop CLI](https://onpop.io/) - Your all-in-one tool for Polkadot development.
 - [tapDOT](https://tapdot.xyz/)- One click blockchain actions for Polkadot.
 - [Giant Squid](https://github.com/LimeChain/giant-squid-main) - Indexer for the Polkadot relay chain and the parachains.
+- [Dotmemo](https://dotmemo.xyz/)- DApp for creating and preserving digital memories of online & offline events.
 
 ### Polkadot Host Implementation
 
