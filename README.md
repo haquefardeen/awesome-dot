@@ -290,6 +290,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Ocelloids Client Library](https://github.com/sodazone/ocelloids-services/tree/main/packages/client) - TypeScript client library to interact with Ocelloids Service APIs. Supports subscriptions to real-time data streams across multiple chains and enables querying of aggregated multi-chain data.
 - [Dedot Client Library](https://github.com/dedotdev/dedot) - Dedot is a JavaScript client for Polkadot and Substrate-based blockchains, optimized for lightweight and tree-shakable dapp development offering precise types and API suggestions with latest metadata integration for solochains and ink! Smart Contracts. (Made by OpenGuild Community)
 - [polkadot-rs](https://github.com/openguild-labs/polkadot-rs) - Minimal Rust implementation of `@polkadot-js/api`. (Made by OpenGuild Community)
+- [Polkadart](https://github.com/leonardocustodio/polkadart) - Dart library to fully interact with any Polkadot-based blockchain.
 ---
 
 <div align="center">
