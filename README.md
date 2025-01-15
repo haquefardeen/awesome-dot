@@ -437,6 +437,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Kylin Network](https://www.dotmarketcap.com/coin/kylin-network) - A Cross-chain platform building supporting data economy on Polkadot.
 - [Ares Protocol](https://www.dotmarketcap.com/coin/ares-protocol) - A Decentralized Cross-chain Oracle Service Protocol.
 
+### Identity Registrars
+
+- [PolkaIdentity](https://polkaidentity.com) - A decentralized identity provider on Polkadot.
+
 ---
 
 <div align="center">
