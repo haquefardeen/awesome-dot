@@ -402,7 +402,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [tapDOT](https://tapdot.xyz/)- One click blockchain actions for Polkadot.
 - [Giant Squid](https://github.com/LimeChain/giant-squid-main) - Indexer for the Polkadot relay chain and the parachains.
 - [Dotmemo](https://dotmemo.xyz/)- DApp for creating and preserving digital memories of online & offline events.
-- [Dotless](https://dotless.xyz/)- Interactive visualization of Polkadot's economic model
+- [Dotless](https://dotless.xyz/)- Interactive visualization of Polkadot's economic model.
+- [polkadot.wtf](https://polkadot.wtf/)- Real Time dashboard for all the chains in Polkadot.
 
 ### Polkadot Host Implementation
 
