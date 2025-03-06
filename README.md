@@ -405,6 +405,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Dotmemo](https://dotmemo.xyz/)- DApp for creating and preserving digital memories of online & offline events.
 - [Dotless](https://dotless.xyz/)- Interactive visualization of Polkadot's economic model.
 - [polkadot.wtf](https://polkadot.wtf/)- Real Time dashboard for all the chains in Polkadot.
+- [Cryptotux Raffle](https://github.com/cyphertux/cryptotux-raffle/tree/main)-A decentralized, transparent, and verifiable raffle system built on blockchain technology.
 
 ### Polkadot Host Implementation
 
@@ -461,6 +462,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Crowns](https://www.dotmarketcap.com/coin/crowns) - The Crown Jewel of Incentivized Gaming.
 - [Demeter](https://www.dotmarketcap.com/coin/demeter) - A first Ceres airdrop token with its platform called Demeter Farming Platform and
   The play-to-Earn game is called DEO Arena.
+- [Entropretty](https://entropretty.com/)- A new tool to create algorithm based tattoo art for Web3Citizenship app.
 
 ## Utilities
 
@@ -507,6 +509,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [OGtracker](https://ogtracker.io/) - The Tracking tool for OpenGov deliverables.
 - [JAMChain](https://jamcha.in/clients)- Tracking teams that are working on JAM implementations in different languages.
 - [OpenGuild Community Platform](https://app.openguild.wtf/) - Platform made for Polkadot builders to participate in activities to earn XP and rewards from open contribution bounty pool.
+- [Polkadot Skilltree](https://github.com/KarimJedda/polkadot-skilltree)- Visual map of cool stuff you can do on Polkadot.
+- [SS58 to Emoji](https://karimjedda.github.io/ss58-emoji/)- Convert Polkadot addresses to unique emoji sequences for easy visual identification. 
 
 ---
 
