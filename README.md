@@ -292,6 +292,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [polkadot-rs](https://github.com/openguild-labs/polkadot-rs) - Minimal Rust implementation of `@polkadot-js/api`. (Made by OpenGuild Community)
 - [Polkadart](https://github.com/leonardocustodio/polkadart) - Dart library to fully interact with any Polkadot-based blockchain.
 - [Epico](https://www.blockdeep.io/epico)- A tool to Call your Substrate extrinsics directly from MetaMask
+  
 ---
 
 <div align="center">
@@ -316,6 +317,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   governance system.
 - [Delegation Registry](https://github.com/novasamatech/opengov-delegate-registry) - OpenGov Delegate registry by Novasama Technologies — an open-source repository for Delegates to fill out their information to attract more delegations through the Agile Delegation feature
 - [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
+- [AI Governance Agent](https://github.com/niklabh/opengov-agent)- An AI agent that provides OpenGov proposal feedback and simplified conviction voting.
 
 ### Staking
 
@@ -406,6 +408,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Dotless](https://dotless.xyz/)- Interactive visualization of Polkadot's economic model.
 - [polkadot.wtf](https://polkadot.wtf/)- Real Time dashboard for all the chains in Polkadot.
 - [Cryptotux Raffle](https://github.com/cyphertux/cryptotux-raffle/tree/main)-A decentralized, transparent, and verifiable raffle system built on blockchain technology.
+- [Polkadot Next.js template](https://github.com/niklasp/polkadot-nextjs-starter)- A starter template for building frontend applications on the Polkadot network.
+- [Dotshield](https://dotshield.app/)-A tool that Automates the verification & moderation for Telegram Communities.
+- [Polkadot Deployment Portal](https://www.deploypolkadot.xyz/)- Deploy on Polkadot easily.
+  
 
 ### Polkadot Host Implementation
 
@@ -510,7 +516,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [JAMChain](https://jamcha.in/clients)- Tracking teams that are working on JAM implementations in different languages.
 - [OpenGuild Community Platform](https://app.openguild.wtf/) - Platform made for Polkadot builders to participate in activities to earn XP and rewards from open contribution bounty pool.
 - [Polkadot Skilltree](https://github.com/KarimJedda/polkadot-skilltree)- Visual map of cool stuff you can do on Polkadot.
-- [SS58 to Emoji](https://karimjedda.github.io/ss58-emoji/)- Convert Polkadot addresses to unique emoji sequences for easy visual identification. 
+- [SS58 to Emoji](https://karimjedda.github.io/ss58-emoji/)- Convert Polkadot addresses to unique emoji sequences for easy visual identification.
+- [Dotbountieshub](https://dotbountieshub.online/)- Discover all the bounties on the Polkadot ecosystem.
+- [Opentgov](https://opentgov.com/)- Participate in Polkadot Opengov through Telegram.
 
 ---
 
