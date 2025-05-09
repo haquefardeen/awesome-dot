@@ -306,6 +306,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Agile Coretime Wiki docs](https://wiki.polkadot.network/docs/learn-agile-coretime-index)
 - [Agile Coretime Tutorials](https://guide.kusama.network/docs/learn-agile-coretime-getting-started)
 - [Agile Coretime Learning Resource](https://polkadot-public.notion.site/Agile-Coretime-FAQ-c930796e8c884011adb1fa24ef22f77c#2007eb68754a48beadaf8b76fbfe60b8)- A good learning resource to know about the basics of agile coretime.
+- [Coretime Simulator](https://jonas-coretime.jedda.eu/)- A coretime simulator App
 
 ### Governance
 
@@ -411,6 +412,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot Next.js template](https://github.com/niklasp/polkadot-nextjs-starter)- A starter template for building frontend applications on the Polkadot network.
 - [Dotshield](https://dotshield.app/)-A tool that Automates the verification & moderation for Telegram Communities.
 - [Polkadot Deployment Portal](https://www.deploypolkadot.xyz/)- Deploy on Polkadot easily.
+- [PAPI Playground](https://papi-simulator.aipop.fun/)- For developers to craft, evaluate, and deploy React components that seamlessly interact with Polkadot.
   
 
 ### Polkadot Host Implementation
@@ -469,6 +471,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Demeter](https://www.dotmarketcap.com/coin/demeter) - A first Ceres airdrop token with its platform called Demeter Farming Platform and
   The play-to-Earn game is called DEO Arena.
 - [Entropretty](https://entropretty.com/)- A new tool to create algorithm based tattoo art for Web3Citizenship app.
+- [Anarchy Build](https://anarchy.build/)- a community innovation hub where creators working with ai can build in public.
 
 ## Utilities
 
@@ -519,6 +522,11 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [SS58 to Emoji](https://karimjedda.github.io/ss58-emoji/)- Convert Polkadot addresses to unique emoji sequences for easy visual identification.
 - [Dotbountieshub](https://dotbountieshub.online/)- Discover all the bounties on the Polkadot ecosystem.
 - [Opentgov](https://opentgov.com/)- Participate in Polkadot Opengov through Telegram.
+- [Multisig Tool](https://multisig.usepapi.app/)- A multisig tool built with PAPI that’s completely stateless.
+- [Dotrollups](https://dotrollups.com/)-Interactive tool to calculate cost savings vs other networks.
+- [Exbrid](https://github.com/blockdeep/exbrid)-Ethereum <> Polkadot messaging experiment using Reth ExEx.
+- [XCM Analytics](https://xcm-analytics.ocelloids.net/)- Cross chain visualization tool
+- [Covermax](https://covermax.netlify.app/)- Premium free protocol insurance for Polkadot. 
 
 ---
 
