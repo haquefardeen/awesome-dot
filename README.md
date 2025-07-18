@@ -292,6 +292,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [polkadot-rs](https://github.com/openguild-labs/polkadot-rs) - Minimal Rust implementation of `@polkadot-js/api`. (Made by OpenGuild Community)
 - [Polkadart](https://github.com/leonardocustodio/polkadart) - Dart library to fully interact with any Polkadot-based blockchain.
 - [Epico](https://www.blockdeep.io/epico)- A tool to Call your Substrate extrinsics directly from MetaMask
+- [Kheopskit](https://github.com/kheopskit/kheopskit)- Library for connecting dapps to multiple platforms & wallets.
   
 ---
 
@@ -319,6 +320,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Delegation Registry](https://github.com/novasamatech/opengov-delegate-registry) - OpenGov Delegate registry by Novasama Technologies — an open-source repository for Delegates to fill out their information to attract more delegations through the Agile Delegation feature
 - [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
 - [AI Governance Agent](https://github.com/niklabh/opengov-agent)- An AI agent that provides OpenGov proposal feedback and simplified conviction voting.
+- [dv.report](https://dv.report/)- DV Cohort Dashboard
 
 ### Staking
 
@@ -526,7 +528,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Dotrollups](https://dotrollups.com/)-Interactive tool to calculate cost savings vs other networks.
 - [Exbrid](https://github.com/blockdeep/exbrid)-Ethereum <> Polkadot messaging experiment using Reth ExEx.
 - [XCM Analytics](https://xcm-analytics.ocelloids.net/)- Cross chain visualization tool
-- [Covermax](https://covermax.netlify.app/)- Premium free protocol insurance for Polkadot. 
+- [Covermax](https://covermax.netlify.app/)- Premium free protocol insurance for Polkadot.
+- [Builder Map](https://themvp07.github.io/PolkadotBuilderMap/)- Polkadot Builder Map 
 
 ---
 
