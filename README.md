@@ -268,7 +268,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [iOS Substrate SDK](https://github.com/novasamatech/substrate-sdk-ios) - Swift Substrate SDK for iOS by Novasama Technologies
 - [Android Substrate SDK](https://github.com/novasamatech/substrate-sdk-android) - Kotlin Substrate SDK for Android by Novasama Technologies
 - [API for Polkadot & Kusama Eco](https://api.novasama.io/) - API for Polkadot/Kusama ecosystem networks & solochains, implemented & hosted on SubQuery. Includes Operations, Staking analytics, Governance, Multistaking APIs, code found [Here](https://github.com/novasamatech/subquery-nova), [here](https://github.com/novasamatech/subquery-governance) and [here](https://github.com/novasamatech/subquery-staking)
-- [Polkassets](https://www.polkassets.com/) - Icons for Polkadot and Kusama ecosystems as well as Parachains
+- ~[Polkassets](https://www.polkassets.com/) - Icons for Polkadot and Kusama ecosystems as well as Parachains~
 - [Design Assets for Polkadot Ecosystem - Novasama](https://www.figma.com/community/file/1039874427311142565) - Design Assets for Polkadot ecosystem — tokens, networks, DApps.
 - [Slothunter](https://github.com/hack-ink/slothunter/) - A bot for Polkadot parachain auctions.
 - [Talisman Connect](https://github.com/TalismanSociety/talisman-connect) - This library aims to provide the components necessary for Dapp
@@ -286,7 +286,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [SubConnect](https://github.com/Koniverse/SubConnect-v2) - The connector provides an efficient and easy solution for connecting Polkadot, Substrate, & Ethereum wallets. Developed by SubWallet
 - [Chainlist](https://github.com/Koniverse/SubWallet-ChainList) - This is the repository to integrate, and contain all information about projects/chains/assets available on Polkadot Ecosystem. Developed by SubWallet
 - [Ledger Account Recovery Tool](https://github.com/Koniverse/Ledger-Account-Recovery-Tool) - This offline tool can be used to export accounts on Polkadot-SDK networks from a Ledger device using seed phrases. Developed by SubWallet
-- [Ocelloids SDK](https://github.com/sodazone/ocelloids-sdk) - Typescript SDK for building multi-chain applications using reactive data streams. Features dynamic filtering over streams and extraction for nested batch, proxy and multisig calls.
+- ~[Ocelloids SDK](https://github.com/sodazone/ocelloids-sdk) - Typescript SDK for building multi-chain applications using reactive data streams. Features dynamic filtering over streams and extraction for nested batch, proxy and multisig calls.~
 - [Ocelloids Client Library](https://github.com/sodazone/ocelloids-services/tree/main/packages/client) - TypeScript client library to interact with Ocelloids Service APIs. Supports subscriptions to real-time data streams across multiple chains and enables querying of aggregated multi-chain data.
 - [Dedot Client Library](https://github.com/dedotdev/dedot) - Dedot is a JavaScript client for Polkadot and Substrate-based blockchains, optimized for lightweight and tree-shakable dapp development offering precise types and API suggestions with latest metadata integration for solochains and ink! Smart Contracts. (Made by OpenGuild Community)
 - [polkadot-rs](https://github.com/openguild-labs/polkadot-rs) - Minimal Rust implementation of `@polkadot-js/api`. (Made by OpenGuild Community)
@@ -314,9 +314,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [polkassembly](https://polkadot.polkassembly.io/) - An open-source platform to discuss governance proposals, motions, and
   referenda.
 - [Subsquare](https://www.subsquare.io/) - SubSquare enables community members to propose, discuss and vote on governance proposals.
-- [KusamaGovernance](https://www.kusamagovernance.com/) - The dashboard visualizes key metrics for referenda and accounts and helps token
+- ~[KusamaGovernance](https://www.kusamagovernance.com/) - The dashboard visualizes key metrics for referenda and accounts and helps token
   holders in their decision-making when it comes to delegation and voting. It also provides key indicators of the overall health of our
-  governance system.
+  governance system.~
 - [Delegation Registry](https://github.com/novasamatech/opengov-delegate-registry) - OpenGov Delegate registry by Novasama Technologies — an open-source repository for Delegates to fill out their information to attract more delegations through the Agile Delegation feature
 - [Delegation Registry Wiki](https://docs.novawallet.io/nova-wallet-wiki/governance/add-delegate-information) - How to sign up for the Delegation Registry.
 - [AI Governance Agent](https://github.com/niklabh/opengov-agent)- An AI agent that provides OpenGov proposal feedback and simplified conviction voting.
@@ -347,11 +347,11 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Pontem Network](https://www.dotmarketcap.com/coin/pontem-network) - Pontem Network is the bridge between Crypto and Diem by Facebook.
 - [Pendulum](https://www.dotmarketcap.com/coin/pendulum) - Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into the DeFi future.
 - [Darwinia Crab](https://www.dotmarketcap.com/coin/darwinia-crab-network) - Darwinia Crab Testnet is a canary network with real economics for Darwinia.
-- [Sygma](https://buildwithsygma.com/) - A substrate to EVM Bridge
+- ~[Sygma](https://buildwithsygma.com/) - A substrate to EVM Bridge~
 
 ### XCM
 
-- [Bagpipes](https://xcmsend.com/#/builder) - lets you create workflows in a drag and drop style interface in order to build execution flows of cross chain assets transfers using XCM.
+- [Bagpipes](https://bagpipes.io) - lets you create workflows in a drag and drop style interface in order to build execution flows of cross chain assets transfers using XCM.
 - [XCM Tracker](https://xcm-tracker.ocelloids.net/) - Track XCMs in the Polkadot ecosystem in real-time.
 - [XCM Tracer](https://tracer.xcm.app/)- A simple app that lets you track cross-chain messages seamlessly across Polkadot chains.
 
@@ -365,7 +365,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Uptest](https://github.com/uptest-sc/uptest/tree/main) - Uptest aims to be an easy stand-alone library for testing runtime upgrades
   before they are deployed.
 - [Web3Alert](https://web3alert.io/) - Get instant alert of your favorite blockchain.
-- [Polkabeat](https://polkabeat.org/polkabeat/) - Measuring the decentralization of each parachain.
+- ~[Polkabeat](https://polkabeat.org/polkabeat/) - Measuring the decentralization of each parachain.~
 - [Thousand Validator Dashboard](https://insights.math-crypto.com/polkadot/) - This Dashboard allows people to track the performance of w3f
   Thousand Validators.
 - [One-T](https://github.com/turboflakes/one-t) - Performance Report bot for Polkadot and Kusama.
@@ -374,34 +374,34 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Substrate Cronde](https://github.com/stakelink/substrate-crond) - a tool that allows tasks to be executed based on substrate events.
 - [Scouty](https://github.com/turboflakes/scouty) - Scouty is a command-line interface (CLI) to keep an eye on substrate-based chains and
   hook things up.
-- [1KV API Monitor](https://ccris02.github.io/1KV_API/) - An online 1KV API monitoring service.
+- ~[1KV API Monitor](https://ccris02.github.io/1KV_API/) - An online 1KV API monitoring service.~
 - [Polkacli](https://github.com/kusamaxi/polkacli) - Bash tool for easy installation and running of Kusama nodes.
 - [Subscrape](https://github.com/ChaosDAO-org/subscrape) - A Python scraper for Substrate chains.
-- [Polkadot UI](https://polkadot-ui.info/) - Polkadot UI is a library and platform for developing and publishing assets for Polkadot dapps. [Github](https://github.com/polkadot-ui/library)
-- [Polkascan Calendar](https://calendar.polkascan.io/) - An open-source web application that gives an overview of Substrate-based
-  blockchain events in time.
+- ~[Polkadot UI](https://polkadot-ui.info/) - Polkadot UI is a library and platform for developing and publishing assets for Polkadot dapps. [Github](https://github.com/polkadot-ui/library)~
+- ~[Polkascan Calendar](https://calendar.polkascan.io/) - An open-source web application that gives an overview of Substrate-based
+  blockchain events in time.~
 - [PolkaTax](https://polkatax.com/) - Seamlessly track and export staking rewards across Polkadot and other substrate chains
   in both crypto and fiat currencies for effortless taxation and monitoring.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - Collect staking rewards.
 - [Polkalert](https://github.com/galacticcouncil/polkalert) - Polkadot / Substrate-based node monitoring.
-- [SS58 Generator](https://polkadot.subscan.io/tools/ss58_transform) - Easily Convert address into Substrate based chains.
+- ~[SS58 Generator](https://polkadot.subscan.io/tools/ss58_transform) - Easily Convert address into Substrate based chains.~
 - [Polkanalyzer](https://github.com/filippoweb3/polkanalyzer) - A tool that allows one to easily visualize Polkadot's NPoS data and make a
   fair selection of validator nodes.
 - [Mixbytes Tank](https://github.com/mixbytes/tank) - Benchmarking tool for Substrate and Polkadot.
 - [Ponto](https://github.com/mobr-ai/POnto) - A blockchain ontology for the Polkadot ecosystem.
-- [TPscore](https://tpscore.xyz/) - Transactions per Second Data Analysis for non-technical users in the Polkadot Ecosystem.
+- ~[TPscore](https://tpscore.xyz/) - Transactions per Second Data Analysis for non-technical users in the Polkadot Ecosystem.~
 - [Polkadot Weigher](https://polkadot-weigher.com/) - Track the core time utilization of all para chains on Polkadot and Kusama.
-- [Dotordinals](https://github.com/niklabh/dotordinals) - Ordinals for polkadot ecosystem
-- [ContractWizards](https://contractwizard.xyz/) - A tool that simplifies creating and managing smart contract for Dotsama networks with the contracts Pallet.
+- ~[Dotordinals](https://github.com/niklabh/dotordinals) - Ordinals for polkadot ecosystem~
+- ~[ContractWizards](https://contractwizard.xyz/) - A tool that simplifies creating and managing smart contract for Dotsama networks with the contracts Pallet.~
 - [OpenGov Watch](https://www.opengov.watch/) - A website that works on developing governance in Polkadot ecosystem.
 - [ParaSpell XCM Playground](https://github.com/paraspell/xcm-tools/tree/main/apps/playground) - Playground for various XCM Tools for Users/Devs to try out XCM-
-- [Scout-by Polkachu](https://polkachu.com/scout) - A Validator lookup tool that provides nominators very fast.
+- ~[Scout-by Polkachu](https://polkachu.com/scout) - A Validator lookup tool that provides nominators very fast.~
 - [Substrate Tip Bot](https://github.com/paritytech/substrate-tip-bot) - A GitHub bot to submit tips on behalf of contributors.
 - [Polkadot K8s monitor](https://github.com/ironoa/polkadot-k8s-monitor) - Ironoa developed a monitoring and alerting tool for nodes and validators.
 - [Session Key Finder](https://paranodes.io/SessionKeys) - Session key finder for any stash address.
 - [Kusama NFT tool](https://kusama.d3sjfzcxgz1xj9.amplifyapp.com/) - A community visualization tool
 - [FollowtheDot](https://followthedot.live/)-Balance transfer graph visualization application for Polkadot.
-- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
+- ~[CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.~
 - [LiteScan](https://github.com/pifragile/litescan) - A lightweight indexer for Polkadot chains.
 - [Ocelloids](https://www.ocelloids.net/) - Offchain layer to simplify cross-chain development. Offers real-time data streams and aggreated APIs for 20+ Polkadot and Kusama networks.
 - [Pop CLI](https://onpop.io/) - Your all-in-one tool for Polkadot development.
@@ -413,7 +413,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [polkadot.wtf](https://polkadot.wtf/)- Real Time dashboard for all the chains in Polkadot.
 - [Cryptotux Raffle](https://github.com/cyphertux/cryptotux-raffle/tree/main)-A decentralized, transparent, and verifiable raffle system built on blockchain technology.
 - [Polkadot Next.js template](https://github.com/niklasp/polkadot-nextjs-starter)- A starter template for building frontend applications on the Polkadot network.
-- [Dotshield](https://dotshield.app/)-A tool that Automates the verification & moderation for Telegram Communities.
+- ~[Dotshield](https://dotshield.app/)-A tool that Automates the verification & moderation for Telegram Communities.~
 - [Polkadot Deployment Portal](https://www.deploypolkadot.xyz/)- Deploy on Polkadot easily.
 - [PAPI Playground](https://papi-simulator.aipop.fun/)- For developers to craft, evaluate, and deploy React components that seamlessly interact with Polkadot.
   
@@ -436,14 +436,14 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ### DAO
 
 - [Automata](https://www.dotmarketcap.com/coin/automata) - Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
-- [Houses of Rome](https://www.dotmarketcap.com/coin/rome) - Assembling the great houses to build an APYRPG on Kusama & Polkadot.
+- ~[Houses of Rome](https://www.dotmarketcap.com/coin/rome) - Assembling the great houses to build an APYRPG on Kusama & Polkadot.~
 - [Edgeware](https://www.dotmarketcap.com/coin/edgeware) - Decentralized applications for an Open Society. Community-owned & powered by Substrate.
 - [Chaos DAO](https://twitter.com/ChaosDAO) - The first friendly community in Polkadot and Kusama, ChaosDAO focuses on quality over
   quantity, and is full of varied and valuable minds taking progressive action.
 - [DotValidators](https://dotvalidators.org/#about) - A community who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.
-- [PolkadotBuilders](https://app.polkadotbuilders.xyz/) - Creating public goods in the Polkadot Ecosystem
+- ~[PolkadotBuilders](https://app.polkadotbuilders.xyz/) - Creating public goods in the Polkadot Ecosystem~
 - [InvArchNetwork](https://invarch.network/) - Multichain network for launching decentralized communities.
-- [Mangobox](https://www.mangobox.xyz/) - Fund-raising protocol on Polkadot
+- ~[Mangobox](https://www.mangobox.xyz/) - Fund-raising protocol on Polkadot~
 
 ### Oracles
 
@@ -469,7 +469,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Frequency](https://www.frequency.xyz/) - Implements Decentralized Social Networking Protocol (DSNP). Frequency gives builders high
   volume blockchain transactions at low, predictable costs.
 - [Saito Network](https://www.dotmarketcap.com/coin/saito) - A blockchain process terabytes of data, decentralize from micropayments to email & social networks.
-- [House of Rome](https://www.dotmarketcap.com/coin/rome) - Assembling the great houses to build an APYRPG on Kusama & Polkadot.
+- ~[House of Rome](https://www.dotmarketcap.com/coin/rome) - Assembling the great houses to build an APYRPG on Kusama & Polkadot.~
 - [Crowns](https://www.dotmarketcap.com/coin/crowns) - The Crown Jewel of Incentivized Gaming.
 - [Demeter](https://www.dotmarketcap.com/coin/demeter) - A first Ceres airdrop token with its platform called Demeter Farming Platform and
   The play-to-Earn game is called DEO Arena.
@@ -494,30 +494,30 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [ProofofChaos](https://www.proofofchaos.app/) - Incentivise voting to decentralize Kusama.
 - [Parachains Info](https://parachains.info/#!) - Get the essential information of every parachain auction.
 - [dot treasury](https://www.dotreasury.com/) - This website focus on creating accountability and transparency of Kusama treasury by providing every detail.
-- [talkpolkadot](https://talkpolkadot.com/) - A media site dedicated to sharing information on Polkadot-related, projects, technology, media, and events.
+- ~[talkpolkadot](https://talkpolkadot.com/) - A media site dedicated to sharing information on Polkadot-related, projects, technology, media, and events.~
 - [Polkadir](https://polkadir.com/) - Directory for Polkadot, Kusama and Substrate resources.
-- [Parastats](https://parastats.io/) - Listing of upcoming projects opting for a parachain on Kusama.
+- ~[Parastats](https://parastats.io/) - Listing of upcoming projects opting for a parachain on Kusama.~
 - [Yieldbay](https://yieldbay.io/) - Find all dotsama liquidity pools and yield farms.
 - [Polkalytics](https://www.polkalytics.io/) - Learn about the insights of Polkadot data ecosystem.
 - [DotAppstore](https://dotappstore.com/) - Polkadot ecosystem App directory
 - [Submap](https://playing-with-dust.github.io/submap/) - Map out all the extrinsic of your account.
 - [Nominumbers](https://playing-with-dust.github.io/nominumbers/) - This open-source app reads subscan and tries to collect your total
   rewards from the last week (28 eras) for each validator you currently nominate, and display it as a percentage.
-- [Vegas1KV](https://vegas1kv.com/) - 1KvP Leaderboard
+- ~[Vegas1KV](https://vegas1kv.com/) - 1KvP Leaderboard~
 - [DB Size](https://paranodes.io/DBSize) - A website that updates hourly with Polkadot and Kusama DB sizes.
 - [Certum Maps](https://www.certhum.com/maps/kusama) - A tool that displays the location of active Kusama validators on a global map.
 - [TotalPanic](https://github.com/ksmnetwork/Total-Panic) - Kusama and Polkadot Telemetry Analysis and Alerting.
 - [Chainziz](https://alpha.chainviz.app/) - Open-sourced visualization tool for Polkadot and Kusama network.
 - [Dotstaking Income Web](https://james-sangalli.github.io/dot-staking-income-web/) - An open-source web app that allows users to generate
   their staking rewards in CSV format.
-- [Parasnaps](https://amforc.com/parasnaps) - This project provides database snapshots for pruned validators databases for Polkadot and
-  Kusama.
-- [DotforDummies](https://www.dotfordummies.co/) - A comprehensive reading list for the Polkadot ecosystem.
+- ~[Parasnaps](https://amforc.com/parasnaps) - This project provides database snapshots for pruned validators databases for Polkadot and
+  Kusama.~
+- ~[DotforDummies](https://www.dotfordummies.co/) - A comprehensive reading list for the Polkadot ecosystem.~
 - [SubVT](https://subvt.io/) - SubVT (Substrate Validator Toolkit) is a native mobile application for iOS and Android phones, tablets, and
   wearables that provides node operators with tools that aid them in running their validators on any Substrate-based blockchain network.
 - [KusumaFly](https://kusama-fly-ksm.vercel.app/) - Kusama version of Flappy Bird
 - [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
-- [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+- ~[Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).~
 - [OGtracker](https://ogtracker.io/) - The Tracking tool for OpenGov deliverables.
 - [JAMChain](https://jamcha.in/clients)- Tracking teams that are working on JAM implementations in different languages.
 - [OpenGuild Community Platform](https://app.openguild.wtf/) - Platform made for Polkadot builders to participate in activities to earn XP and rewards from open contribution bounty pool.
@@ -529,7 +529,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Dotrollups](https://dotrollups.com/)-Interactive tool to calculate cost savings vs other networks.
 - [Exbrid](https://github.com/blockdeep/exbrid)-Ethereum <> Polkadot messaging experiment using Reth ExEx.
 - [XCM Analytics](https://xcm-analytics.ocelloids.net/)- Cross chain visualization tool
-- [Covermax](https://covermax.netlify.app/)- Premium free protocol insurance for Polkadot.
+- ~[Covermax](https://covermax.netlify.app/)- Premium free protocol insurance for Polkadot.~
 - [Builder Map](https://themvp07.github.io/PolkadotBuilderMap/)- Polkadot Builder Map 
 
 ---
@@ -546,8 +546,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot Blockchain Academy Slides](https://polkadot-blockchain-academy.github.io/pba-content/) - Official slide deck of all PBA cohorts
 - [DotCodeSchool](https://dotcodeschool.com/) - Learn to Code Web3 Apps by Building Real Projects.
 - [Polkadot.Study](https://polkadot.study/) - Development tutorials for Polkadot
-- [AnaelleLTD Blog](https://anaelleltd.company/blog/2021/01/18/how-does-web-3-development-work/) - Blog for Learning Rust and Substrate
-- [Polkadot Philosophy](https://polkadotphilosophy.medium.com/) - In-Depth educational Content about Polkadot.
+- ~[AnaelleLTD Blog](https://anaelleltd.company/blog/2021/01/18/how-does-web-3-development-work/) - Blog for Learning Rust and Substrate~
+- ~[Polkadot Philosophy](https://polkadotphilosophy.medium.com/) - In-Depth educational Content about Polkadot.~
 - [Substrate in Bits](https://github.com/Chondria/SiB) - Going in-depth in all-things-substrate.
 - [Kusama Academy](https://kusama.academy/en/learn/) - Learn about Polkadot and different Parachains.
 - [OpenGuild Learning Hub](https://openguild.wtf/learn) - Learn about Rust, Polkadot SDK and ink!
@@ -555,7 +555,6 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ### Courses
 
 - [Blockchain Training Alliance](https://blockchaintrainingalliance.com/collections/self-paced-training/products/developing-on-polkadot-with-substrate) - A course for developers to learn how to effectively build on Polkadot.
-- [TeachMe Defi](https://teachmedefi.de/) - A German Educational Platform for Polkadot ecosystem.
 - [Introduction to Blockchain Course](https://www.edx.org/course/introduction-to-blockchain-and-web3/?webview=false&campaign=Introduction+to+Blockchain+and+Web3&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- A course by Web3 Foundation that helps you to understand the fundamental concepts of Blockchain technology and Web3.
 - [Introduction to Polkadot](https://www.edx.org/course/introduction-to-polkadot?webview=false&campaign=Introduction+to+Polkadot&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fweb3x)- This course provides a comprehensive overview of Polkadot Network, its technology, and ecosystem.
 - [Polkadot Blockchain Academy Courses](https://polkadot-blockchain-academy.github.io/pba-book/) - This book is the home of the majority of materials used within the Polkadot
@@ -597,9 +596,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   across the Polkadot ecosystem.
 - [DotLeap](https://newsletter.dotleap.com/) - The most comprehensive weekly newsletter for the Polkadot ecosystem.
 - [Substrate Newsletter](https://substrate.io/ecosystem/connect/newsletter/) - Subscribe for the latest news, technical updates and helpful Substrate developer resources.
-- [CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.
+- ~[CoinReference](https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/) - Coin Reference is a brand of social products mainly for the Polkadot, Kusama, Astar & SORA ecosystems. Providing media tools & events for dotsama users.~
 - [Polkadot Insider](https://x.com/PolkadotInsider)- Get insightful analytics and updates about Polkadot.
-- [Dotgraphic](https://x.com/dotgraphic1)- Layman infographics for the Polkadot ecosystem. 
+- [Dotgraphic](https://x.com/dotgraphic1)- Layman infographics for the Polkadot ecosystem.
+- [TeachMe Defi](https://teachmedefi.de/) - A German Educational Newsletter for Polkadot ecosystem.  
   
 
 ### Blogs
@@ -608,7 +608,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Vision Staking](https://visionstake.medium.com/) - Vision staking is a one of the best informative website to learn about staking and everything.
 - [Hold Polkadot](https://www.holdpolkadot.com) - This website tells the importance of Polkadot by giving very good infographics.
 - [Chris Medium](https://ccris02.medium.com/) - Learn about the bigger picture of validators in Kusama.
-- [Anaelle Github](https://anaelleltd.company/blog/) - Easily guide to Polkadot network and the governance.
+- ~[Anaelle Github](https://anaelleltd.company/blog/) - Easily guide to Polkadot network and the governance.~
 - [Learn Polkadot](https://learnpolkadot.com/) - A community-hosted, curated, and maintained Polkadot hub.
 - [OpenGov Article](https://scribehow.com/shared/How_to_Submit_a_Polkadot_OpenGov_referendum_for_a_treasury_proposal__lvcYGpIqQ6GPSn9gvMO-KQ) - Anaelle's article on How to submit
   referenda in Polkadot
@@ -629,14 +629,14 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## DApps
 
-- [Sub.id](https://sub.id/#/) - Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.
+- ~[Sub.id](https://sub.id/#/) - Sub.ID is the one stop shop to see all of your addresses and balances, crowdloan contribution and everything.~
 - [Parallel.fi](https://parallel.fi/) - First lending protocol on Polkadot ecosystem.
 - [Paid Network](https://paidnetwork.com/) - A decentralized ecosystem designed to redefine the civil legal system.
 - [Koda.](https://kodadot.xyz/) - Your Generative Art Marketplace & One-stop shop for Polkadot NFTs
 - [Prosopo](https://prosopo.io/) - Prosopo is a decentralized bot protection platform built on Polkadot.
 - [Polkadex](https://polkadex.trade) - A Fully non-custodial peer-to-peer orderbook-based cryptocurrency exchange for the DeFi ecosystem built on Substrate.
 - [Moonwell](https://moonwell.fi) - Open Lending and Borrowing Protocol.
-- [GrillApp](https://grillapp.net/c/hot-chats) - Decentralized Chat App
+- ~[GrillApp](https://grillapp.net/c/hot-chats) - Decentralized Chat App~
 - [Heal3](https://grillapp.net/c/hot-chats) - GameFi Healthcare DApp.
 - [Zenlink](https://zenlink.pro) - DEX composable hub between all Polkadot parachains.
 - [Taiga](https://www.taigaprotocol.io) - Assest Protocol unifying DOT and KSM tokens.
