@@ -463,7 +463,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## SocialFi
 
-- [Bit.Country Pioneer](https://www.dotmarketcap.com/coin/pioneer-network) - Metaverse Hub of Kusama - the canary network of Bit Country.
+- [Bit.Country Pioneer](https://apps.bit.country/) - Metaverse Hub of Kusama - the canary network of Bit Country.
 - [SubSocial](https://www.dotmarketcap.com/coin/subsocial-network) - Open protocol for social + finance on Polkadot and IPFS.
 - [Joystream](https://www.dotmarketcap.com/coin/joystream) - Joystream is a video platform controlled, owned, and operated by its users.
 - [Frequency](https://www.frequency.xyz/) - Implements Decentralized Social Networking Protocol (DSNP). Frequency gives builders high
