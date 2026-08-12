@@ -478,6 +478,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Utilities
 
+- [OpenChainBench](https://openchainbench.com) - Open-source RPC endpoint latency benchmarks and finality time measurements for Polkadot, Kusama, and parachain infrastructure.
 - [Sora Validator](https://www.dotmarketcap.com/coin/sora-validator-token) - Utility & governance token used to reward validators on the SORA Network.
 - [LCDOT](https://www.dotmarketcap.com/coin/lcdot) - A derivative that enables Crowdloan participants to stay liquid while contributing to the Acala Crowdloan.
 - [DatDot](https://datdot.org/) - An autonomous hosting network for p2p data systems.
