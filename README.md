@@ -389,6 +389,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   fair selection of validator nodes.
 - [Mixbytes Tank](https://github.com/mixbytes/tank) - Benchmarking tool for Substrate and Polkadot.
 - [Ponto](https://github.com/mobr-ai/POnto) - A blockchain ontology for the Polkadot ecosystem.
+- [Chartscout](https://chartscout.io) - Real-Time Detection. Scans pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
 - [TPscore](https://tpscore.xyz/) - Transactions per Second Data Analysis for non-technical users in the Polkadot Ecosystem.
 - [Polkadot Weigher](https://polkadot-weigher.com/) - Track the core time utilization of all para chains on Polkadot and Kusama.
 - [Dotordinals](https://github.com/niklabh/dotordinals) - Ordinals for polkadot ecosystem
