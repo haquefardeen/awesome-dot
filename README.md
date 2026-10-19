@@ -417,6 +417,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot Deployment Portal](https://www.deploypolkadot.xyz/)- Deploy on Polkadot easily.
 - [PAPI Playground](https://papi-simulator.aipop.fun/)- For developers to craft, evaluate, and deploy React components that seamlessly interact with Polkadot.
 - [Testnet Faucets](https://testnetfaucets.dev) - Directory of testnet faucets, checked daily and verified on-chain. Free JSON API.
+- [OnFinality](https://onfinality.io/en/networks/polkadot) - Managed RPC endpoints and dedicated nodes for Polkadot and Substrate networks.
   
 
 ### Polkadot Host Implementation
