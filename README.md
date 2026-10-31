@@ -643,6 +643,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Zenlink](https://zenlink.pro) - DEX composable hub between all Polkadot parachains.
 - [Taiga](https://www.taigaprotocol.io) - Assest Protocol unifying DOT and KSM tokens.
 - [Subbridge](https://subbridge.io/) - Cross chain router of the parachains bridging Dotsama.
+- [WOF](https://wof.artis.love/) - Wheel of Fortune, a generative artwork on Polkadot: play the wheel in your browser, make your twelve-second loop, mint it from your own wallet.
+- [WOF Shop](https://nft.artis.love/) - The pieces of Wheel of Fortune on Polkadot Asset Hub: mint, buy and sell straight from your wallet, no marketplace fees.
 
 ---
 
