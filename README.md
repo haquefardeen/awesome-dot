@@ -348,6 +348,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Pendulum](https://www.dotmarketcap.com/coin/pendulum) - Enter the internet of fiat, a blockchain offering composable fiat services to swing fintech companies into the DeFi future.
 - [Darwinia Crab](https://www.dotmarketcap.com/coin/darwinia-crab-network) - Darwinia Crab Testnet is a canary network with real economics for Darwinia.
 - [Sygma](https://buildwithsygma.com/) - A substrate to EVM Bridge
+- [Shieldz Swap](https://swap.shieldz.cash) - Non-custodial swaps between DOT and BTC, ETH, SOL, USDT and 40 more chains, no account.
 
 ### XCM
 
