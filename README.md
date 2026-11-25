@@ -200,6 +200,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polka Vault](https://signer.parity.io/) - Turn your smartphone into a hardware wallet.
 - [Fearless.io](https://fearlesswallet.io/) - The DeFi wallet for the future.
 - [SubWallet](https://www.subwallet.app/) - Comprehensive wallet for Polkadot and Substrate-based blockchains.
+- [Gem Wallet](https://gemwallet.com/) - Open-source, self-custodial multi-chain mobile wallet with Polkadot support.
 
 ### Web Wallets
 
